@@ -289,7 +289,7 @@ const THR    = DATA.threshold;
     with open(output_js_path, 'w', encoding='utf-8') as f:
         f.write(js_code)
     
-    print(f"✓ Datos generados exitosamente")
+    print(f"OK: Datos generados exitosamente")
     print(f"  - Respondentes globales: {int(glb['n'])}")
     print(f"  - Score promedio: {glb['avg']:.1f}%")
     print(f"  - Centros de distribución: {len(dcs)}")

@@ -37,37 +37,37 @@ const DATA = {
     },
     "moe": 1.7,
     "dims": {
-      "Orgullo & Compromiso": {
-        "avg": 90.12584296724471,
-        "fav": 87.07249518304432
-      },
-      "Comunicación": {
-        "avg": 88.70544315992292,
-        "fav": 85.13969171483622
-      },
-      "Reconocimiento": {
-        "avg": 86.64137764932562,
-        "fav": 80.9368978805395
-      },
-      "Liderazgo": {
-        "avg": 88.70504174694926,
-        "fav": 85.03532434168272
-      },
-      "Seguridad & Recursos": {
-        "avg": 90.33477842003853,
-        "fav": 88.30684007707129
+      "Satisfacción & eNPS": {
+        "avg": 89.84585741811175,
+        "fav": 87.22302504816956
       },
       "Cultura e Inclusión": {
         "avg": 88.75802825947335,
         "fav": 85.42870905587668
       },
+      "Orgullo & Compromiso": {
+        "avg": 90.12584296724471,
+        "fav": 87.07249518304432
+      },
       "Desarrollo Profesional": {
         "avg": 88.59104046242774,
         "fav": 84.83863198458575
       },
-      "Satisfacción & eNPS": {
-        "avg": 89.84585741811175,
-        "fav": 87.22302504816956
+      "Comunicación": {
+        "avg": 88.70544315992292,
+        "fav": 85.13969171483622
+      },
+      "Seguridad & Recursos": {
+        "avg": 90.33477842003853,
+        "fav": 88.30684007707129
+      },
+      "Liderazgo": {
+        "avg": 88.70504174694926,
+        "fav": 85.03532434168272
+      },
+      "Reconocimiento": {
+        "avg": 86.64137764932562,
+        "fav": 80.9368978805395
       }
     },
     "questions": {
@@ -333,37 +333,37 @@ const DATA = {
       "apto": 52,
       "reforzar": 4,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 95.66964285714286,
-          "fav": 97.32142857142857
-        },
-        "Comunicación": {
-          "avg": 94.46428571428571,
-          "fav": 94.64285714285714
-        },
-        "Reconocimiento": {
-          "avg": 91.16071428571429,
-          "fav": 87.5
-        },
-        "Liderazgo": {
-          "avg": 95.5952380952381,
-          "fav": 97.02380952380952
-        },
-        "Seguridad & Recursos": {
-          "avg": 95.40178571428571,
-          "fav": 96.875
+        "Satisfacción & eNPS": {
+          "avg": 96.16071428571429,
+          "fav": 98.21428571428571
         },
         "Cultura e Inclusión": {
           "avg": 94.28571428571429,
           "fav": 95.83333333333334
         },
+        "Orgullo & Compromiso": {
+          "avg": 95.66964285714286,
+          "fav": 97.32142857142857
+        },
         "Desarrollo Profesional": {
           "avg": 95.53571428571429,
           "fav": 98.21428571428571
         },
-        "Satisfacción & eNPS": {
-          "avg": 96.16071428571429,
-          "fav": 98.21428571428571
+        "Comunicación": {
+          "avg": 94.46428571428571,
+          "fav": 94.64285714285714
+        },
+        "Seguridad & Recursos": {
+          "avg": 95.40178571428571,
+          "fav": 96.875
+        },
+        "Liderazgo": {
+          "avg": 95.5952380952381,
+          "fav": 97.02380952380952
+        },
+        "Reconocimiento": {
+          "avg": 91.16071428571429,
+          "fav": 87.5
         }
       },
       "questions": {
@@ -2027,36 +2027,36 @@ const DATA = {
       "apto": 15,
       "reforzar": 0,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 95.83333333333333,
-          "fav": 100.0
-        },
-        "Comunicación": {
-          "avg": 93.66666666666667,
-          "fav": 93.33333333333333
-        },
-        "Reconocimiento": {
-          "avg": 96.0,
-          "fav": 100.0
-        },
-        "Liderazgo": {
-          "avg": 96.44444444444444,
-          "fav": 100.0
-        },
-        "Seguridad & Recursos": {
+        "Satisfacción & eNPS": {
           "avg": 95.33333333333333,
-          "fav": 98.33333333333333
+          "fav": 100.0
         },
         "Cultura e Inclusión": {
           "avg": 95.11111111111111,
           "fav": 97.77777777777777
         },
+        "Orgullo & Compromiso": {
+          "avg": 95.83333333333333,
+          "fav": 100.0
+        },
         "Desarrollo Profesional": {
           "avg": 93.66666666666667,
           "fav": 96.66666666666667
         },
-        "Satisfacción & eNPS": {
+        "Comunicación": {
+          "avg": 93.66666666666667,
+          "fav": 93.33333333333333
+        },
+        "Seguridad & Recursos": {
           "avg": 95.33333333333333,
+          "fav": 98.33333333333333
+        },
+        "Liderazgo": {
+          "avg": 96.44444444444444,
+          "fav": 100.0
+        },
+        "Reconocimiento": {
+          "avg": 96.0,
           "fav": 100.0
         }
       },
@@ -2945,37 +2945,37 @@ const DATA = {
       "apto": 98,
       "reforzar": 6,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 94.83173076923077,
-          "fav": 93.02884615384616
-        },
-        "Comunicación": {
-          "avg": 95.76923076923077,
-          "fav": 95.1923076923077
-        },
-        "Reconocimiento": {
-          "avg": 93.36538461538461,
-          "fav": 91.82692307692307
-        },
-        "Liderazgo": {
-          "avg": 95.99358974358974,
-          "fav": 96.7948717948718
-        },
-        "Seguridad & Recursos": {
-          "avg": 96.00961538461539,
-          "fav": 95.4326923076923
+        "Satisfacción & eNPS": {
+          "avg": 95.91346153846153,
+          "fav": 95.67307692307693
         },
         "Cultura e Inclusión": {
           "avg": 95.76923076923077,
           "fav": 95.51282051282051
         },
+        "Orgullo & Compromiso": {
+          "avg": 94.83173076923077,
+          "fav": 93.02884615384616
+        },
         "Desarrollo Profesional": {
           "avg": 94.375,
           "fav": 92.78846153846155
         },
-        "Satisfacción & eNPS": {
-          "avg": 95.91346153846153,
-          "fav": 95.67307692307693
+        "Comunicación": {
+          "avg": 95.76923076923077,
+          "fav": 95.1923076923077
+        },
+        "Seguridad & Recursos": {
+          "avg": 96.00961538461539,
+          "fav": 95.4326923076923
+        },
+        "Liderazgo": {
+          "avg": 95.99358974358974,
+          "fav": 96.7948717948718
+        },
+        "Reconocimiento": {
+          "avg": 93.36538461538461,
+          "fav": 91.82692307692307
         }
       },
       "questions": {
@@ -4833,37 +4833,37 @@ const DATA = {
       "apto": 8,
       "reforzar": 5,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 78.65384615384616,
-          "fav": 73.07692307692307
-        },
-        "Comunicación": {
-          "avg": 72.6923076923077,
-          "fav": 61.53846153846154
-        },
-        "Reconocimiento": {
-          "avg": 70.76923076923077,
-          "fav": 65.38461538461539
-        },
-        "Liderazgo": {
-          "avg": 72.3076923076923,
-          "fav": 66.66666666666666
-        },
-        "Seguridad & Recursos": {
-          "avg": 75.96153846153847,
+        "Satisfacción & eNPS": {
+          "avg": 71.92307692307692,
           "fav": 69.23076923076923
         },
         "Cultura e Inclusión": {
           "avg": 66.15384615384616,
           "fav": 61.53846153846154
         },
+        "Orgullo & Compromiso": {
+          "avg": 78.65384615384616,
+          "fav": 73.07692307692307
+        },
         "Desarrollo Profesional": {
           "avg": 74.23076923076923,
           "fav": 69.23076923076923
         },
-        "Satisfacción & eNPS": {
-          "avg": 71.92307692307692,
+        "Comunicación": {
+          "avg": 72.6923076923077,
+          "fav": 61.53846153846154
+        },
+        "Seguridad & Recursos": {
+          "avg": 75.96153846153847,
           "fav": 69.23076923076923
+        },
+        "Liderazgo": {
+          "avg": 72.3076923076923,
+          "fav": 66.66666666666666
+        },
+        "Reconocimiento": {
+          "avg": 70.76923076923077,
+          "fav": 65.38461538461539
         }
       },
       "questions": {
@@ -5363,37 +5363,37 @@ const DATA = {
       "apto": 121,
       "reforzar": 2,
       "dims": {
+        "Satisfacción & eNPS": {
+          "avg": 98.86178861788618,
+          "fav": 100.0
+        },
+        "Cultura e Inclusión": {
+          "avg": 98.9159891598916,
+          "fav": 99.1869918699187
+        },
         "Orgullo & Compromiso": {
           "avg": 98.76016260162602,
           "fav": 99.79674796747967
         },
-        "Comunicación": {
-          "avg": 97.92682926829268,
+        "Desarrollo Profesional": {
+          "avg": 98.33333333333333,
           "fav": 98.3739837398374
         },
-        "Reconocimiento": {
-          "avg": 98.3739837398374,
-          "fav": 98.78048780487805
-        },
-        "Liderazgo": {
-          "avg": 98.53658536585365,
+        "Comunicación": {
+          "avg": 97.92682926829268,
           "fav": 98.3739837398374
         },
         "Seguridad & Recursos": {
           "avg": 98.82113821138212,
           "fav": 99.39024390243902
         },
-        "Cultura e Inclusión": {
-          "avg": 98.9159891598916,
-          "fav": 99.1869918699187
-        },
-        "Desarrollo Profesional": {
-          "avg": 98.33333333333333,
+        "Liderazgo": {
+          "avg": 98.53658536585365,
           "fav": 98.3739837398374
         },
-        "Satisfacción & eNPS": {
-          "avg": 98.86178861788618,
-          "fav": 100.0
+        "Reconocimiento": {
+          "avg": 98.3739837398374,
+          "fav": 98.78048780487805
         }
       },
       "questions": {
@@ -7154,36 +7154,36 @@ const DATA = {
       "apto": 1,
       "reforzar": 1,
       "dims": {
+        "Satisfacción & eNPS": {
+          "avg": 85.0,
+          "fav": 75.0
+        },
+        "Cultura e Inclusión": {
+          "avg": 48.333333333333336,
+          "fav": 50.0
+        },
         "Orgullo & Compromiso": {
           "avg": 92.5,
           "fav": 100.0
         },
-        "Comunicación": {
-          "avg": 62.5,
+        "Desarrollo Profesional": {
+          "avg": 55.0,
           "fav": 50.0
         },
-        "Reconocimiento": {
-          "avg": 77.5,
-          "fav": 75.0
-        },
-        "Liderazgo": {
-          "avg": 45.0,
+        "Comunicación": {
+          "avg": 62.5,
           "fav": 50.0
         },
         "Seguridad & Recursos": {
           "avg": 85.0,
           "fav": 87.5
         },
-        "Cultura e Inclusión": {
-          "avg": 48.333333333333336,
+        "Liderazgo": {
+          "avg": 45.0,
           "fav": 50.0
         },
-        "Desarrollo Profesional": {
-          "avg": 55.0,
-          "fav": 50.0
-        },
-        "Satisfacción & eNPS": {
-          "avg": 85.0,
+        "Reconocimiento": {
+          "avg": 77.5,
           "fav": 75.0
         }
       },
@@ -7490,37 +7490,37 @@ const DATA = {
       "apto": 24,
       "reforzar": 4,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 95.625,
-          "fav": 97.32142857142857
-        },
-        "Comunicación": {
-          "avg": 90.17857142857143,
-          "fav": 83.92857142857143
-        },
-        "Reconocimiento": {
-          "avg": 88.39285714285714,
-          "fav": 85.71428571428571
-        },
-        "Liderazgo": {
+        "Satisfacción & eNPS": {
           "avg": 91.78571428571429,
-          "fav": 88.09523809523809
-        },
-        "Seguridad & Recursos": {
-          "avg": 93.03571428571429,
-          "fav": 91.07142857142857
+          "fav": 89.28571428571429
         },
         "Cultura e Inclusión": {
           "avg": 91.54761904761905,
           "fav": 88.09523809523809
         },
+        "Orgullo & Compromiso": {
+          "avg": 95.625,
+          "fav": 97.32142857142857
+        },
         "Desarrollo Profesional": {
           "avg": 88.39285714285714,
           "fav": 83.92857142857143
         },
-        "Satisfacción & eNPS": {
+        "Comunicación": {
+          "avg": 90.17857142857143,
+          "fav": 83.92857142857143
+        },
+        "Seguridad & Recursos": {
+          "avg": 93.03571428571429,
+          "fav": 91.07142857142857
+        },
+        "Liderazgo": {
           "avg": 91.78571428571429,
-          "fav": 89.28571428571429
+          "fav": 88.09523809523809
+        },
+        "Reconocimiento": {
+          "avg": 88.39285714285714,
+          "fav": 85.71428571428571
         }
       },
       "questions": {
@@ -8214,37 +8214,37 @@ const DATA = {
       "apto": 52,
       "reforzar": 13,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 91.46153846153847,
-          "fav": 85.38461538461539
-        },
-        "Comunicación": {
-          "avg": 87.0,
-          "fav": 79.23076923076923
-        },
-        "Reconocimiento": {
-          "avg": 85.6923076923077,
-          "fav": 76.15384615384615
-        },
-        "Liderazgo": {
-          "avg": 87.8974358974359,
-          "fav": 82.05128205128204
-        },
-        "Seguridad & Recursos": {
-          "avg": 89.3076923076923,
-          "fav": 83.84615384615385
+        "Satisfacción & eNPS": {
+          "avg": 89.0,
+          "fav": 81.53846153846153
         },
         "Cultura e Inclusión": {
           "avg": 86.25641025641026,
           "fav": 76.41025641025641
         },
+        "Orgullo & Compromiso": {
+          "avg": 91.46153846153847,
+          "fav": 85.38461538461539
+        },
         "Desarrollo Profesional": {
           "avg": 87.61538461538461,
           "fav": 79.23076923076923
         },
-        "Satisfacción & eNPS": {
-          "avg": 89.0,
-          "fav": 81.53846153846153
+        "Comunicación": {
+          "avg": 87.0,
+          "fav": 79.23076923076923
+        },
+        "Seguridad & Recursos": {
+          "avg": 89.3076923076923,
+          "fav": 83.84615384615385
+        },
+        "Liderazgo": {
+          "avg": 87.8974358974359,
+          "fav": 82.05128205128204
+        },
+        "Reconocimiento": {
+          "avg": 85.6923076923077,
+          "fav": 76.15384615384615
         }
       },
       "questions": {
@@ -9132,37 +9132,37 @@ const DATA = {
       "apto": 58,
       "reforzar": 1,
       "dims": {
+        "Satisfacción & eNPS": {
+          "avg": 98.98305084745763,
+          "fav": 98.30508474576271
+        },
+        "Cultura e Inclusión": {
+          "avg": 98.64406779661017,
+          "fav": 98.30508474576271
+        },
         "Orgullo & Compromiso": {
           "avg": 99.23728813559322,
+          "fav": 99.15254237288136
+        },
+        "Desarrollo Profesional": {
+          "avg": 99.49152542372882,
           "fav": 99.15254237288136
         },
         "Comunicación": {
           "avg": 99.0677966101695,
           "fav": 100.0
         },
-        "Reconocimiento": {
-          "avg": 98.22033898305085,
-          "fav": 97.45762711864407
+        "Seguridad & Recursos": {
+          "avg": 98.8135593220339,
+          "fav": 100.0
         },
         "Liderazgo": {
           "avg": 98.98305084745763,
           "fav": 98.30508474576271
         },
-        "Seguridad & Recursos": {
-          "avg": 98.8135593220339,
-          "fav": 100.0
-        },
-        "Cultura e Inclusión": {
-          "avg": 98.64406779661017,
-          "fav": 98.30508474576271
-        },
-        "Desarrollo Profesional": {
-          "avg": 99.49152542372882,
-          "fav": 99.15254237288136
-        },
-        "Satisfacción & eNPS": {
-          "avg": 98.98305084745763,
-          "fav": 98.30508474576271
+        "Reconocimiento": {
+          "avg": 98.22033898305085,
+          "fav": 97.45762711864407
         }
       },
       "questions": {
@@ -10535,37 +10535,37 @@ const DATA = {
       "apto": 71,
       "reforzar": 1,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 97.88194444444444,
-          "fav": 98.26388888888889
-        },
-        "Comunicación": {
-          "avg": 97.77777777777777,
-          "fav": 98.61111111111111
-        },
-        "Reconocimiento": {
-          "avg": 95.69444444444444,
-          "fav": 95.13888888888889
-        },
-        "Liderazgo": {
-          "avg": 97.22222222222223,
-          "fav": 97.22222222222221
-        },
-        "Seguridad & Recursos": {
-          "avg": 98.50694444444444,
+        "Satisfacción & eNPS": {
+          "avg": 98.68055555555556,
           "fav": 98.61111111111111
         },
         "Cultura e Inclusión": {
           "avg": 97.4074074074074,
           "fav": 96.29629629629629
         },
+        "Orgullo & Compromiso": {
+          "avg": 97.88194444444444,
+          "fav": 98.26388888888889
+        },
         "Desarrollo Profesional": {
           "avg": 97.5,
           "fav": 97.22222222222221
         },
-        "Satisfacción & eNPS": {
-          "avg": 98.68055555555556,
+        "Comunicación": {
+          "avg": 97.77777777777777,
           "fav": 98.61111111111111
+        },
+        "Seguridad & Recursos": {
+          "avg": 98.50694444444444,
+          "fav": 98.61111111111111
+        },
+        "Liderazgo": {
+          "avg": 97.22222222222223,
+          "fav": 97.22222222222221
+        },
+        "Reconocimiento": {
+          "avg": 95.69444444444444,
+          "fav": 95.13888888888889
         }
       },
       "questions": {
@@ -12132,37 +12132,37 @@ const DATA = {
       "apto": 130,
       "reforzar": 16,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 92.94520547945206,
-          "fav": 93.4931506849315
-        },
-        "Comunicación": {
-          "avg": 89.96575342465754,
-          "fav": 87.67123287671232
-        },
-        "Reconocimiento": {
-          "avg": 88.08219178082192,
-          "fav": 84.24657534246576
-        },
-        "Liderazgo": {
-          "avg": 91.32420091324201,
-          "fav": 89.72602739726028
-        },
-        "Seguridad & Recursos": {
-          "avg": 93.16780821917808,
-          "fav": 93.83561643835617
+        "Satisfacción & eNPS": {
+          "avg": 91.91780821917808,
+          "fav": 92.8082191780822
         },
         "Cultura e Inclusión": {
           "avg": 91.3013698630137,
           "fav": 89.49771689497716
         },
+        "Orgullo & Compromiso": {
+          "avg": 92.94520547945206,
+          "fav": 93.4931506849315
+        },
         "Desarrollo Profesional": {
           "avg": 90.85616438356165,
           "fav": 88.6986301369863
         },
-        "Satisfacción & eNPS": {
-          "avg": 91.91780821917808,
-          "fav": 92.8082191780822
+        "Comunicación": {
+          "avg": 89.96575342465754,
+          "fav": 87.67123287671232
+        },
+        "Seguridad & Recursos": {
+          "avg": 93.16780821917808,
+          "fav": 93.83561643835617
+        },
+        "Liderazgo": {
+          "avg": 91.32420091324201,
+          "fav": 89.72602739726028
+        },
+        "Reconocimiento": {
+          "avg": 88.08219178082192,
+          "fav": 84.24657534246576
         }
       },
       "questions": {
@@ -14020,37 +14020,37 @@ const DATA = {
       "apto": 57,
       "reforzar": 7,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 90.625,
-          "fav": 87.5
-        },
-        "Comunicación": {
-          "avg": 89.375,
+        "Satisfacción & eNPS": {
+          "avg": 91.328125,
           "fav": 89.0625
-        },
-        "Reconocimiento": {
-          "avg": 86.640625,
-          "fav": 81.25
-        },
-        "Liderazgo": {
-          "avg": 88.69791666666667,
-          "fav": 85.41666666666666
-        },
-        "Seguridad & Recursos": {
-          "avg": 91.7578125,
-          "fav": 89.84375
         },
         "Cultura e Inclusión": {
           "avg": 89.21875,
           "fav": 86.45833333333334
         },
+        "Orgullo & Compromiso": {
+          "avg": 90.625,
+          "fav": 87.5
+        },
         "Desarrollo Profesional": {
           "avg": 89.140625,
           "fav": 84.375
         },
-        "Satisfacción & eNPS": {
-          "avg": 91.328125,
+        "Comunicación": {
+          "avg": 89.375,
           "fav": 89.0625
+        },
+        "Seguridad & Recursos": {
+          "avg": 91.7578125,
+          "fav": 89.84375
+        },
+        "Liderazgo": {
+          "avg": 88.69791666666667,
+          "fav": 85.41666666666666
+        },
+        "Reconocimiento": {
+          "avg": 86.640625,
+          "fav": 81.25
         }
       },
       "questions": {
@@ -15617,23 +15617,7 @@ const DATA = {
       "apto": 1,
       "reforzar": 0,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
-        "Comunicación": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
-        "Reconocimiento": {
-          "avg": 90.0,
-          "fav": 100.0
-        },
-        "Liderazgo": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
-        "Seguridad & Recursos": {
+        "Satisfacción & eNPS": {
           "avg": 100.0,
           "fav": 100.0
         },
@@ -15641,12 +15625,28 @@ const DATA = {
           "avg": 100.0,
           "fav": 100.0
         },
+        "Orgullo & Compromiso": {
+          "avg": 100.0,
+          "fav": 100.0
+        },
         "Desarrollo Profesional": {
           "avg": 90.0,
           "fav": 100.0
         },
-        "Satisfacción & eNPS": {
+        "Comunicación": {
           "avg": 100.0,
+          "fav": 100.0
+        },
+        "Seguridad & Recursos": {
+          "avg": 100.0,
+          "fav": 100.0
+        },
+        "Liderazgo": {
+          "avg": 100.0,
+          "fav": 100.0
+        },
+        "Reconocimiento": {
+          "avg": 90.0,
           "fav": 100.0
         }
       },
@@ -15856,37 +15856,37 @@ const DATA = {
       "apto": 67,
       "reforzar": 20,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 89.91379310344827,
-          "fav": 84.77011494252874
-        },
-        "Comunicación": {
-          "avg": 87.93103448275862,
-          "fav": 82.18390804597702
-        },
-        "Reconocimiento": {
-          "avg": 84.36781609195403,
-          "fav": 77.58620689655173
-        },
-        "Liderazgo": {
-          "avg": 85.47892720306514,
-          "fav": 79.6934865900383
-        },
-        "Seguridad & Recursos": {
-          "avg": 88.85057471264368,
-          "fav": 84.19540229885058
+        "Satisfacción & eNPS": {
+          "avg": 89.71264367816092,
+          "fav": 85.63218390804597
         },
         "Cultura e Inclusión": {
           "avg": 86.66666666666667,
           "fav": 82.75862068965517
         },
+        "Orgullo & Compromiso": {
+          "avg": 89.91379310344827,
+          "fav": 84.77011494252874
+        },
         "Desarrollo Profesional": {
           "avg": 87.52873563218391,
           "fav": 83.9080459770115
         },
-        "Satisfacción & eNPS": {
-          "avg": 89.71264367816092,
-          "fav": 85.63218390804597
+        "Comunicación": {
+          "avg": 87.93103448275862,
+          "fav": 82.18390804597702
+        },
+        "Seguridad & Recursos": {
+          "avg": 88.85057471264368,
+          "fav": 84.19540229885058
+        },
+        "Liderazgo": {
+          "avg": 85.47892720306514,
+          "fav": 79.6934865900383
+        },
+        "Reconocimiento": {
+          "avg": 84.36781609195403,
+          "fav": 77.58620689655173
         }
       },
       "questions": {
@@ -17162,37 +17162,37 @@ const DATA = {
       "apto": 86,
       "reforzar": 11,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 91.46907216494846,
-          "fav": 90.4639175257732
-        },
-        "Comunicación": {
-          "avg": 89.48453608247422,
-          "fav": 89.17525773195877
-        },
-        "Reconocimiento": {
-          "avg": 87.9381443298969,
-          "fav": 84.02061855670104
-        },
-        "Liderazgo": {
-          "avg": 91.78694158075601,
-          "fav": 91.40893470790378
-        },
-        "Seguridad & Recursos": {
-          "avg": 92.9381443298969,
-          "fav": 93.04123711340206
+        "Satisfacción & eNPS": {
+          "avg": 91.23711340206185,
+          "fav": 91.23711340206185
         },
         "Cultura e Inclusión": {
           "avg": 89.106529209622,
           "fav": 88.65979381443299
         },
+        "Orgullo & Compromiso": {
+          "avg": 91.46907216494846,
+          "fav": 90.4639175257732
+        },
         "Desarrollo Profesional": {
           "avg": 89.69072164948453,
           "fav": 90.20618556701031
         },
-        "Satisfacción & eNPS": {
-          "avg": 91.23711340206185,
-          "fav": 91.23711340206185
+        "Comunicación": {
+          "avg": 89.48453608247422,
+          "fav": 89.17525773195877
+        },
+        "Seguridad & Recursos": {
+          "avg": 92.9381443298969,
+          "fav": 93.04123711340206
+        },
+        "Liderazgo": {
+          "avg": 91.78694158075601,
+          "fav": 91.40893470790378
+        },
+        "Reconocimiento": {
+          "avg": 87.9381443298969,
+          "fav": 84.02061855670104
         }
       },
       "questions": {
@@ -18856,23 +18856,7 @@ const DATA = {
       "apto": 1,
       "reforzar": 0,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
-        "Comunicación": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
-        "Reconocimiento": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
-        "Liderazgo": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
-        "Seguridad & Recursos": {
+        "Satisfacción & eNPS": {
           "avg": 100.0,
           "fav": 100.0
         },
@@ -18880,11 +18864,27 @@ const DATA = {
           "avg": 100.0,
           "fav": 100.0
         },
+        "Orgullo & Compromiso": {
+          "avg": 100.0,
+          "fav": 100.0
+        },
         "Desarrollo Profesional": {
           "avg": 100.0,
           "fav": 100.0
         },
-        "Satisfacción & eNPS": {
+        "Comunicación": {
+          "avg": 100.0,
+          "fav": 100.0
+        },
+        "Seguridad & Recursos": {
+          "avg": 100.0,
+          "fav": 100.0
+        },
+        "Liderazgo": {
+          "avg": 100.0,
+          "fav": 100.0
+        },
+        "Reconocimiento": {
           "avg": 100.0,
           "fav": 100.0
         }
@@ -19095,37 +19095,37 @@ const DATA = {
       "apto": 150,
       "reforzar": 44,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 89.25257731958763,
-          "fav": 84.92268041237114
-        },
-        "Comunicación": {
-          "avg": 85.30927835051547,
-          "fav": 78.8659793814433
-        },
-        "Reconocimiento": {
-          "avg": 80.79896907216495,
-          "fav": 69.0721649484536
-        },
-        "Liderazgo": {
-          "avg": 86.25429553264605,
-          "fav": 79.89690721649485
-        },
-        "Seguridad & Recursos": {
-          "avg": 88.47938144329896,
-          "fav": 82.86082474226805
+        "Satisfacción & eNPS": {
+          "avg": 87.73195876288659,
+          "fav": 82.21649484536083
         },
         "Cultura e Inclusión": {
           "avg": 84.93127147766323,
           "fav": 78.52233676975945
         },
+        "Orgullo & Compromiso": {
+          "avg": 89.25257731958763,
+          "fav": 84.92268041237114
+        },
         "Desarrollo Profesional": {
           "avg": 85.33505154639175,
           "fav": 77.31958762886599
         },
-        "Satisfacción & eNPS": {
-          "avg": 87.73195876288659,
-          "fav": 82.21649484536083
+        "Comunicación": {
+          "avg": 85.30927835051547,
+          "fav": 78.8659793814433
+        },
+        "Seguridad & Recursos": {
+          "avg": 88.47938144329896,
+          "fav": 82.86082474226805
+        },
+        "Liderazgo": {
+          "avg": 86.25429553264605,
+          "fav": 79.89690721649485
+        },
+        "Reconocimiento": {
+          "avg": 80.79896907216495,
+          "fav": 69.0721649484536
         }
       },
       "questions": {
@@ -20983,37 +20983,37 @@ const DATA = {
       "apto": 89,
       "reforzar": 19,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 88.95833333333333,
-          "fav": 87.5
-        },
-        "Comunicación": {
-          "avg": 87.31481481481481,
-          "fav": 83.33333333333334
-        },
-        "Reconocimiento": {
-          "avg": 85.04629629629629,
-          "fav": 78.70370370370371
-        },
-        "Liderazgo": {
-          "avg": 87.00617283950618,
-          "fav": 83.64197530864197
-        },
-        "Seguridad & Recursos": {
-          "avg": 89.97685185185185,
-          "fav": 88.88888888888889
+        "Satisfacción & eNPS": {
+          "avg": 88.19444444444444,
+          "fav": 86.11111111111111
         },
         "Cultura e Inclusión": {
           "avg": 87.12962962962963,
           "fav": 83.64197530864197
         },
+        "Orgullo & Compromiso": {
+          "avg": 88.95833333333333,
+          "fav": 87.5
+        },
         "Desarrollo Profesional": {
           "avg": 86.38888888888889,
           "fav": 80.55555555555556
         },
-        "Satisfacción & eNPS": {
-          "avg": 88.19444444444444,
-          "fav": 86.11111111111111
+        "Comunicación": {
+          "avg": 87.31481481481481,
+          "fav": 83.33333333333334
+        },
+        "Seguridad & Recursos": {
+          "avg": 89.97685185185185,
+          "fav": 88.88888888888889
+        },
+        "Liderazgo": {
+          "avg": 87.00617283950618,
+          "fav": 83.64197530864197
+        },
+        "Reconocimiento": {
+          "avg": 85.04629629629629,
+          "fav": 78.70370370370371
         }
       },
       "questions": {
@@ -22774,37 +22774,37 @@ const DATA = {
       "apto": 176,
       "reforzar": 85,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 84.56896551724138,
-          "fav": 73.18007662835248
-        },
-        "Comunicación": {
-          "avg": 87.79693486590038,
-          "fav": 78.73563218390804
-        },
-        "Reconocimiento": {
-          "avg": 86.87739463601532,
-          "fav": 77.77777777777779
-        },
-        "Liderazgo": {
-          "avg": 86.89655172413794,
-          "fav": 77.52234993614304
-        },
-        "Seguridad & Recursos": {
-          "avg": 86.82950191570882,
-          "fav": 77.20306513409962
+        "Satisfacción & eNPS": {
+          "avg": 87.37547892720306,
+          "fav": 77.39463601532567
         },
         "Cultura e Inclusión": {
           "avg": 87.08812260536398,
           "fav": 78.28863346104725
         },
+        "Orgullo & Compromiso": {
+          "avg": 84.56896551724138,
+          "fav": 73.18007662835248
+        },
         "Desarrollo Profesional": {
           "avg": 86.36015325670498,
           "fav": 76.62835249042146
         },
-        "Satisfacción & eNPS": {
-          "avg": 87.37547892720306,
-          "fav": 77.39463601532567
+        "Comunicación": {
+          "avg": 87.79693486590038,
+          "fav": 78.73563218390804
+        },
+        "Seguridad & Recursos": {
+          "avg": 86.82950191570882,
+          "fav": 77.20306513409962
+        },
+        "Liderazgo": {
+          "avg": 86.89655172413794,
+          "fav": 77.52234993614304
+        },
+        "Reconocimiento": {
+          "avg": 86.87739463601532,
+          "fav": 77.77777777777779
         }
       },
       "questions": {
@@ -23886,37 +23886,37 @@ const DATA = {
       "apto": 157,
       "reforzar": 19,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 94.47443181818181,
-          "fav": 92.32954545454545
-        },
-        "Comunicación": {
-          "avg": 92.8125,
-          "fav": 88.35227272727273
-        },
-        "Reconocimiento": {
-          "avg": 90.42613636363636,
-          "fav": 82.67045454545455
-        },
-        "Liderazgo": {
-          "avg": 93.88257575757575,
-          "fav": 90.15151515151516
-        },
-        "Seguridad & Recursos": {
-          "avg": 94.74431818181819,
-          "fav": 91.9034090909091
+        "Satisfacción & eNPS": {
+          "avg": 93.66477272727273,
+          "fav": 90.05681818181817
         },
         "Cultura e Inclusión": {
           "avg": 91.83712121212122,
           "fav": 86.36363636363636
         },
+        "Orgullo & Compromiso": {
+          "avg": 94.47443181818181,
+          "fav": 92.32954545454545
+        },
         "Desarrollo Profesional": {
           "avg": 92.69886363636364,
           "fav": 89.77272727272727
         },
-        "Satisfacción & eNPS": {
-          "avg": 93.66477272727273,
-          "fav": 90.05681818181817
+        "Comunicación": {
+          "avg": 92.8125,
+          "fav": 88.35227272727273
+        },
+        "Seguridad & Recursos": {
+          "avg": 94.74431818181819,
+          "fav": 91.9034090909091
+        },
+        "Liderazgo": {
+          "avg": 93.88257575757575,
+          "fav": 90.15151515151516
+        },
+        "Reconocimiento": {
+          "avg": 90.42613636363636,
+          "fav": 82.67045454545455
         }
       },
       "questions": {
@@ -25774,37 +25774,37 @@ const DATA = {
       "apto": 45,
       "reforzar": 2,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 99.14893617021276,
-          "fav": 99.46808510638297
-        },
-        "Comunicación": {
-          "avg": 97.23404255319149,
-          "fav": 96.80851063829788
-        },
-        "Reconocimiento": {
-          "avg": 97.34042553191489,
-          "fav": 96.80851063829788
-        },
-        "Liderazgo": {
-          "avg": 94.822695035461,
-          "fav": 91.48936170212765
-        },
-        "Seguridad & Recursos": {
-          "avg": 97.6063829787234,
-          "fav": 96.27659574468085
+        "Satisfacción & eNPS": {
+          "avg": 97.44680851063829,
+          "fav": 95.74468085106383
         },
         "Cultura e Inclusión": {
           "avg": 97.51773049645391,
           "fav": 95.0354609929078
         },
+        "Orgullo & Compromiso": {
+          "avg": 99.14893617021276,
+          "fav": 99.46808510638297
+        },
         "Desarrollo Profesional": {
           "avg": 98.08510638297872,
           "fav": 96.80851063829788
         },
-        "Satisfacción & eNPS": {
-          "avg": 97.44680851063829,
-          "fav": 95.74468085106383
+        "Comunicación": {
+          "avg": 97.23404255319149,
+          "fav": 96.80851063829788
+        },
+        "Seguridad & Recursos": {
+          "avg": 97.6063829787234,
+          "fav": 96.27659574468085
+        },
+        "Liderazgo": {
+          "avg": 94.822695035461,
+          "fav": 91.48936170212765
+        },
+        "Reconocimiento": {
+          "avg": 97.34042553191489,
+          "fav": 96.80851063829788
         }
       },
       "questions": {
@@ -26983,37 +26983,37 @@ const DATA = {
       "apto": 141,
       "reforzar": 33,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 90.1580459770115,
-          "fav": 86.49425287356321
-        },
-        "Comunicación": {
-          "avg": 87.90229885057471,
-          "fav": 83.33333333333334
-        },
-        "Reconocimiento": {
-          "avg": 85.77586206896552,
-          "fav": 79.02298850574712
-        },
-        "Liderazgo": {
-          "avg": 89.04214559386973,
-          "fav": 83.9080459770115
-        },
-        "Seguridad & Recursos": {
-          "avg": 90.61781609195403,
-          "fav": 86.63793103448276
+        "Satisfacción & eNPS": {
+          "avg": 88.70689655172414,
+          "fav": 85.0574712643678
         },
         "Cultura e Inclusión": {
           "avg": 88.2183908045977,
           "fav": 82.95019157088123
         },
+        "Orgullo & Compromiso": {
+          "avg": 90.1580459770115,
+          "fav": 86.49425287356321
+        },
         "Desarrollo Profesional": {
           "avg": 89.13793103448276,
           "fav": 84.19540229885058
         },
-        "Satisfacción & eNPS": {
-          "avg": 88.70689655172414,
-          "fav": 85.0574712643678
+        "Comunicación": {
+          "avg": 87.90229885057471,
+          "fav": 83.33333333333334
+        },
+        "Seguridad & Recursos": {
+          "avg": 90.61781609195403,
+          "fav": 86.63793103448276
+        },
+        "Liderazgo": {
+          "avg": 89.04214559386973,
+          "fav": 83.9080459770115
+        },
+        "Reconocimiento": {
+          "avg": 85.77586206896552,
+          "fav": 79.02298850574712
         }
       },
       "questions": {
@@ -28677,37 +28677,37 @@ const DATA = {
       "apto": 37,
       "reforzar": 12,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 88.46938775510205,
+        "Satisfacción & eNPS": {
+          "avg": 88.26530612244898,
           "fav": 83.6734693877551
-        },
-        "Comunicación": {
-          "avg": 85.91836734693878,
-          "fav": 80.61224489795919
-        },
-        "Reconocimiento": {
-          "avg": 79.59183673469387,
-          "fav": 61.224489795918366
-        },
-        "Liderazgo": {
-          "avg": 87.68707482993197,
-          "fav": 80.95238095238095
-        },
-        "Seguridad & Recursos": {
-          "avg": 87.8061224489796,
-          "fav": 84.6938775510204
         },
         "Cultura e Inclusión": {
           "avg": 85.23809523809524,
           "fav": 76.19047619047619
         },
+        "Orgullo & Compromiso": {
+          "avg": 88.46938775510205,
+          "fav": 83.6734693877551
+        },
         "Desarrollo Profesional": {
           "avg": 86.0204081632653,
           "fav": 80.61224489795919
         },
-        "Satisfacción & eNPS": {
-          "avg": 88.26530612244898,
-          "fav": 83.6734693877551
+        "Comunicación": {
+          "avg": 85.91836734693878,
+          "fav": 80.61224489795919
+        },
+        "Seguridad & Recursos": {
+          "avg": 87.8061224489796,
+          "fav": 84.6938775510204
+        },
+        "Liderazgo": {
+          "avg": 87.68707482993197,
+          "fav": 80.95238095238095
+        },
+        "Reconocimiento": {
+          "avg": 79.59183673469387,
+          "fav": 61.224489795918366
         }
       },
       "questions": {
@@ -29886,37 +29886,37 @@ const DATA = {
       "apto": 79,
       "reforzar": 4,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 94.63855421686748,
-          "fav": 95.18072289156626
-        },
-        "Comunicación": {
-          "avg": 94.63855421686748,
-          "fav": 98.19277108433735
-        },
-        "Reconocimiento": {
-          "avg": 90.06024096385542,
-          "fav": 89.1566265060241
-        },
-        "Liderazgo": {
-          "avg": 93.81526104417671,
-          "fav": 92.3694779116466
-        },
-        "Seguridad & Recursos": {
-          "avg": 96.20481927710843,
-          "fav": 96.98795180722891
+        "Satisfacción & eNPS": {
+          "avg": 94.81927710843374,
+          "fav": 95.78313253012048
         },
         "Cultura e Inclusión": {
           "avg": 93.01204819277109,
           "fav": 93.17269076305222
         },
+        "Orgullo & Compromiso": {
+          "avg": 94.63855421686748,
+          "fav": 95.18072289156626
+        },
         "Desarrollo Profesional": {
           "avg": 93.19277108433735,
           "fav": 93.37349397590361
         },
-        "Satisfacción & eNPS": {
-          "avg": 94.81927710843374,
-          "fav": 95.78313253012048
+        "Comunicación": {
+          "avg": 94.63855421686748,
+          "fav": 98.19277108433735
+        },
+        "Seguridad & Recursos": {
+          "avg": 96.20481927710843,
+          "fav": 96.98795180722891
+        },
+        "Liderazgo": {
+          "avg": 93.81526104417671,
+          "fav": 92.3694779116466
+        },
+        "Reconocimiento": {
+          "avg": 90.06024096385542,
+          "fav": 89.1566265060241
         }
       },
       "questions": {
@@ -31483,37 +31483,37 @@ const DATA = {
       "apto": 98,
       "reforzar": 11,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 93.18807339449542,
-          "fav": 94.4954128440367
-        },
-        "Comunicación": {
-          "avg": 92.33944954128441,
-          "fav": 93.57798165137615
-        },
-        "Reconocimiento": {
-          "avg": 88.89908256880734,
-          "fav": 86.23853211009175
-        },
-        "Liderazgo": {
-          "avg": 92.20183486238533,
-          "fav": 91.74311926605505
-        },
-        "Seguridad & Recursos": {
-          "avg": 94.05963302752293,
-          "fav": 94.4954128440367
+        "Satisfacción & eNPS": {
+          "avg": 91.8348623853211,
+          "fav": 92.66055045871559
         },
         "Cultura e Inclusión": {
           "avg": 91.80428134556576,
           "fav": 91.43730886850153
         },
+        "Orgullo & Compromiso": {
+          "avg": 93.18807339449542,
+          "fav": 94.4954128440367
+        },
         "Desarrollo Profesional": {
           "avg": 92.66055045871559,
           "fav": 93.11926605504587
         },
-        "Satisfacción & eNPS": {
-          "avg": 91.8348623853211,
-          "fav": 92.66055045871559
+        "Comunicación": {
+          "avg": 92.33944954128441,
+          "fav": 93.57798165137615
+        },
+        "Seguridad & Recursos": {
+          "avg": 94.05963302752293,
+          "fav": 94.4954128440367
+        },
+        "Liderazgo": {
+          "avg": 92.20183486238533,
+          "fav": 91.74311926605505
+        },
+        "Reconocimiento": {
+          "avg": 88.89908256880734,
+          "fav": 86.23853211009175
         }
       },
       "questions": {
@@ -33371,37 +33371,37 @@ const DATA = {
       "apto": 178,
       "reforzar": 28,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 83.54368932038835,
-          "fav": 96.48058252427184
-        },
-        "Comunicación": {
-          "avg": 83.83495145631068,
-          "fav": 97.33009708737865
-        },
-        "Reconocimiento": {
-          "avg": 83.47087378640776,
-          "fav": 95.3883495145631
-        },
-        "Liderazgo": {
-          "avg": 83.46278317152104,
-          "fav": 96.92556634304206
-        },
-        "Seguridad & Recursos": {
-          "avg": 83.58009708737865,
-          "fav": 97.69417475728154
+        "Satisfacción & eNPS": {
+          "avg": 83.56796116504854,
+          "fav": 98.05825242718447
         },
         "Cultura e Inclusión": {
           "avg": 83.85113268608414,
           "fav": 97.89644012944983
         },
+        "Orgullo & Compromiso": {
+          "avg": 83.54368932038835,
+          "fav": 96.48058252427184
+        },
         "Desarrollo Profesional": {
           "avg": 83.30097087378641,
           "fav": 96.35922330097088
         },
-        "Satisfacción & eNPS": {
-          "avg": 83.56796116504854,
-          "fav": 98.05825242718447
+        "Comunicación": {
+          "avg": 83.83495145631068,
+          "fav": 97.33009708737865
+        },
+        "Seguridad & Recursos": {
+          "avg": 83.58009708737865,
+          "fav": 97.69417475728154
+        },
+        "Liderazgo": {
+          "avg": 83.46278317152104,
+          "fav": 96.92556634304206
+        },
+        "Reconocimiento": {
+          "avg": 83.47087378640776,
+          "fav": 95.3883495145631
         }
       },
       "questions": {
@@ -34968,37 +34968,37 @@ const DATA = {
       "apto": 54,
       "reforzar": 2,
       "dims": {
+        "Satisfacción & eNPS": {
+          "avg": 91.69642857142857,
+          "fav": 91.96428571428571
+        },
+        "Cultura e Inclusión": {
+          "avg": 93.0952380952381,
+          "fav": 93.45238095238095
+        },
         "Orgullo & Compromiso": {
           "avg": 93.48214285714286,
           "fav": 95.53571428571429
+        },
+        "Desarrollo Profesional": {
+          "avg": 90.44642857142857,
+          "fav": 89.28571428571429
         },
         "Comunicación": {
           "avg": 93.03571428571429,
           "fav": 91.07142857142857
         },
-        "Reconocimiento": {
-          "avg": 93.39285714285714,
+        "Seguridad & Recursos": {
+          "avg": 94.15178571428571,
           "fav": 95.53571428571429
         },
         "Liderazgo": {
           "avg": 92.61904761904762,
           "fav": 95.83333333333334
         },
-        "Seguridad & Recursos": {
-          "avg": 94.15178571428571,
+        "Reconocimiento": {
+          "avg": 93.39285714285714,
           "fav": 95.53571428571429
-        },
-        "Cultura e Inclusión": {
-          "avg": 93.0952380952381,
-          "fav": 93.45238095238095
-        },
-        "Desarrollo Profesional": {
-          "avg": 90.44642857142857,
-          "fav": 89.28571428571429
-        },
-        "Satisfacción & eNPS": {
-          "avg": 91.69642857142857,
-          "fav": 91.96428571428571
         }
       },
       "questions": {
@@ -36565,37 +36565,37 @@ const DATA = {
       "apto": 53,
       "reforzar": 9,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 92.90322580645162,
-          "fav": 89.91935483870968
-        },
-        "Comunicación": {
-          "avg": 89.11290322580645,
-          "fav": 86.29032258064517
-        },
-        "Reconocimiento": {
-          "avg": 87.33870967741936,
-          "fav": 81.45161290322581
-        },
-        "Liderazgo": {
-          "avg": 86.55913978494624,
-          "fav": 81.72043010752688
-        },
-        "Seguridad & Recursos": {
-          "avg": 93.30645161290323,
-          "fav": 92.74193548387096
+        "Satisfacción & eNPS": {
+          "avg": 92.5,
+          "fav": 89.51612903225806
         },
         "Cultura e Inclusión": {
           "avg": 88.44086021505376,
           "fav": 85.48387096774194
         },
+        "Orgullo & Compromiso": {
+          "avg": 92.90322580645162,
+          "fav": 89.91935483870968
+        },
         "Desarrollo Profesional": {
           "avg": 91.04838709677419,
           "fav": 88.70967741935483
         },
-        "Satisfacción & eNPS": {
-          "avg": 92.5,
-          "fav": 89.51612903225806
+        "Comunicación": {
+          "avg": 89.11290322580645,
+          "fav": 86.29032258064517
+        },
+        "Seguridad & Recursos": {
+          "avg": 93.30645161290323,
+          "fav": 92.74193548387096
+        },
+        "Liderazgo": {
+          "avg": 86.55913978494624,
+          "fav": 81.72043010752688
+        },
+        "Reconocimiento": {
+          "avg": 87.33870967741936,
+          "fav": 81.45161290322581
         }
       },
       "questions": {
@@ -38162,37 +38162,37 @@ const DATA = {
       "apto": 45,
       "reforzar": 5,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 95.25,
-          "fav": 91.5
-        },
-        "Comunicación": {
-          "avg": 92.1,
-          "fav": 90.0
-        },
-        "Reconocimiento": {
-          "avg": 92.7,
-          "fav": 87.0
-        },
-        "Liderazgo": {
-          "avg": 90.46666666666667,
-          "fav": 83.33333333333334
-        },
-        "Seguridad & Recursos": {
-          "avg": 94.0,
-          "fav": 89.5
+        "Satisfacción & eNPS": {
+          "avg": 95.2,
+          "fav": 91.0
         },
         "Cultura e Inclusión": {
           "avg": 91.0,
           "fav": 84.66666666666667
         },
+        "Orgullo & Compromiso": {
+          "avg": 95.25,
+          "fav": 91.5
+        },
         "Desarrollo Profesional": {
           "avg": 92.7,
           "fav": 88.0
         },
-        "Satisfacción & eNPS": {
-          "avg": 95.2,
-          "fav": 91.0
+        "Comunicación": {
+          "avg": 92.1,
+          "fav": 90.0
+        },
+        "Seguridad & Recursos": {
+          "avg": 94.0,
+          "fav": 89.5
+        },
+        "Liderazgo": {
+          "avg": 90.46666666666667,
+          "fav": 83.33333333333334
+        },
+        "Reconocimiento": {
+          "avg": 92.7,
+          "fav": 87.0
         }
       },
       "questions": {
@@ -38886,37 +38886,37 @@ const DATA = {
       "apto": 28,
       "reforzar": 1,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 93.10344827586206,
-          "fav": 94.82758620689656
-        },
-        "Comunicación": {
-          "avg": 90.51724137931035,
+        "Satisfacción & eNPS": {
+          "avg": 91.20689655172414,
           "fav": 91.37931034482759
-        },
-        "Reconocimiento": {
-          "avg": 88.96551724137932,
-          "fav": 86.20689655172413
-        },
-        "Liderazgo": {
-          "avg": 90.22988505747126,
-          "fav": 89.65517241379311
-        },
-        "Seguridad & Recursos": {
-          "avg": 92.41379310344827,
-          "fav": 95.6896551724138
         },
         "Cultura e Inclusión": {
           "avg": 91.83908045977012,
           "fav": 95.40229885057471
         },
+        "Orgullo & Compromiso": {
+          "avg": 93.10344827586206,
+          "fav": 94.82758620689656
+        },
         "Desarrollo Profesional": {
           "avg": 92.06896551724138,
           "fav": 91.37931034482759
         },
-        "Satisfacción & eNPS": {
-          "avg": 91.20689655172414,
+        "Comunicación": {
+          "avg": 90.51724137931035,
           "fav": 91.37931034482759
+        },
+        "Seguridad & Recursos": {
+          "avg": 92.41379310344827,
+          "fav": 95.6896551724138
+        },
+        "Liderazgo": {
+          "avg": 90.22988505747126,
+          "fav": 89.65517241379311
+        },
+        "Reconocimiento": {
+          "avg": 88.96551724137932,
+          "fav": 86.20689655172413
         }
       },
       "questions": {
@@ -40095,37 +40095,37 @@ const DATA = {
       "apto": 53,
       "reforzar": 17,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 90.60714285714286,
-          "fav": 85.71428571428571
-        },
-        "Comunicación": {
-          "avg": 87.0,
-          "fav": 76.42857142857142
-        },
-        "Reconocimiento": {
-          "avg": 84.92857142857143,
-          "fav": 73.57142857142858
-        },
-        "Liderazgo": {
-          "avg": 81.33333333333333,
-          "fav": 70.47619047619048
-        },
-        "Seguridad & Recursos": {
-          "avg": 90.10714285714286,
-          "fav": 85.35714285714285
+        "Satisfacción & eNPS": {
+          "avg": 91.64285714285714,
+          "fav": 85.0
         },
         "Cultura e Inclusión": {
           "avg": 89.14285714285714,
           "fav": 82.38095238095238
         },
+        "Orgullo & Compromiso": {
+          "avg": 90.60714285714286,
+          "fav": 85.71428571428571
+        },
         "Desarrollo Profesional": {
           "avg": 85.35714285714286,
           "fav": 78.57142857142857
         },
-        "Satisfacción & eNPS": {
-          "avg": 91.64285714285714,
-          "fav": 85.0
+        "Comunicación": {
+          "avg": 87.0,
+          "fav": 76.42857142857142
+        },
+        "Seguridad & Recursos": {
+          "avg": 90.10714285714286,
+          "fav": 85.35714285714285
+        },
+        "Liderazgo": {
+          "avg": 81.33333333333333,
+          "fav": 70.47619047619048
+        },
+        "Reconocimiento": {
+          "avg": 84.92857142857143,
+          "fav": 73.57142857142858
         }
       },
       "questions": {
@@ -41498,37 +41498,37 @@ const DATA = {
       "apto": 7,
       "reforzar": 0,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 97.14285714285714,
-          "fav": 100.0
-        },
-        "Comunicación": {
-          "avg": 97.85714285714286,
-          "fav": 100.0
-        },
-        "Reconocimiento": {
-          "avg": 88.57142857142857,
-          "fav": 85.71428571428571
-        },
-        "Liderazgo": {
+        "Satisfacción & eNPS": {
           "avg": 100.0,
-          "fav": 100.0
-        },
-        "Seguridad & Recursos": {
-          "avg": 98.92857142857143,
           "fav": 100.0
         },
         "Cultura e Inclusión": {
           "avg": 96.19047619047619,
           "fav": 100.0
         },
+        "Orgullo & Compromiso": {
+          "avg": 97.14285714285714,
+          "fav": 100.0
+        },
         "Desarrollo Profesional": {
           "avg": 97.85714285714286,
           "fav": 100.0
         },
-        "Satisfacción & eNPS": {
+        "Comunicación": {
+          "avg": 97.85714285714286,
+          "fav": 100.0
+        },
+        "Seguridad & Recursos": {
+          "avg": 98.92857142857143,
+          "fav": 100.0
+        },
+        "Liderazgo": {
           "avg": 100.0,
           "fav": 100.0
+        },
+        "Reconocimiento": {
+          "avg": 88.57142857142857,
+          "fav": 85.71428571428571
         }
       },
       "questions": {
@@ -41834,37 +41834,37 @@ const DATA = {
       "apto": 173,
       "reforzar": 82,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 81.53921568627452,
-          "fav": 70.7843137254902
-        },
-        "Comunicación": {
-          "avg": 81.29411764705883,
-          "fav": 70.7843137254902
-        },
-        "Reconocimiento": {
-          "avg": 78.27450980392157,
-          "fav": 62.745098039215684
-        },
-        "Liderazgo": {
-          "avg": 81.93464052287581,
-          "fav": 72.54901960784314
-        },
-        "Seguridad & Recursos": {
-          "avg": 84.53921568627452,
-          "fav": 83.13725490196079
+        "Satisfacción & eNPS": {
+          "avg": 83.52941176470588,
+          "fav": 80.7843137254902
         },
         "Cultura e Inclusión": {
           "avg": 82.58823529411765,
           "fav": 76.47058823529412
         },
+        "Orgullo & Compromiso": {
+          "avg": 81.53921568627452,
+          "fav": 70.7843137254902
+        },
         "Desarrollo Profesional": {
           "avg": 81.58823529411765,
           "fav": 74.90196078431373
         },
-        "Satisfacción & eNPS": {
-          "avg": 83.52941176470588,
-          "fav": 80.7843137254902
+        "Comunicación": {
+          "avg": 81.29411764705883,
+          "fav": 70.7843137254902
+        },
+        "Seguridad & Recursos": {
+          "avg": 84.53921568627452,
+          "fav": 83.13725490196079
+        },
+        "Liderazgo": {
+          "avg": 81.93464052287581,
+          "fav": 72.54901960784314
+        },
+        "Reconocimiento": {
+          "avg": 78.27450980392157,
+          "fav": 62.745098039215684
         }
       },
       "questions": {
@@ -43334,37 +43334,37 @@ const DATA = {
       "apto": 71,
       "reforzar": 26,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 90.28350515463917,
-          "fav": 85.05154639175258
-        },
-        "Comunicación": {
-          "avg": 84.02061855670104,
-          "fav": 71.64948453608247
-        },
-        "Reconocimiento": {
-          "avg": 81.95876288659794,
-          "fav": 73.19587628865979
-        },
-        "Liderazgo": {
-          "avg": 85.01718213058419,
-          "fav": 74.5704467353952
-        },
-        "Seguridad & Recursos": {
-          "avg": 85.95360824742268,
-          "fav": 78.6082474226804
+        "Satisfacción & eNPS": {
+          "avg": 88.4020618556701,
+          "fav": 84.02061855670104
         },
         "Cultura e Inclusión": {
           "avg": 86.90721649484536,
           "fav": 79.72508591065292
         },
+        "Orgullo & Compromiso": {
+          "avg": 90.28350515463917,
+          "fav": 85.05154639175258
+        },
         "Desarrollo Profesional": {
           "avg": 86.90721649484536,
           "fav": 80.9278350515464
         },
-        "Satisfacción & eNPS": {
-          "avg": 88.4020618556701,
-          "fav": 84.02061855670104
+        "Comunicación": {
+          "avg": 84.02061855670104,
+          "fav": 71.64948453608247
+        },
+        "Seguridad & Recursos": {
+          "avg": 85.95360824742268,
+          "fav": 78.6082474226804
+        },
+        "Liderazgo": {
+          "avg": 85.01718213058419,
+          "fav": 74.5704467353952
+        },
+        "Reconocimiento": {
+          "avg": 81.95876288659794,
+          "fav": 73.19587628865979
         }
       },
       "questions": {
@@ -44252,37 +44252,37 @@ const DATA = {
       "apto": 64,
       "reforzar": 16,
       "dims": {
-        "Orgullo & Compromiso": {
+        "Satisfacción & eNPS": {
           "avg": 92.375,
-          "fav": 89.375
-        },
-        "Comunicación": {
-          "avg": 90.4375,
-          "fav": 83.125
-        },
-        "Reconocimiento": {
-          "avg": 85.5,
-          "fav": 77.5
-        },
-        "Liderazgo": {
-          "avg": 89.875,
-          "fav": 84.16666666666667
-        },
-        "Seguridad & Recursos": {
-          "avg": 91.46875,
-          "fav": 88.4375
+          "fav": 88.75
         },
         "Cultura e Inclusión": {
           "avg": 89.66666666666667,
           "fav": 85.0
         },
+        "Orgullo & Compromiso": {
+          "avg": 92.375,
+          "fav": 89.375
+        },
         "Desarrollo Profesional": {
           "avg": 89.4375,
           "fav": 81.875
         },
-        "Satisfacción & eNPS": {
-          "avg": 92.375,
-          "fav": 88.75
+        "Comunicación": {
+          "avg": 90.4375,
+          "fav": 83.125
+        },
+        "Seguridad & Recursos": {
+          "avg": 91.46875,
+          "fav": 88.4375
+        },
+        "Liderazgo": {
+          "avg": 89.875,
+          "fav": 84.16666666666667
+        },
+        "Reconocimiento": {
+          "avg": 85.5,
+          "fav": 77.5
         }
       },
       "questions": {
@@ -45170,37 +45170,37 @@ const DATA = {
       "apto": 40,
       "reforzar": 14,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 84.72222222222223,
+        "Satisfacción & eNPS": {
+          "avg": 83.61111111111111,
           "fav": 76.85185185185185
-        },
-        "Comunicación": {
-          "avg": 84.07407407407408,
-          "fav": 75.0
-        },
-        "Reconocimiento": {
-          "avg": 80.92592592592592,
-          "fav": 68.51851851851852
-        },
-        "Liderazgo": {
-          "avg": 88.70370370370371,
-          "fav": 83.33333333333334
-        },
-        "Seguridad & Recursos": {
-          "avg": 86.89814814814815,
-          "fav": 83.33333333333334
         },
         "Cultura e Inclusión": {
           "avg": 85.8641975308642,
           "fav": 79.01234567901234
         },
+        "Orgullo & Compromiso": {
+          "avg": 84.72222222222223,
+          "fav": 76.85185185185185
+        },
         "Desarrollo Profesional": {
           "avg": 82.87037037037037,
           "fav": 72.22222222222221
         },
-        "Satisfacción & eNPS": {
-          "avg": 83.61111111111111,
-          "fav": 76.85185185185185
+        "Comunicación": {
+          "avg": 84.07407407407408,
+          "fav": 75.0
+        },
+        "Seguridad & Recursos": {
+          "avg": 86.89814814814815,
+          "fav": 83.33333333333334
+        },
+        "Liderazgo": {
+          "avg": 88.70370370370371,
+          "fav": 83.33333333333334
+        },
+        "Reconocimiento": {
+          "avg": 80.92592592592592,
+          "fav": 68.51851851851852
         }
       },
       "questions": {
@@ -46185,37 +46185,37 @@ const DATA = {
       "apto": 176,
       "reforzar": 38,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 90.3855140186916,
-          "fav": 90.07009345794393
-        },
-        "Comunicación": {
-          "avg": 88.27102803738318,
-          "fav": 86.44859813084112
-        },
-        "Reconocimiento": {
-          "avg": 86.23831775700934,
-          "fav": 82.2429906542056
-        },
-        "Liderazgo": {
-          "avg": 88.61370716510903,
-          "fav": 87.69470404984425
-        },
-        "Seguridad & Recursos": {
-          "avg": 89.41588785046729,
-          "fav": 89.36915887850468
+        "Satisfacción & eNPS": {
+          "avg": 89.29906542056075,
+          "fav": 88.3177570093458
         },
         "Cultura e Inclusión": {
           "avg": 88.17757009345794,
           "fav": 86.7601246105919
         },
+        "Orgullo & Compromiso": {
+          "avg": 90.3855140186916,
+          "fav": 90.07009345794393
+        },
         "Desarrollo Profesional": {
           "avg": 87.99065420560747,
           "fav": 85.2803738317757
         },
-        "Satisfacción & eNPS": {
-          "avg": 89.29906542056075,
-          "fav": 88.3177570093458
+        "Comunicación": {
+          "avg": 88.27102803738318,
+          "fav": 86.44859813084112
+        },
+        "Seguridad & Recursos": {
+          "avg": 89.41588785046729,
+          "fav": 89.36915887850468
+        },
+        "Liderazgo": {
+          "avg": 88.61370716510903,
+          "fav": 87.69470404984425
+        },
+        "Reconocimiento": {
+          "avg": 86.23831775700934,
+          "fav": 82.2429906542056
         }
       },
       "questions": {
@@ -47879,37 +47879,37 @@ const DATA = {
       "apto": 343,
       "reforzar": 13,
       "dims": {
+        "Satisfacción & eNPS": {
+          "avg": 96.22191011235955,
+          "fav": 97.19101123595506
+        },
+        "Cultura e Inclusión": {
+          "avg": 95.33707865168539,
+          "fav": 95.78651685393258
+        },
         "Orgullo & Compromiso": {
           "avg": 96.27808988764045,
+          "fav": 97.0505617977528
+        },
+        "Desarrollo Profesional": {
+          "avg": 95.43539325842697,
           "fav": 97.0505617977528
         },
         "Comunicación": {
           "avg": 94.92977528089888,
           "fav": 96.20786516853933
         },
-        "Reconocimiento": {
-          "avg": 93.5252808988764,
-          "fav": 93.96067415730337
+        "Seguridad & Recursos": {
+          "avg": 96.10252808988764,
+          "fav": 97.89325842696628
         },
         "Liderazgo": {
           "avg": 95.98314606741573,
           "fav": 97.37827715355806
         },
-        "Seguridad & Recursos": {
-          "avg": 96.10252808988764,
-          "fav": 97.89325842696628
-        },
-        "Cultura e Inclusión": {
-          "avg": 95.33707865168539,
-          "fav": 95.78651685393258
-        },
-        "Desarrollo Profesional": {
-          "avg": 95.43539325842697,
-          "fav": 97.0505617977528
-        },
-        "Satisfacción & eNPS": {
-          "avg": 96.22191011235955,
-          "fav": 97.19101123595506
+        "Reconocimiento": {
+          "avg": 93.5252808988764,
+          "fav": 93.96067415730337
         }
       },
       "questions": {
@@ -49864,37 +49864,37 @@ const DATA = {
       "apto": 177,
       "reforzar": 130,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 81.9543973941368,
-          "fav": 67.99674267100977
-        },
-        "Comunicación": {
-          "avg": 82.39413680781759,
-          "fav": 72.80130293159608
-        },
-        "Reconocimiento": {
-          "avg": 80.3257328990228,
-          "fav": 66.93811074918567
-        },
-        "Liderazgo": {
-          "avg": 81.17263843648209,
-          "fav": 68.40390879478826
-        },
-        "Seguridad & Recursos": {
-          "avg": 82.28827361563518,
-          "fav": 70.27687296416939
+        "Satisfacción & eNPS": {
+          "avg": 81.77524429967427,
+          "fav": 67.26384364820846
         },
         "Cultura e Inclusión": {
           "avg": 81.72638436482085,
           "fav": 70.35830618892508
         },
+        "Orgullo & Compromiso": {
+          "avg": 81.9543973941368,
+          "fav": 67.99674267100977
+        },
         "Desarrollo Profesional": {
           "avg": 80.84690553745928,
           "fav": 66.12377850162866
         },
-        "Satisfacción & eNPS": {
-          "avg": 81.77524429967427,
-          "fav": 67.26384364820846
+        "Comunicación": {
+          "avg": 82.39413680781759,
+          "fav": 72.80130293159608
+        },
+        "Seguridad & Recursos": {
+          "avg": 82.28827361563518,
+          "fav": 70.27687296416939
+        },
+        "Liderazgo": {
+          "avg": 81.17263843648209,
+          "fav": 68.40390879478826
+        },
+        "Reconocimiento": {
+          "avg": 80.3257328990228,
+          "fav": 66.93811074918567
         }
       },
       "questions": {
@@ -51946,37 +51946,37 @@ const DATA = {
       "apto": 95,
       "reforzar": 41,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 85.20220588235294,
-          "fav": 79.77941176470588
-        },
-        "Comunicación": {
-          "avg": 81.7279411764706,
-          "fav": 74.26470588235294
-        },
-        "Reconocimiento": {
-          "avg": 80.36764705882354,
-          "fav": 72.79411764705883
-        },
-        "Liderazgo": {
-          "avg": 81.59313725490196,
-          "fav": 76.22549019607843
-        },
-        "Seguridad & Recursos": {
-          "avg": 85.625,
-          "fav": 81.80147058823529
+        "Satisfacción & eNPS": {
+          "avg": 83.63970588235294,
+          "fav": 79.04411764705883
         },
         "Cultura e Inclusión": {
           "avg": 82.15686274509804,
           "fav": 75.49019607843137
         },
+        "Orgullo & Compromiso": {
+          "avg": 85.20220588235294,
+          "fav": 79.77941176470588
+        },
         "Desarrollo Profesional": {
           "avg": 83.23529411764706,
           "fav": 76.83823529411765
         },
-        "Satisfacción & eNPS": {
-          "avg": 83.63970588235294,
-          "fav": 79.04411764705883
+        "Comunicación": {
+          "avg": 81.7279411764706,
+          "fav": 74.26470588235294
+        },
+        "Seguridad & Recursos": {
+          "avg": 85.625,
+          "fav": 81.80147058823529
+        },
+        "Liderazgo": {
+          "avg": 81.59313725490196,
+          "fav": 76.22549019607843
+        },
+        "Reconocimiento": {
+          "avg": 80.36764705882354,
+          "fav": 72.79411764705883
         }
       },
       "questions": {
@@ -53543,37 +53543,37 @@ const DATA = {
       "apto": 14,
       "reforzar": 16,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 88.66666666666667,
-          "fav": 85.83333333333333
-        },
-        "Comunicación": {
-          "avg": 76.0,
-          "fav": 58.333333333333336
-        },
-        "Reconocimiento": {
-          "avg": 77.16666666666667,
-          "fav": 61.66666666666667
-        },
-        "Liderazgo": {
-          "avg": 62.55555555555556,
-          "fav": 44.44444444444444
-        },
-        "Seguridad & Recursos": {
-          "avg": 83.41666666666667,
-          "fav": 79.16666666666666
+        "Satisfacción & eNPS": {
+          "avg": 80.5,
+          "fav": 71.66666666666667
         },
         "Cultura e Inclusión": {
           "avg": 79.77777777777777,
           "fav": 66.66666666666666
         },
+        "Orgullo & Compromiso": {
+          "avg": 88.66666666666667,
+          "fav": 85.83333333333333
+        },
         "Desarrollo Profesional": {
           "avg": 72.83333333333333,
           "fav": 56.666666666666664
         },
-        "Satisfacción & eNPS": {
-          "avg": 80.5,
-          "fav": 71.66666666666667
+        "Comunicación": {
+          "avg": 76.0,
+          "fav": 58.333333333333336
+        },
+        "Seguridad & Recursos": {
+          "avg": 83.41666666666667,
+          "fav": 79.16666666666666
+        },
+        "Liderazgo": {
+          "avg": 62.55555555555556,
+          "fav": 44.44444444444444
+        },
+        "Reconocimiento": {
+          "avg": 77.16666666666667,
+          "fav": 61.66666666666667
         }
       },
       "questions": {
@@ -54073,23 +54073,7 @@ const DATA = {
       "apto": 0,
       "reforzar": 1,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 77.5,
-          "fav": 75.0
-        },
-        "Comunicación": {
-          "avg": 80.0,
-          "fav": 100.0
-        },
-        "Reconocimiento": {
-          "avg": 0.0,
-          "fav": 0.0
-        },
-        "Liderazgo": {
-          "avg": 70.0,
-          "fav": 0.0
-        },
-        "Seguridad & Recursos": {
+        "Satisfacción & eNPS": {
           "avg": 80.0,
           "fav": 100.0
         },
@@ -54097,13 +54081,29 @@ const DATA = {
           "avg": 40.0,
           "fav": 33.33333333333333
         },
+        "Orgullo & Compromiso": {
+          "avg": 77.5,
+          "fav": 75.0
+        },
         "Desarrollo Profesional": {
           "avg": 80.0,
           "fav": 100.0
         },
-        "Satisfacción & eNPS": {
+        "Comunicación": {
           "avg": 80.0,
           "fav": 100.0
+        },
+        "Seguridad & Recursos": {
+          "avg": 80.0,
+          "fav": 100.0
+        },
+        "Liderazgo": {
+          "avg": 70.0,
+          "fav": 0.0
+        },
+        "Reconocimiento": {
+          "avg": 0.0,
+          "fav": 0.0
         }
       },
       "questions": {
@@ -54312,37 +54312,37 @@ const DATA = {
       "apto": 8,
       "reforzar": 0,
       "dims": {
-        "Orgullo & Compromiso": {
-          "avg": 96.875,
+        "Satisfacción & eNPS": {
+          "avg": 98.125,
           "fav": 93.75
-        },
-        "Comunicación": {
-          "avg": 92.5,
-          "fav": 87.5
-        },
-        "Reconocimiento": {
-          "avg": 87.5,
-          "fav": 68.75
-        },
-        "Liderazgo": {
-          "avg": 97.91666666666667,
-          "fav": 95.83333333333334
-        },
-        "Seguridad & Recursos": {
-          "avg": 91.875,
-          "fav": 90.625
         },
         "Cultura e Inclusión": {
           "avg": 98.33333333333333,
           "fav": 100.0
         },
+        "Orgullo & Compromiso": {
+          "avg": 96.875,
+          "fav": 93.75
+        },
         "Desarrollo Profesional": {
           "avg": 91.875,
           "fav": 87.5
         },
-        "Satisfacción & eNPS": {
-          "avg": 98.125,
-          "fav": 93.75
+        "Comunicación": {
+          "avg": 92.5,
+          "fav": 87.5
+        },
+        "Seguridad & Recursos": {
+          "avg": 91.875,
+          "fav": 90.625
+        },
+        "Liderazgo": {
+          "avg": 97.91666666666667,
+          "fav": 95.83333333333334
+        },
+        "Reconocimiento": {
+          "avg": 87.5,
+          "fav": 68.75
         }
       },
       "questions": {
@@ -55224,14 +55224,14 @@ const DATA = {
     }
   },
   "dims": [
-    "Orgullo & Compromiso",
-    "Comunicación",
-    "Reconocimiento",
-    "Liderazgo",
-    "Seguridad & Recursos",
+    "Satisfacción & eNPS",
     "Cultura e Inclusión",
+    "Orgullo & Compromiso",
     "Desarrollo Profesional",
-    "Satisfacción & eNPS"
+    "Comunicación",
+    "Seguridad & Recursos",
+    "Liderazgo",
+    "Reconocimiento"
   ],
   "qcols": [
     "Me siento orgulloso(a) de trabajar en la compañía",
