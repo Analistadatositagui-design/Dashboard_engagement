@@ -1,177 +1,177 @@
 const DATA = {
   "global": {
-    "avg": 89.17268786127168,
-    "fav": 81.71965317919076,
-    "n": 4152,
-    "apto": 3393,
-    "reforzar": 759,
+    "avg": 89.4511594944683,
+    "fav": 82.80640970116934,
+    "n": 4618,
+    "apto": 3824,
+    "reforzar": 794,
     "regional": {
       "Norte": {
-        "avg": 93.21732376655078,
-        "fav": 91.21236777868185,
-        "n": 1229,
-        "apto": 1121,
-        "reforzar": 108
+        "avg": 93.342467630335,
+        "fav": 91.55990957045968,
+        "n": 1327,
+        "apto": 1215,
+        "reforzar": 112
       },
       "Andes": {
-        "avg": 88.91053996339232,
-        "fav": 81.54362416107382,
-        "n": 1192,
-        "apto": 972,
+        "avg": 89.47494033412887,
+        "fav": 82.49801113762928,
+        "n": 1257,
+        "apto": 1037,
         "reforzar": 220
       },
       "Centro": {
-        "avg": 86.87863287607533,
-        "fav": 76.8542199488491,
-        "n": 782,
-        "apto": 601,
-        "reforzar": 181
+        "avg": 87.365722231879,
+        "fav": 80.11472275334609,
+        "n": 1046,
+        "apto": 838,
+        "reforzar": 208
       },
       "Sur": {
-        "avg": 86.15432512692786,
-        "fav": 73.65648050579557,
-        "n": 949,
-        "apto": 699,
-        "reforzar": 250
+        "avg": 86.40228192859772,
+        "fav": 74.2914979757085,
+        "n": 988,
+        "apto": 734,
+        "reforzar": 254
       }
     },
     "moe": 1.7,
     "dims": {
       "Satisfacción & eNPS": {
-        "avg": 89.84585741811175,
-        "fav": 87.22302504816956
-      },
-      "Cultura e Inclusión": {
-        "avg": 88.75802825947335,
-        "fav": 85.42870905587668
-      },
-      "Orgullo & Compromiso": {
-        "avg": 90.12584296724471,
-        "fav": 87.07249518304432
-      },
-      "Desarrollo Profesional": {
-        "avg": 88.59104046242774,
-        "fav": 84.83863198458575
-      },
-      "Comunicación": {
-        "avg": 88.70544315992292,
-        "fav": 85.13969171483622
-      },
-      "Seguridad & Recursos": {
-        "avg": 90.33477842003853,
-        "fav": 88.30684007707129
+        "avg": 90.11585101775661,
+        "fav": 87.66782156777826
       },
       "Liderazgo": {
-        "avg": 88.70504174694926,
-        "fav": 85.03532434168272
+        "avg": 89.0161686155623,
+        "fav": 85.62148116067561
+      },
+      "Orgullo & Compromiso": {
+        "avg": 90.3686660892161,
+        "fav": 87.73278475530533
+      },
+      "Desarrollo Profesional": {
+        "avg": 88.83066262451278,
+        "fav": 85.51320918146384
+      },
+      "Comunicación": {
+        "avg": 89.04071026418363,
+        "fav": 85.74058033780858
+      },
+      "Seguridad & Recursos": {
+        "avg": 90.49426158510178,
+        "fav": 88.62061498484192
       },
       "Reconocimiento": {
-        "avg": 86.64137764932562,
-        "fav": 80.9368978805395
+        "avg": 87.031182330013,
+        "fav": 81.92940666955391
+      },
+      "Cultura e Inclusión": {
+        "avg": 89.1294932871373,
+        "fav": 86.1050960011549
       }
     },
     "questions": {
       "Me siento orgulloso(a) de trabajar en la compañía": {
-        "avg": 90.01926782273603,
-        "fav": 87.37957610789981
+        "avg": 90.41576440017323,
+        "fav": 88.02511909917713
       },
       "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-        "avg": 89.92292870905588,
-        "fav": 86.17533718689788
+        "avg": 90.04763967085319,
+        "fav": 86.92074491121697
       },
       "Tengo impacto directo en el logro de mis objetivos": {
-        "avg": 89.66040462427746,
-        "fav": 86.72928709055877
+        "avg": 90.02815071459506,
+        "fav": 87.44045041143352
       },
       "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-        "avg": 90.90077071290943,
-        "fav": 88.0057803468208
+        "avg": 90.98310957124296,
+        "fav": 88.54482459939368
       },
       "Me siento reconocido(a) por mi trabajo": {
-        "avg": 86.36560693641619,
-        "fav": 81.02119460500964
+        "avg": 86.91208315288003,
+        "fav": 82.00519705500217
       },
       "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-        "avg": 86.91714836223507,
-        "fav": 80.85260115606935
+        "avg": 87.15028150714595,
+        "fav": 81.85361628410567
       },
       "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-        "avg": 88.66329479768787,
-        "fav": 85.16377649325626
+        "avg": 88.98657427457773,
+        "fav": 85.90298830662626
       },
       "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-        "avg": 88.51878612716763,
-        "fav": 84.51348747591521
+        "avg": 88.67475097444782,
+        "fav": 85.12343005630143
       },
       "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-        "avg": 88.55491329479769,
-        "fav": 85.23603082851638
+        "avg": 88.98224339540927,
+        "fav": 85.85967951494153
       },
       "Recomendaría a mi jefe directo a otras personas": {
-        "avg": 88.25626204238921,
-        "fav": 83.74277456647398
+        "avg": 88.44088349935036,
+        "fav": 84.38718059766133
       },
       "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-        "avg": 89.3039499036609,
-        "fav": 86.1271676300578
+        "avg": 89.62537895192725,
+        "fav": 86.61758336942398
       },
       "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-        "avg": 88.77890173410404,
-        "fav": 85.38053949903662
+        "avg": 89.26158510177567,
+        "fav": 86.09787786920745
       },
       "Puedo ser yo mismo(a) en el trabajo": {
-        "avg": 90.1252408477842,
-        "fav": 87.33140655105973
+        "avg": 90.28150714595063,
+        "fav": 87.83022953659592
       },
       "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-        "avg": 87.3699421965318,
-        "fav": 83.57418111753373
+        "avg": 87.84538761368557,
+        "fav": 84.38718059766133
       },
       "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-        "avg": 88.35500963391137,
-        "fav": 84.60982658959537
+        "avg": 88.8631442182763,
+        "fav": 85.29666522304028
       },
       "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-        "avg": 89.05587668593449,
-        "fav": 85.66955684007708
+        "avg": 89.21827631009094,
+        "fav": 86.18449545257687
       },
       "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-        "avg": 89.76878612716763,
-        "fav": 86.97013487475915
+        "avg": 90.11476829796449,
+        "fav": 87.52706799480295
       },
       "Recomendaría mi empresa como un excelente lugar para trabajar": {
-        "avg": 89.92292870905588,
-        "fav": 87.47591522157995
+        "avg": 90.11693373754872,
+        "fav": 87.80857514075358
       },
       "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-        "avg": 89.52552986512524,
-        "fav": 87.04238921001927
+        "avg": 89.93070593330447,
+        "fav": 87.59203118233
       },
       "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-        "avg": 90.6840077071291,
-        "fav": 88.58381502890174
+        "avg": 90.71026418362928,
+        "fav": 88.86964053702901
       },
       "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-        "avg": 90.79479768786128,
-        "fav": 89.01734104046243
+        "avg": 90.94629709831096,
+        "fav": 89.3243828497185
       },
       "Considera que este es un lugar seguro para trabajar": {
-        "avg": 90.33477842003853,
-        "fav": 88.58381502890174
+        "avg": 90.3897791251624,
+        "fav": 88.69640537029017
       }
     },
     "operators": {
       "Almacen": {
-        "n": 1013,
-        "avg": 89.8730144485327
+        "n": 1142,
+        "avg": 89.92716128005095
       },
       "Canal Especial": {
-        "n": 312,
-        "avg": 85.28263403263404
+        "n": 318,
+        "avg": 85.21726700971985
       },
       "Transporte": {
-        "n": 2827,
-        "avg": 89.35106280348586
+        "n": 3158,
+        "avg": 89.70536588174335
       }
     },
     "cargos": {
@@ -183,39 +183,39 @@ const DATA = {
         "reforzar": 1
       },
       "Auxiliar de Distribución": {
-        "avg": 89.09046778464253,
-        "fav": 79.2233009708738,
-        "n": 1030,
-        "apto": 816,
-        "reforzar": 214
+        "avg": 89.44123008639139,
+        "fav": 80.90671316477767,
+        "n": 1147,
+        "apto": 928,
+        "reforzar": 219
       },
       "Auxiliar de Facturación": {
-        "avg": 88.79001280409732,
-        "fav": 83.09859154929578,
-        "n": 71,
-        "apto": 59,
-        "reforzar": 12
+        "avg": 87.34392113910187,
+        "fav": 81.92771084337349,
+        "n": 83,
+        "apto": 68,
+        "reforzar": 15
       },
       "Auxiliar de almacen": {
-        "avg": 91.75361570247934,
-        "fav": 89.77272727272727,
-        "n": 352,
-        "apto": 316,
-        "reforzar": 36
+        "avg": 92.03222094361335,
+        "fav": 90.12658227848101,
+        "n": 395,
+        "apto": 356,
+        "reforzar": 39
       },
       "Cajero Liquidador": {
-        "avg": 89.3831168831169,
-        "fav": 78.57142857142857,
-        "n": 14,
-        "apto": 11,
+        "avg": 91.25668449197862,
+        "fav": 82.35294117647058,
+        "n": 17,
+        "apto": 14,
         "reforzar": 3
       },
       "Conductor": {
-        "avg": 89.61994685898652,
-        "fav": 81.83716075156576,
-        "n": 958,
-        "apto": 784,
-        "reforzar": 174
+        "avg": 89.7622705932565,
+        "fav": 83.09859154929578,
+        "n": 1065,
+        "apto": 885,
+        "reforzar": 180
       },
       "Conductor de Patio": {
         "avg": 90.88311688311688,
@@ -225,10 +225,10 @@ const DATA = {
         "reforzar": 5
       },
       "Gestión Administrativa": {
-        "avg": 88.16098484848484,
-        "fav": 82.91666666666667,
-        "n": 240,
-        "apto": 199,
+        "avg": 88.55124954726548,
+        "fav": 83.66533864541833,
+        "n": 251,
+        "apto": 210,
         "reforzar": 41
       },
       "Gestión de Calidad": {
@@ -246,10 +246,10 @@ const DATA = {
         "reforzar": 11
       },
       "Jefe de Operación": {
-        "avg": 95.65656565656565,
-        "fav": 94.44444444444444,
-        "n": 18,
-        "apto": 17,
+        "avg": 96.03896103896103,
+        "fav": 95.23809523809523,
+        "n": 21,
+        "apto": 20,
         "reforzar": 1
       },
       "Líder de Almacén": {
@@ -260,10 +260,10 @@ const DATA = {
         "reforzar": 3
       },
       "Líder de Distribución": {
-        "avg": 89.77272727272728,
-        "fav": 80.0,
-        "n": 30,
-        "apto": 24,
+        "avg": 91.7822966507177,
+        "fav": 84.21052631578947,
+        "n": 38,
+        "apto": 32,
         "reforzar": 6
       },
       "Líder de Distribución KA": {
@@ -274,53 +274,53 @@ const DATA = {
         "reforzar": 4
       },
       "Líder de Flota": {
-        "avg": 91.43048128342247,
-        "fav": 88.23529411764706,
-        "n": 34,
-        "apto": 30,
+        "avg": 91.50252525252526,
+        "fav": 88.88888888888889,
+        "n": 36,
+        "apto": 32,
         "reforzar": 4
       },
       "Líder de Gente": {
-        "avg": 89.95529061102833,
-        "fav": 86.88524590163934,
-        "n": 61,
-        "apto": 53,
-        "reforzar": 8
+        "avg": 89.7964721845319,
+        "fav": 85.07462686567165,
+        "n": 67,
+        "apto": 57,
+        "reforzar": 10
       },
       "Líder de Ruta": {
-        "avg": 88.96270396270397,
-        "fav": 78.84615384615384,
-        "n": 156,
-        "apto": 123,
-        "reforzar": 33
+        "avg": 88.93753485778026,
+        "fav": 79.14110429447852,
+        "n": 163,
+        "apto": 129,
+        "reforzar": 34
       },
       "Líder de Seguridad": {
-        "avg": 89.79946524064171,
-        "fav": 82.35294117647058,
-        "n": 68,
-        "apto": 56,
-        "reforzar": 12
+        "avg": 90.15970515970515,
+        "fav": 82.43243243243244,
+        "n": 74,
+        "apto": 61,
+        "reforzar": 13
       },
       "Montacarguista": {
-        "avg": 86.71046962516158,
-        "fav": 77.72511848341233,
-        "n": 211,
-        "apto": 164,
-        "reforzar": 47
+        "avg": 87.21613727637825,
+        "fav": 77.91164658634538,
+        "n": 249,
+        "apto": 194,
+        "reforzar": 55
       },
       "Responsable de Reparto": {
-        "avg": 88.53796445880452,
-        "fav": 81.26009693053312,
-        "n": 619,
-        "apto": 503,
-        "reforzar": 116
+        "avg": 89.07210478537155,
+        "fav": 83.16690442225392,
+        "n": 701,
+        "apto": 583,
+        "reforzar": 118
       },
       "Verificador": {
-        "avg": 86.07913669064749,
-        "fav": 80.57553956834532,
-        "n": 139,
-        "apto": 112,
-        "reforzar": 27
+        "avg": 86.41477272727272,
+        "fav": 80.625,
+        "n": 160,
+        "apto": 129,
+        "reforzar": 31
       }
     }
   },
@@ -337,9 +337,9 @@ const DATA = {
           "avg": 96.16071428571429,
           "fav": 98.21428571428571
         },
-        "Cultura e Inclusión": {
-          "avg": 94.28571428571429,
-          "fav": 95.83333333333334
+        "Liderazgo": {
+          "avg": 95.5952380952381,
+          "fav": 97.02380952380952
         },
         "Orgullo & Compromiso": {
           "avg": 95.66964285714286,
@@ -357,13 +357,13 @@ const DATA = {
           "avg": 95.40178571428571,
           "fav": 96.875
         },
-        "Liderazgo": {
-          "avg": 95.5952380952381,
-          "fav": 97.02380952380952
-        },
         "Reconocimiento": {
           "avg": 91.16071428571429,
           "fav": 87.5
+        },
+        "Cultura e Inclusión": {
+          "avg": 94.28571428571429,
+          "fav": 95.83333333333334
         }
       },
       "questions": {
@@ -2031,9 +2031,9 @@ const DATA = {
           "avg": 95.33333333333333,
           "fav": 100.0
         },
-        "Cultura e Inclusión": {
-          "avg": 95.11111111111111,
-          "fav": 97.77777777777777
+        "Liderazgo": {
+          "avg": 96.44444444444444,
+          "fav": 100.0
         },
         "Orgullo & Compromiso": {
           "avg": 95.83333333333333,
@@ -2051,13 +2051,13 @@ const DATA = {
           "avg": 95.33333333333333,
           "fav": 98.33333333333333
         },
-        "Liderazgo": {
-          "avg": 96.44444444444444,
-          "fav": 100.0
-        },
         "Reconocimiento": {
           "avg": 96.0,
           "fav": 100.0
+        },
+        "Cultura e Inclusión": {
+          "avg": 95.11111111111111,
+          "fav": 97.77777777777777
         }
       },
       "questions": {
@@ -2949,9 +2949,9 @@ const DATA = {
           "avg": 95.91346153846153,
           "fav": 95.67307692307693
         },
-        "Cultura e Inclusión": {
-          "avg": 95.76923076923077,
-          "fav": 95.51282051282051
+        "Liderazgo": {
+          "avg": 95.99358974358974,
+          "fav": 96.7948717948718
         },
         "Orgullo & Compromiso": {
           "avg": 94.83173076923077,
@@ -2969,13 +2969,13 @@ const DATA = {
           "avg": 96.00961538461539,
           "fav": 95.4326923076923
         },
-        "Liderazgo": {
-          "avg": 95.99358974358974,
-          "fav": 96.7948717948718
-        },
         "Reconocimiento": {
           "avg": 93.36538461538461,
           "fav": 91.82692307692307
+        },
+        "Cultura e Inclusión": {
+          "avg": 95.76923076923077,
+          "fav": 95.51282051282051
         }
       },
       "questions": {
@@ -4827,419 +4827,655 @@ const DATA = {
     },
     "DC Autosur": {
       "region": "Centro",
-      "avg": 73.32167832167832,
-      "fav": 61.53846153846154,
-      "n": 13,
-      "apto": 8,
-      "reforzar": 5,
+      "avg": 89.55525078369905,
+      "fav": 93.10344827586206,
+      "n": 232,
+      "apto": 216,
+      "reforzar": 16,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 71.92307692307692,
-          "fav": 69.23076923076923
-        },
-        "Cultura e Inclusión": {
-          "avg": 66.15384615384616,
-          "fav": 61.53846153846154
-        },
-        "Orgullo & Compromiso": {
-          "avg": 78.65384615384616,
-          "fav": 73.07692307692307
-        },
-        "Desarrollo Profesional": {
-          "avg": 74.23076923076923,
-          "fav": 69.23076923076923
-        },
-        "Comunicación": {
-          "avg": 72.6923076923077,
-          "fav": 61.53846153846154
-        },
-        "Seguridad & Recursos": {
-          "avg": 75.96153846153847,
-          "fav": 69.23076923076923
+          "avg": 89.54741379310344,
+          "fav": 89.00862068965517
         },
         "Liderazgo": {
-          "avg": 72.3076923076923,
-          "fav": 66.66666666666666
+          "avg": 90.60344827586206,
+          "fav": 91.0919540229885
+        },
+        "Orgullo & Compromiso": {
+          "avg": 89.19181034482759,
+          "fav": 91.27155172413794
+        },
+        "Desarrollo Profesional": {
+          "avg": 88.66379310344827,
+          "fav": 89.87068965517241
+        },
+        "Comunicación": {
+          "avg": 89.78448275862068,
+          "fav": 88.79310344827587
+        },
+        "Seguridad & Recursos": {
+          "avg": 89.54741379310344,
+          "fav": 89.11637931034483
         },
         "Reconocimiento": {
-          "avg": 70.76923076923077,
-          "fav": 65.38461538461539
+          "avg": 88.87931034482759,
+          "fav": 91.16379310344827
+        },
+        "Cultura e Inclusión": {
+          "avg": 89.89942528735632,
+          "fav": 90.08620689655173
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 72.3076923076923,
-          "fav": 69.23076923076923
+          "avg": 91.9396551724138,
+          "fav": 92.67241379310344
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 76.15384615384616,
-          "fav": 69.23076923076923
+          "avg": 86.63793103448276,
+          "fav": 90.51724137931035
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 83.07692307692308,
-          "fav": 76.92307692307693
+          "avg": 90.64655172413794,
+          "fav": 90.94827586206897
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 83.07692307692308,
-          "fav": 76.92307692307693
+          "avg": 87.54310344827586,
+          "fav": 90.94827586206897
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 66.15384615384616,
-          "fav": 61.53846153846154
+          "avg": 91.33620689655173,
+          "fav": 91.37931034482759
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-          "avg": 75.38461538461539,
-          "fav": 69.23076923076923
+          "avg": 86.42241379310344,
+          "fav": 90.94827586206897
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 67.6923076923077,
-          "fav": 61.53846153846154
+          "avg": 90.0,
+          "fav": 90.08620689655173
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 80.76923076923077,
-          "fav": 76.92307692307693
+          "avg": 87.32758620689656,
+          "fav": 89.65517241379311
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 71.53846153846153,
-          "fav": 69.23076923076923
+          "avg": 92.84482758620689,
+          "fav": 92.24137931034483
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 70.76923076923077,
-          "fav": 61.53846153846154
+          "avg": 87.80172413793103,
+          "fav": 90.94827586206897
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 74.61538461538461,
-          "fav": 69.23076923076923
+          "avg": 91.16379310344827,
+          "fav": 90.08620689655173
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 67.6923076923077,
-          "fav": 61.53846153846154
+          "avg": 92.84482758620689,
+          "fav": 92.67241379310344
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 66.92307692307692,
-          "fav": 61.53846153846154
+          "avg": 87.80172413793103,
+          "fav": 89.22413793103449
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 63.84615384615385,
-          "fav": 61.53846153846154
+          "avg": 89.05172413793103,
+          "fav": 88.36206896551724
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 64.61538461538461,
-          "fav": 53.84615384615385
+          "avg": 92.28448275862068,
+          "fav": 89.22413793103449
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 80.76923076923077,
-          "fav": 69.23076923076923
+          "avg": 87.28448275862068,
+          "fav": 88.36206896551724
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 71.53846153846153,
-          "fav": 69.23076923076923
+          "avg": 90.43103448275862,
+          "fav": 90.08620689655173
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 72.3076923076923,
-          "fav": 69.23076923076923
+          "avg": 88.66379310344827,
+          "fav": 87.93103448275862
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 75.38461538461539,
-          "fav": 76.92307692307693
+          "avg": 92.5,
+          "fav": 92.24137931034483
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-          "avg": 73.07692307692308,
-          "fav": 61.53846153846154
+          "avg": 87.93103448275862,
+          "fav": 89.65517241379311
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 83.07692307692308,
-          "fav": 76.92307692307693
+          "avg": 90.5603448275862,
+          "fav": 89.65517241379311
         },
         "Considera que este es un lugar seguro para trabajar": {
-          "avg": 72.3076923076923,
-          "fav": 61.53846153846154
+          "avg": 87.19827586206897,
+          "fav": 84.91379310344827
         }
       },
       "operators": {
         "Transporte": {
-          "n": 13,
-          "avg": 73.32167832167832
+          "n": 232,
+          "avg": 89.55525078369905
         }
       },
       "cargos": {
         "Auxiliar de Distribución": {
-          "avg": 100.0,
+          "avg": 92.13235294117646,
           "fav": 100.0,
-          "n": 3,
-          "apto": 3,
+          "n": 68,
+          "apto": 68,
+          "reforzar": 0
+        },
+        "Auxiliar de Facturación": {
+          "avg": 68.86363636363636,
+          "fav": 50.0,
+          "n": 4,
+          "apto": 2,
+          "reforzar": 2
+        },
+        "Auxiliar de almacen": {
+          "avg": 91.27272727272728,
+          "fav": 100.0,
+          "n": 5,
+          "apto": 5,
           "reforzar": 0
         },
         "Conductor": {
-          "avg": 66.88311688311687,
-          "fav": 57.14285714285714,
-          "n": 7,
-          "apto": 4,
+          "avg": 87.6403743315508,
+          "fav": 95.58823529411765,
+          "n": 68,
+          "apto": 65,
           "reforzar": 3
         },
         "Gestión Administrativa": {
-          "avg": 59.09090909090909,
-          "fav": 0.0,
-          "n": 1,
-          "apto": 0,
-          "reforzar": 1
-        },
-        "Responsable de Reparto": {
-          "avg": 62.95454545454545,
+          "avg": 71.81818181818181,
           "fav": 50.0,
           "n": 2,
           "apto": 1,
           "reforzar": 1
+        },
+        "Jefe de Operación": {
+          "avg": 100.0,
+          "fav": 100.0,
+          "n": 1,
+          "apto": 1,
+          "reforzar": 0
+        },
+        "Líder de Flota": {
+          "avg": 86.81818181818181,
+          "fav": 100.0,
+          "n": 1,
+          "apto": 1,
+          "reforzar": 0
+        },
+        "Líder de Gente": {
+          "avg": 70.22727272727272,
+          "fav": 0.0,
+          "n": 2,
+          "apto": 0,
+          "reforzar": 2
+        },
+        "Líder de Seguridad": {
+          "avg": 89.54545454545455,
+          "fav": 100.0,
+          "n": 1,
+          "apto": 1,
+          "reforzar": 0
+        },
+        "Montacarguista": {
+          "avg": 80.54545454545455,
+          "fav": 50.0,
+          "n": 10,
+          "apto": 5,
+          "reforzar": 5
+        },
+        "Responsable de Reparto": {
+          "avg": 93.02556818181819,
+          "fav": 98.4375,
+          "n": 64,
+          "apto": 63,
+          "reforzar": 1
+        },
+        "Verificador": {
+          "avg": 83.48484848484848,
+          "fav": 66.66666666666666,
+          "n": 6,
+          "apto": 4,
+          "reforzar": 2
         }
       },
       "cargo_questions": {
         "Auxiliar de Distribución": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 93.38235294117646,
+            "fav": 94.11764705882352
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 86.61764705882354,
+            "fav": 92.64705882352942
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 90.73529411764706,
+            "fav": 94.11764705882352
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 88.97058823529412,
+            "fav": 95.58823529411765
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 96.91176470588235,
+            "fav": 98.52941176470588
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 88.97058823529412,
+            "fav": 97.05882352941177
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 92.20588235294117,
+            "fav": 95.58823529411765
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 87.3529411764706,
+            "fav": 94.11764705882352
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 97.5,
+            "fav": 98.52941176470588
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 90.44117647058823,
+            "fav": 94.11764705882352
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 93.23529411764706,
+            "fav": 92.64705882352942
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 100.0,
+            "avg": 97.94117647058823,
             "fav": 100.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 100.0,
+            "avg": 90.58823529411765,
+            "fav": 92.64705882352942
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 91.61764705882354,
+            "fav": 91.17647058823529
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 97.5,
+            "fav": 97.05882352941177
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 89.70588235294117,
+            "fav": 92.64705882352942
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 92.20588235294117,
+            "fav": 95.58823529411765
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 90.58823529411765,
+            "fav": 92.64705882352942
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 97.6470588235294,
+            "fav": 98.52941176470588
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 90.73529411764706,
+            "fav": 94.11764705882352
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 91.47058823529412,
+            "fav": 92.64705882352942
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 90.58823529411765,
+            "fav": 91.17647058823529
+          }
+        },
+        "Auxiliar de Facturación": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 80.0,
+            "fav": 75.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 80.0,
+            "fav": 50.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 80.0,
+            "fav": 50.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 67.5,
+            "fav": 75.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 50.0,
+            "fav": 25.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 60.0,
+            "fav": 25.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 85.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 52.5,
+            "fav": 25.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 60.0,
+            "fav": 50.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 67.5,
+            "fav": 75.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 67.5,
+            "fav": 75.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 72.5,
+            "fav": 75.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 77.5,
+            "fav": 75.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 82.5,
+            "fav": 75.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 55.0,
+            "fav": 25.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 60.0,
+            "fav": 50.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 55.0,
+            "fav": 50.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 62.5,
+            "fav": 50.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 75.0,
+            "fav": 50.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 75.0,
+            "fav": 50.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 82.5,
+            "fav": 75.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 67.5,
+            "fav": 75.0
+          }
+        },
+        "Auxiliar de almacen": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 92.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 94.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 86.0,
+            "fav": 80.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 96.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 74.0,
+            "fav": 60.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 84.0,
+            "fav": 80.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 96.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 96.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 92.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 98.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 98.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 92.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 94.0,
             "fav": 100.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 82.0,
+            "fav": 80.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 90.0,
+            "fav": 80.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 100.0,
+            "avg": 92.0,
             "fav": 100.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 100.0,
+            "avg": 96.0,
             "fav": 100.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 100.0,
+            "avg": 96.0,
             "fav": 100.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 84.0,
+            "fav": 80.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 100.0,
+            "avg": 94.0,
             "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 100.0,
+            "avg": 90.0,
             "fav": 100.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 100.0,
+            "avg": 92.0,
             "fav": 100.0
           }
         },
         "Conductor": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 64.28571428571429,
-            "fav": 57.14285714285714
+            "avg": 92.5,
+            "fav": 94.11764705882352
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 65.71428571428571,
-            "fav": 57.14285714285714
+            "avg": 85.58823529411765,
+            "fav": 91.17647058823529
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 81.42857142857143,
-            "fav": 85.71428571428571
+            "avg": 91.32352941176471,
+            "fav": 92.64705882352942
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 68.57142857142857,
-            "fav": 57.14285714285714
+            "avg": 85.73529411764706,
+            "fav": 88.23529411764706
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 60.0,
-            "fav": 57.14285714285714
+            "avg": 89.55882352941177,
+            "fav": 92.64705882352942
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 62.857142857142854,
-            "fav": 57.14285714285714
+            "avg": 86.02941176470588,
+            "fav": 89.70588235294117
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 58.57142857142857,
-            "fav": 57.14285714285714
+            "avg": 86.91176470588235,
+            "fav": 86.76470588235294
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 74.28571428571429,
-            "fav": 71.42857142857143
+            "avg": 86.61764705882354,
+            "fav": 85.29411764705883
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 71.42857142857143,
-            "fav": 71.42857142857143
+            "avg": 92.5,
+            "fav": 91.17647058823529
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 70.0,
-            "fav": 57.14285714285714
+            "avg": 86.76470588235294,
+            "fav": 91.17647058823529
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 75.71428571428571,
-            "fav": 71.42857142857143
+            "avg": 88.97058823529412,
+            "fav": 85.29411764705883
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 62.857142857142854,
-            "fav": 57.14285714285714
+            "avg": 89.11764705882354,
+            "fav": 88.23529411764706
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 62.857142857142854,
-            "fav": 57.14285714285714
+            "avg": 84.11764705882354,
+            "fav": 80.88235294117648
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 48.57142857142857,
-            "fav": 42.857142857142854
+            "avg": 86.91176470588235,
+            "fav": 85.29411764705883
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 57.142857142857146,
-            "fav": 42.857142857142854
+            "avg": 90.58823529411765,
+            "fav": 86.76470588235294
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 68.57142857142857,
-            "fav": 57.14285714285714
+            "avg": 83.67647058823529,
+            "fav": 80.88235294117648
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 62.857142857142854,
-            "fav": 57.14285714285714
+            "avg": 88.23529411764706,
+            "fav": 85.29411764705883
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 65.71428571428571,
-            "fav": 57.14285714285714
+            "avg": 85.73529411764706,
+            "fav": 80.88235294117648
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 71.42857142857143,
-            "fav": 71.42857142857143
+            "avg": 89.8529411764706,
+            "fav": 89.70588235294117
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 71.42857142857143,
-            "fav": 57.14285714285714
+            "avg": 86.76470588235294,
+            "fav": 88.23529411764706
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 78.57142857142857,
-            "fav": 71.42857142857143
+            "avg": 86.91176470588235,
+            "fav": 80.88235294117648
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 68.57142857142857,
-            "fav": 57.14285714285714
+            "avg": 83.67647058823529,
+            "fav": 76.47058823529412
           }
         },
         "Gestión Administrativa": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 90.0,
+            "avg": 85.0,
             "fav": 100.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 80.0,
+            "avg": 85.0,
             "fav": 100.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 60.0,
-            "fav": 0.0
+            "avg": 75.0,
+            "fav": 50.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 100.0,
+            "avg": 95.0,
             "fav": 100.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 40.0,
-            "fav": 0.0
+            "avg": 60.0,
+            "fav": 50.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 40.0,
-            "fav": 0.0
+            "avg": 60.0,
+            "fav": 50.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 70.0,
-            "fav": 0.0
+            "avg": 75.0,
+            "fav": 50.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 30.0,
-            "fav": 0.0
+            "avg": 60.0,
+            "fav": 50.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 30.0,
-            "fav": 0.0
+            "avg": 55.0,
+            "fav": 50.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 30.0,
-            "fav": 0.0
+            "avg": 55.0,
+            "fav": 50.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 40.0,
-            "fav": 0.0
+            "avg": 65.0,
+            "fav": 50.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 40.0,
-            "fav": 0.0
+            "avg": 65.0,
+            "fav": 50.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 30.0,
-            "fav": 0.0
+            "avg": 60.0,
+            "fav": 50.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
             "avg": 90.0,
             "fav": 100.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 40.0,
-            "fav": 0.0
+            "avg": 65.0,
+            "fav": 50.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 70.0,
-            "fav": 0.0
+            "avg": 75.0,
+            "fav": 50.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 90.0,
+            "avg": 85.0,
             "fav": 100.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
@@ -5251,105 +5487,645 @@ const DATA = {
             "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 50.0,
+            "avg": 70.0,
+            "fav": 50.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 65.0,
+            "fav": 50.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 65.0,
+            "fav": 0.0
+          }
+        },
+        "Jefe de Operación": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          }
+        },
+        "Líder de Flota": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 60.0,
+            "fav": 0.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 90.0,
+            "fav": 100.0
+          }
+        },
+        "Líder de Gente": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 75.0,
+            "fav": 50.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 65.0,
+            "fav": 0.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 75.0,
+            "fav": 50.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 40.0,
+            "fav": 0.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 40.0,
+            "fav": 0.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 40.0,
+            "fav": 0.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 35.0,
+            "fav": 0.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 85.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 75.0,
+            "fav": 50.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 85.0,
+            "fav": 50.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 85.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 75.0,
+            "fav": 50.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 75.0,
+            "fav": 50.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 85.0,
+            "fav": 50.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 40.0,
+            "fav": 0.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 55.0,
             "fav": 0.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 50.0,
-            "fav": 0.0
+            "avg": 75.0,
+            "fav": 50.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 60.0,
+            "avg": 80.0,
+            "fav": 50.0
+          }
+        },
+        "Líder de Seguridad": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 70.0,
             "fav": 0.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 90.0,
+            "fav": 100.0
+          }
+        },
+        "Montacarguista": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 85.0,
+            "fav": 70.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 86.0,
+            "fav": 70.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 82.0,
+            "fav": 50.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 90.0,
+            "fav": 70.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 78.0,
+            "fav": 70.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 80.0,
+            "fav": 70.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 81.0,
+            "fav": 60.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 83.0,
+            "fav": 60.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 74.0,
+            "fav": 50.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 82.0,
+            "fav": 50.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 85.0,
+            "fav": 70.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 80.0,
+            "fav": 60.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 78.0,
+            "fav": 60.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 64.0,
+            "fav": 40.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 71.0,
+            "fav": 40.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 83.0,
+            "fav": 70.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 84.0,
+            "fav": 60.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 86.0,
+            "fav": 70.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 71.0,
+            "fav": 50.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 77.0,
+            "fav": 50.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 85.0,
+            "fav": 70.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 87.0,
+            "fav": 80.0
           }
         },
         "Responsable de Reparto": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 50.0,
-            "fav": 50.0
+            "avg": 93.75,
+            "fav": 96.875
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 75.0,
-            "fav": 50.0
+            "avg": 87.34375,
+            "fav": 93.75
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 75.0,
-            "fav": 50.0
+            "avg": 93.28125,
+            "fav": 98.4375
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 90.0,
+            "fav": 98.4375
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 50.0,
-            "fav": 50.0
+            "avg": 96.71875,
+            "fav": 98.4375
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 100.0,
-            "fav": 100.0
-          },
-          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 50.0,
-            "fav": 50.0
-          },
-          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 100.0,
-            "fav": 100.0
-          },
-          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 50.0,
-            "fav": 50.0
-          },
-          "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 50.0,
-            "fav": 50.0
-          },
-          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 50.0,
-            "fav": 50.0
-          },
-          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 50.0,
-            "fav": 50.0
-          },
-          "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 50.0,
-            "fav": 50.0
-          },
-          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 50.0,
-            "fav": 50.0
-          },
-          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 50.0,
-            "fav": 50.0
-          },
-          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 100.0,
-            "fav": 100.0
-          },
-          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 50.0,
-            "fav": 50.0
-          },
-          "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 50.0,
-            "fav": 50.0
-          },
-          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 45.0,
-            "fav": 50.0
-          },
-          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 50.0,
-            "fav": 50.0
-          },
-          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
             "avg": 90.0,
             "fav": 100.0
           },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 94.6875,
+            "fav": 96.875
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 91.40625,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 96.5625,
+            "fav": 98.4375
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 88.75,
+            "fav": 98.4375
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 94.6875,
+            "fav": 96.875
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 96.875,
+            "fav": 96.875
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 90.625,
+            "fav": 98.4375
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 94.53125,
+            "fav": 98.4375
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 96.25,
+            "fav": 98.4375
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 91.25,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 94.84375,
+            "fav": 98.4375
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 93.4375,
+            "fav": 98.4375
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 96.40625,
+            "fav": 98.4375
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 89.375,
+            "fav": 96.875
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 95.78125,
+            "fav": 100.0
+          },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 50.0,
+            "avg": 90.0,
+            "fav": 93.75
+          }
+        },
+        "Verificador": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 76.66666666666667,
+            "fav": 66.66666666666666
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 93.33333333333333,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 88.33333333333333,
+            "fav": 83.33333333333334
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 81.66666666666667,
+            "fav": 66.66666666666666
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 81.66666666666667,
+            "fav": 66.66666666666666
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 75.0,
+            "fav": 66.66666666666666
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 90.0,
+            "fav": 83.33333333333334
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 81.66666666666667,
+            "fav": 66.66666666666666
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 76.66666666666667,
+            "fav": 83.33333333333334
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 83.33333333333333,
+            "fav": 66.66666666666666
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 85.0,
+            "fav": 83.33333333333334
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 81.66666666666667,
+            "fav": 83.33333333333334
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 91.66666666666667,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 76.66666666666667,
+            "fav": 66.66666666666666
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 86.66666666666667,
+            "fav": 83.33333333333334
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 85.0,
+            "fav": 66.66666666666666
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 81.66666666666667,
+            "fav": 66.66666666666666
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 81.66666666666667,
+            "fav": 66.66666666666666
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 80.0,
+            "fav": 83.33333333333334
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 93.33333333333333,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 75.0,
             "fav": 50.0
           }
         }
@@ -5367,9 +6143,9 @@ const DATA = {
           "avg": 98.86178861788618,
           "fav": 100.0
         },
-        "Cultura e Inclusión": {
-          "avg": 98.9159891598916,
-          "fav": 99.1869918699187
+        "Liderazgo": {
+          "avg": 98.53658536585365,
+          "fav": 98.3739837398374
         },
         "Orgullo & Compromiso": {
           "avg": 98.76016260162602,
@@ -5387,13 +6163,13 @@ const DATA = {
           "avg": 98.82113821138212,
           "fav": 99.39024390243902
         },
-        "Liderazgo": {
-          "avg": 98.53658536585365,
-          "fav": 98.3739837398374
-        },
         "Reconocimiento": {
           "avg": 98.3739837398374,
           "fav": 98.78048780487805
+        },
+        "Cultura e Inclusión": {
+          "avg": 98.9159891598916,
+          "fav": 99.1869918699187
         }
       },
       "questions": {
@@ -7148,120 +7924,120 @@ const DATA = {
     },
     "DC Boyaca": {
       "region": "Centro",
-      "avg": 70.45454545454545,
-      "fav": 50.0,
-      "n": 2,
-      "apto": 1,
+      "avg": 81.25,
+      "fav": 75.0,
+      "n": 4,
+      "apto": 3,
       "reforzar": 1,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 85.0,
-          "fav": 75.0
-        },
-        "Cultura e Inclusión": {
-          "avg": 48.333333333333336,
-          "fav": 50.0
-        },
-        "Orgullo & Compromiso": {
-          "avg": 92.5,
-          "fav": 100.0
-        },
-        "Desarrollo Profesional": {
-          "avg": 55.0,
-          "fav": 50.0
-        },
-        "Comunicación": {
-          "avg": 62.5,
-          "fav": 50.0
-        },
-        "Seguridad & Recursos": {
-          "avg": 85.0,
+          "avg": 88.75,
           "fav": 87.5
         },
         "Liderazgo": {
-          "avg": 45.0,
-          "fav": 50.0
+          "avg": 68.33333333333333,
+          "fav": 75.0
+        },
+        "Orgullo & Compromiso": {
+          "avg": 88.75,
+          "fav": 100.0
+        },
+        "Desarrollo Profesional": {
+          "avg": 75.0,
+          "fav": 75.0
+        },
+        "Comunicación": {
+          "avg": 78.75,
+          "fav": 75.0
+        },
+        "Seguridad & Recursos": {
+          "avg": 89.375,
+          "fav": 93.75
         },
         "Reconocimiento": {
-          "avg": 77.5,
+          "avg": 83.75,
+          "fav": 87.5
+        },
+        "Cultura e Inclusión": {
+          "avg": 72.5,
           "fav": 75.0
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 90.0,
+          "avg": 87.5,
           "fav": 100.0
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 90.0,
+          "avg": 87.5,
           "fav": 100.0
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 90.0,
+          "avg": 87.5,
           "fav": 100.0
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 100.0,
+          "avg": 92.5,
           "fav": 100.0
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 70.0,
-          "fav": 50.0
+          "avg": 82.5,
+          "fav": 75.0
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
           "avg": 85.0,
           "fav": 100.0
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 85.0,
+          "avg": 90.0,
           "fav": 100.0
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 25.0,
-          "fav": 0.0
+          "avg": 60.0,
+          "fav": 50.0
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 45.0,
-          "fav": 50.0
+          "avg": 67.5,
+          "fav": 75.0
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 45.0,
-          "fav": 50.0
+          "avg": 70.0,
+          "fav": 75.0
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 45.0,
-          "fav": 50.0
+          "avg": 67.5,
+          "fav": 75.0
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 55.0,
-          "fav": 50.0
+          "avg": 77.5,
+          "fav": 75.0
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 45.0,
-          "fav": 50.0
+          "avg": 67.5,
+          "fav": 75.0
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 45.0,
-          "fav": 50.0
+          "avg": 72.5,
+          "fav": 75.0
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 55.0,
-          "fav": 50.0
+          "avg": 77.5,
+          "fav": 75.0
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 70.0,
-          "fav": 50.0
+          "avg": 80.0,
+          "fav": 75.0
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 80.0,
-          "fav": 50.0
+          "avg": 90.0,
+          "fav": 75.0
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 90.0,
+          "avg": 87.5,
           "fav": 100.0
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 90.0,
+          "avg": 92.5,
           "fav": 100.0
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
@@ -7269,8 +8045,8 @@ const DATA = {
           "fav": 100.0
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 70.0,
-          "fav": 50.0
+          "avg": 85.0,
+          "fav": 75.0
         },
         "Considera que este es un lugar seguro para trabajar": {
           "avg": 90.0,
@@ -7279,8 +8055,8 @@ const DATA = {
       },
       "operators": {
         "Almacen": {
-          "n": 2,
-          "avg": 70.45454545454545
+          "n": 4,
+          "avg": 81.25
         }
       },
       "cargos": {
@@ -7297,6 +8073,13 @@ const DATA = {
           "n": 1,
           "apto": 0,
           "reforzar": 1
+        },
+        "Responsable de Reparto": {
+          "avg": 92.04545454545455,
+          "fav": 100.0,
+          "n": 2,
+          "apto": 2,
+          "reforzar": 0
         }
       },
       "cargo_questions": {
@@ -7479,6 +8262,96 @@ const DATA = {
             "avg": 90.0,
             "fav": 100.0
           }
+        },
+        "Responsable de Reparto": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 85.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 85.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 85.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 85.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 85.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 85.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 90.0,
+            "fav": 100.0
+          }
         }
       }
     },
@@ -7494,8 +8367,8 @@ const DATA = {
           "avg": 91.78571428571429,
           "fav": 89.28571428571429
         },
-        "Cultura e Inclusión": {
-          "avg": 91.54761904761905,
+        "Liderazgo": {
+          "avg": 91.78571428571429,
           "fav": 88.09523809523809
         },
         "Orgullo & Compromiso": {
@@ -7514,13 +8387,13 @@ const DATA = {
           "avg": 93.03571428571429,
           "fav": 91.07142857142857
         },
-        "Liderazgo": {
-          "avg": 91.78571428571429,
-          "fav": 88.09523809523809
-        },
         "Reconocimiento": {
           "avg": 88.39285714285714,
           "fav": 85.71428571428571
+        },
+        "Cultura e Inclusión": {
+          "avg": 91.54761904761905,
+          "fav": 88.09523809523809
         }
       },
       "questions": {
@@ -8208,139 +9081,139 @@ const DATA = {
     },
     "DC Cali": {
       "region": "Sur",
-      "avg": 88.37062937062937,
-      "fav": 80.0,
-      "n": 65,
-      "apto": 52,
+      "avg": 90.39430449069005,
+      "fav": 84.33734939759037,
+      "n": 83,
+      "apto": 70,
       "reforzar": 13,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 89.0,
-          "fav": 81.53846153846153
-        },
-        "Cultura e Inclusión": {
-          "avg": 86.25641025641026,
-          "fav": 76.41025641025641
-        },
-        "Orgullo & Compromiso": {
-          "avg": 91.46153846153847,
-          "fav": 85.38461538461539
-        },
-        "Desarrollo Profesional": {
-          "avg": 87.61538461538461,
-          "fav": 79.23076923076923
-        },
-        "Comunicación": {
-          "avg": 87.0,
-          "fav": 79.23076923076923
-        },
-        "Seguridad & Recursos": {
-          "avg": 89.3076923076923,
-          "fav": 83.84615384615385
+          "avg": 91.08433734939759,
+          "fav": 84.93975903614458
         },
         "Liderazgo": {
-          "avg": 87.8974358974359,
-          "fav": 82.05128205128204
+          "avg": 89.87951807228916,
+          "fav": 85.14056224899599
+        },
+        "Orgullo & Compromiso": {
+          "avg": 93.25301204819277,
+          "fav": 88.55421686746988
+        },
+        "Desarrollo Profesional": {
+          "avg": 89.57831325301204,
+          "fav": 82.53012048192771
+        },
+        "Comunicación": {
+          "avg": 89.1566265060241,
+          "fav": 83.73493975903614
+        },
+        "Seguridad & Recursos": {
+          "avg": 91.29518072289157,
+          "fav": 86.74698795180723
         },
         "Reconocimiento": {
-          "avg": 85.6923076923077,
-          "fav": 76.15384615384615
+          "avg": 87.71084337349397,
+          "fav": 80.12048192771084
+        },
+        "Cultura e Inclusión": {
+          "avg": 88.59437751004016,
+          "fav": 80.72289156626506
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 88.3076923076923,
-          "fav": 78.46153846153847
+          "avg": 90.72289156626506,
+          "fav": 83.13253012048193
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 91.53846153846153,
-          "fav": 84.61538461538461
+          "avg": 93.37349397590361,
+          "fav": 87.95180722891565
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 91.6923076923077,
-          "fav": 84.61538461538461
+          "avg": 93.37349397590361,
+          "fav": 87.95180722891565
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 94.3076923076923,
-          "fav": 93.84615384615384
+          "avg": 95.5421686746988,
+          "fav": 95.18072289156626
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 86.92307692307692,
-          "fav": 80.0
+          "avg": 88.43373493975903,
+          "fav": 83.13253012048193
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-          "avg": 84.46153846153847,
-          "fav": 72.3076923076923
+          "avg": 86.98795180722891,
+          "fav": 77.10843373493977
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 88.0,
-          "fav": 83.07692307692308
+          "avg": 90.60240963855422,
+          "fav": 86.74698795180723
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 87.23076923076923,
-          "fav": 75.38461538461539
+          "avg": 88.55421686746988,
+          "fav": 78.3132530120482
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 87.84615384615384,
-          "fav": 81.53846153846153
+          "avg": 90.0,
+          "fav": 84.33734939759037
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 87.23076923076923,
-          "fav": 80.0
+          "avg": 89.51807228915662,
+          "fav": 84.33734939759037
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 88.61538461538461,
-          "fav": 84.61538461538461
+          "avg": 90.12048192771084,
+          "fav": 86.74698795180723
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 85.07692307692308,
-          "fav": 73.84615384615385
+          "avg": 87.83132530120481,
+          "fav": 78.3132530120482
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 91.07692307692308,
-          "fav": 86.15384615384616
+          "avg": 92.7710843373494,
+          "fav": 89.1566265060241
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 82.61538461538461,
-          "fav": 69.23076923076923
+          "avg": 85.18072289156626,
+          "fav": 74.69879518072288
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 86.46153846153847,
-          "fav": 78.46153846153847
+          "avg": 88.67469879518072,
+          "fav": 83.13253012048193
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 87.53846153846153,
-          "fav": 80.0
+          "avg": 89.63855421686748,
+          "fav": 84.33734939759037
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 88.76923076923077,
-          "fav": 81.53846153846153
+          "avg": 91.20481927710843,
+          "fav": 85.54216867469879
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 89.23076923076923,
-          "fav": 81.53846153846153
+          "avg": 90.96385542168674,
+          "fav": 84.33734939759037
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 85.53846153846153,
-          "fav": 76.92307692307693
+          "avg": 88.3132530120482,
+          "fav": 80.72289156626506
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-          "avg": 92.3076923076923,
-          "fav": 89.23076923076924
+          "avg": 93.97590361445783,
+          "fav": 91.56626506024097
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 90.3076923076923,
-          "fav": 86.15384615384616
+          "avg": 92.16867469879519,
+          "fav": 89.1566265060241
         },
         "Considera que este es un lugar seguro para trabajar": {
-          "avg": 89.07692307692308,
-          "fav": 83.07692307692308
+          "avg": 90.72289156626506,
+          "fav": 85.54216867469879
         }
       },
       "operators": {
         "Transporte": {
-          "n": 65,
-          "avg": 88.37062937062937
+          "n": 83,
+          "avg": 90.39430449069005
         }
       },
       "cargos": {
@@ -8356,6 +9229,13 @@ const DATA = {
           "fav": 100.0,
           "n": 1,
           "apto": 1,
+          "reforzar": 0
+        },
+        "Auxiliar de almacen": {
+          "avg": 98.23863636363636,
+          "fav": 100.0,
+          "n": 8,
+          "apto": 8,
           "reforzar": 0
         },
         "Conductor": {
@@ -8386,12 +9266,26 @@ const DATA = {
           "apto": 1,
           "reforzar": 0
         },
+        "Líder de Gente": {
+          "avg": 100.0,
+          "fav": 100.0,
+          "n": 1,
+          "apto": 1,
+          "reforzar": 0
+        },
         "Líder de Ruta": {
           "avg": 85.0,
           "fav": 33.33333333333333,
           "n": 3,
           "apto": 1,
           "reforzar": 2
+        },
+        "Montacarguista": {
+          "avg": 96.96969696969695,
+          "fav": 100.0,
+          "n": 9,
+          "apto": 9,
+          "reforzar": 0
         },
         "Responsable de Reparto": {
           "avg": 94.00568181818181,
@@ -8580,6 +9474,96 @@ const DATA = {
           "Considera que este es un lugar seguro para trabajar": {
             "avg": 100.0,
             "fav": 100.0
+          }
+        },
+        "Auxiliar de almacen": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 98.75,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 97.5,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 97.5,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 98.75,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 97.5,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 98.75,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 96.25,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 97.5,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 96.25,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 96.25,
+            "fav": 87.5
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 96.25,
+            "fav": 87.5
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 98.75,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 96.25,
+            "fav": 87.5
           }
         },
         "Conductor": {
@@ -8942,6 +9926,96 @@ const DATA = {
             "fav": 0.0
           }
         },
+        "Líder de Gente": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          }
+        },
         "Líder de Ruta": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
             "avg": 100.0,
@@ -9030,6 +10104,96 @@ const DATA = {
           "Considera que este es un lugar seguro para trabajar": {
             "avg": 83.33333333333333,
             "fav": 66.66666666666666
+          }
+        },
+        "Montacarguista": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 98.88888888888889,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 92.22222222222223,
+            "fav": 88.88888888888889
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 94.44444444444444,
+            "fav": 88.88888888888889
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 88.88888888888889,
+            "fav": 77.77777777777779
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 95.55555555555556,
+            "fav": 88.88888888888889
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 96.66666666666667,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 93.33333333333333,
+            "fav": 88.88888888888889
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 96.66666666666667,
+            "fav": 88.88888888888889
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 97.77777777777777,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 92.22222222222223,
+            "fav": 88.88888888888889
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 95.55555555555556,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 97.77777777777777,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 97.77777777777777,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 98.88888888888889,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 96.66666666666667,
+            "fav": 100.0
           }
         },
         "Responsable de Reparto": {
@@ -9136,8 +10300,8 @@ const DATA = {
           "avg": 98.98305084745763,
           "fav": 98.30508474576271
         },
-        "Cultura e Inclusión": {
-          "avg": 98.64406779661017,
+        "Liderazgo": {
+          "avg": 98.98305084745763,
           "fav": 98.30508474576271
         },
         "Orgullo & Compromiso": {
@@ -9156,13 +10320,13 @@ const DATA = {
           "avg": 98.8135593220339,
           "fav": 100.0
         },
-        "Liderazgo": {
-          "avg": 98.98305084745763,
-          "fav": 98.30508474576271
-        },
         "Reconocimiento": {
           "avg": 98.22033898305085,
           "fav": 97.45762711864407
+        },
+        "Cultura e Inclusión": {
+          "avg": 98.64406779661017,
+          "fav": 98.30508474576271
         }
       },
       "questions": {
@@ -10539,9 +11703,9 @@ const DATA = {
           "avg": 98.68055555555556,
           "fav": 98.61111111111111
         },
-        "Cultura e Inclusión": {
-          "avg": 97.4074074074074,
-          "fav": 96.29629629629629
+        "Liderazgo": {
+          "avg": 97.22222222222223,
+          "fav": 97.22222222222221
         },
         "Orgullo & Compromiso": {
           "avg": 97.88194444444444,
@@ -10559,13 +11723,13 @@ const DATA = {
           "avg": 98.50694444444444,
           "fav": 98.61111111111111
         },
-        "Liderazgo": {
-          "avg": 97.22222222222223,
-          "fav": 97.22222222222221
-        },
         "Reconocimiento": {
           "avg": 95.69444444444444,
           "fav": 95.13888888888889
+        },
+        "Cultura e Inclusión": {
+          "avg": 97.4074074074074,
+          "fav": 96.29629629629629
         }
       },
       "questions": {
@@ -12136,9 +13300,9 @@ const DATA = {
           "avg": 91.91780821917808,
           "fav": 92.8082191780822
         },
-        "Cultura e Inclusión": {
-          "avg": 91.3013698630137,
-          "fav": 89.49771689497716
+        "Liderazgo": {
+          "avg": 91.32420091324201,
+          "fav": 89.72602739726028
         },
         "Orgullo & Compromiso": {
           "avg": 92.94520547945206,
@@ -12156,13 +13320,13 @@ const DATA = {
           "avg": 93.16780821917808,
           "fav": 93.83561643835617
         },
-        "Liderazgo": {
-          "avg": 91.32420091324201,
-          "fav": 89.72602739726028
-        },
         "Reconocimiento": {
           "avg": 88.08219178082192,
           "fav": 84.24657534246576
+        },
+        "Cultura e Inclusión": {
+          "avg": 91.3013698630137,
+          "fav": 89.49771689497716
         }
       },
       "questions": {
@@ -14014,169 +15178,169 @@ const DATA = {
     },
     "DC Cucuta": {
       "region": "Norte",
-      "avg": 89.82954545454545,
-      "fav": 89.0625,
-      "n": 64,
-      "apto": 57,
-      "reforzar": 7,
+      "avg": 92.26010101010101,
+      "fav": 92.36111111111111,
+      "n": 144,
+      "apto": 133,
+      "reforzar": 11,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 91.328125,
-          "fav": 89.0625
-        },
-        "Cultura e Inclusión": {
-          "avg": 89.21875,
-          "fav": 86.45833333333334
-        },
-        "Orgullo & Compromiso": {
-          "avg": 90.625,
-          "fav": 87.5
-        },
-        "Desarrollo Profesional": {
-          "avg": 89.140625,
-          "fav": 84.375
-        },
-        "Comunicación": {
-          "avg": 89.375,
-          "fav": 89.0625
-        },
-        "Seguridad & Recursos": {
-          "avg": 91.7578125,
-          "fav": 89.84375
+          "avg": 93.02083333333333,
+          "fav": 93.75
         },
         "Liderazgo": {
-          "avg": 88.69791666666667,
-          "fav": 85.41666666666666
+          "avg": 91.55092592592592,
+          "fav": 90.27777777777779
+        },
+        "Orgullo & Compromiso": {
+          "avg": 92.95138888888889,
+          "fav": 92.53472222222221
+        },
+        "Desarrollo Profesional": {
+          "avg": 91.66666666666667,
+          "fav": 91.31944444444444
+        },
+        "Comunicación": {
+          "avg": 92.22222222222223,
+          "fav": 93.05555555555556
+        },
+        "Seguridad & Recursos": {
+          "avg": 93.07291666666667,
+          "fav": 93.22916666666666
         },
         "Reconocimiento": {
-          "avg": 86.640625,
-          "fav": 81.25
+          "avg": 90.17361111111111,
+          "fav": 88.88888888888889
+        },
+        "Cultura e Inclusión": {
+          "avg": 92.26851851851852,
+          "fav": 92.12962962962963
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 90.78125,
-          "fav": 87.5
+          "avg": 93.05555555555556,
+          "fav": 91.66666666666666
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 90.3125,
-          "fav": 89.0625
+          "avg": 92.84722222222223,
+          "fav": 93.75
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 89.84375,
-          "fav": 87.5
+          "avg": 93.19444444444444,
+          "fav": 93.75
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 91.5625,
-          "fav": 85.9375
+          "avg": 92.70833333333333,
+          "fav": 90.97222222222221
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 85.78125,
-          "fav": 81.25
+          "avg": 89.72222222222223,
+          "fav": 88.88888888888889
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-          "avg": 87.5,
-          "fav": 81.25
+          "avg": 90.625,
+          "fav": 88.88888888888889
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 88.75,
-          "fav": 82.8125
+          "avg": 91.45833333333333,
+          "fav": 90.97222222222221
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 89.53125,
-          "fav": 85.9375
+          "avg": 91.875,
+          "fav": 91.66666666666666
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 88.59375,
-          "fav": 85.9375
+          "avg": 91.38888888888889,
+          "fav": 90.27777777777779
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 87.8125,
-          "fav": 84.375
+          "avg": 91.11111111111111,
+          "fav": 89.58333333333334
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 89.6875,
-          "fav": 85.9375
+          "avg": 92.15277777777777,
+          "fav": 90.97222222222221
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 90.15625,
-          "fav": 87.5
+          "avg": 92.29166666666667,
+          "fav": 91.66666666666666
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 89.375,
-          "fav": 85.9375
+          "avg": 92.5,
+          "fav": 92.36111111111111
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 88.125,
-          "fav": 85.9375
+          "avg": 92.01388888888889,
+          "fav": 92.36111111111111
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 89.0625,
-          "fav": 89.0625
+          "avg": 92.22222222222223,
+          "fav": 93.05555555555556
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 89.6875,
-          "fav": 89.0625
+          "avg": 92.22222222222223,
+          "fav": 93.05555555555556
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 91.875,
-          "fav": 90.625
+          "avg": 93.47222222222223,
+          "fav": 94.44444444444444
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 90.78125,
-          "fav": 87.5
+          "avg": 92.56944444444444,
+          "fav": 93.05555555555556
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 90.9375,
-          "fav": 89.0625
+          "avg": 92.84722222222223,
+          "fav": 92.36111111111111
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-          "avg": 90.46875,
-          "fav": 85.9375
+          "avg": 92.08333333333333,
+          "fav": 90.97222222222221
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 93.125,
-          "fav": 92.1875
+          "avg": 93.75,
+          "fav": 95.13888888888889
         },
         "Considera que este es un lugar seguro para trabajar": {
-          "avg": 92.5,
-          "fav": 92.1875
+          "avg": 93.61111111111111,
+          "fav": 94.44444444444444
         }
       },
       "operators": {
         "Transporte": {
-          "n": 64,
-          "avg": 89.82954545454545
+          "n": 144,
+          "avg": 92.26010101010101
         }
       },
       "cargos": {
         "Auxiliar de Distribución": {
-          "avg": 85.71969696969698,
-          "fav": 83.33333333333334,
-          "n": 12,
-          "apto": 10,
+          "avg": 91.66666666666669,
+          "fav": 93.33333333333333,
+          "n": 30,
+          "apto": 28,
           "reforzar": 2
         },
         "Auxiliar de Facturación": {
-          "avg": 94.31818181818181,
+          "avg": 95.75757575757575,
           "fav": 100.0,
-          "n": 2,
-          "apto": 2,
+          "n": 3,
+          "apto": 3,
           "reforzar": 0
         },
         "Auxiliar de almacen": {
-          "avg": 95.5050505050505,
-          "fav": 100.0,
-          "n": 9,
-          "apto": 9,
-          "reforzar": 0
+          "avg": 95.01976284584983,
+          "fav": 95.65217391304348,
+          "n": 23,
+          "apto": 22,
+          "reforzar": 1
         },
         "Conductor": {
-          "avg": 84.87012987012986,
-          "fav": 85.71428571428571,
-          "n": 7,
-          "apto": 6,
-          "reforzar": 1
+          "avg": 92.63257575757575,
+          "fav": 91.66666666666666,
+          "n": 24,
+          "apto": 22,
+          "reforzar": 2
         },
         "Conductor de Patio": {
           "avg": 100.0,
@@ -14186,14 +15350,21 @@ const DATA = {
           "reforzar": 0
         },
         "Gestión Administrativa": {
-          "avg": 94.20454545454545,
+          "avg": 95.45454545454545,
           "fav": 100.0,
-          "n": 4,
-          "apto": 4,
+          "n": 6,
+          "apto": 6,
           "reforzar": 0
         },
         "Gestión de Operación y Clientes": {
           "avg": 97.72727272727273,
+          "fav": 100.0,
+          "n": 1,
+          "apto": 1,
+          "reforzar": 0
+        },
+        "Jefe de Operación": {
+          "avg": 95.0,
           "fav": 100.0,
           "n": 1,
           "apto": 1,
@@ -14206,11 +15377,18 @@ const DATA = {
           "apto": 1,
           "reforzar": 0
         },
-        "Líder de Flota": {
-          "avg": 99.54545454545455,
+        "Líder de Distribución": {
+          "avg": 94.54545454545455,
           "fav": 100.0,
           "n": 1,
           "apto": 1,
+          "reforzar": 0
+        },
+        "Líder de Flota": {
+          "avg": 99.0909090909091,
+          "fav": 100.0,
+          "n": 2,
+          "apto": 2,
           "reforzar": 0
         },
         "Líder de Gente": {
@@ -14221,130 +15399,130 @@ const DATA = {
           "reforzar": 0
         },
         "Líder de Ruta": {
-          "avg": 99.54545454545455,
+          "avg": 98.03030303030305,
           "fav": 100.0,
-          "n": 3,
-          "apto": 3,
+          "n": 6,
+          "apto": 6,
           "reforzar": 0
         },
         "Líder de Seguridad": {
-          "avg": 90.45454545454545,
-          "fav": 100.0,
-          "n": 2,
-          "apto": 2,
-          "reforzar": 0
+          "avg": 89.20454545454547,
+          "fav": 75.0,
+          "n": 4,
+          "apto": 3,
+          "reforzar": 1
         },
         "Montacarguista": {
-          "avg": 81.06060606060606,
-          "fav": 66.66666666666666,
-          "n": 6,
-          "apto": 4,
+          "avg": 86.36363636363636,
+          "fav": 81.81818181818183,
+          "n": 11,
+          "apto": 9,
           "reforzar": 2
         },
         "Responsable de Reparto": {
-          "avg": 80.38961038961038,
-          "fav": 71.42857142857143,
-          "n": 7,
-          "apto": 5,
-          "reforzar": 2
+          "avg": 81.65584415584416,
+          "fav": 78.57142857142857,
+          "n": 14,
+          "apto": 11,
+          "reforzar": 3
         },
         "Verificador": {
-          "avg": 98.52272727272727,
+          "avg": 96.81818181818183,
           "fav": 100.0,
-          "n": 4,
-          "apto": 4,
+          "n": 12,
+          "apto": 12,
           "reforzar": 0
         }
       },
       "cargo_questions": {
         "Auxiliar de Distribución": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 88.33333333333333,
-            "fav": 83.33333333333334
+            "avg": 93.33333333333333,
+            "fav": 93.33333333333333
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 88.33333333333333,
-            "fav": 83.33333333333334
+            "avg": 92.66666666666667,
+            "fav": 93.33333333333333
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 80.83333333333333,
-            "fav": 66.66666666666666
+            "avg": 90.33333333333333,
+            "fav": 86.66666666666667
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 88.33333333333333,
-            "fav": 75.0
+            "avg": 92.0,
+            "fav": 90.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 78.33333333333333,
-            "fav": 75.0
+            "avg": 88.66666666666667,
+            "fav": 90.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 85.0,
-            "fav": 75.0
+            "avg": 91.0,
+            "fav": 90.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 82.5,
-            "fav": 75.0
+            "avg": 90.0,
+            "fav": 90.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 87.5,
-            "fav": 83.33333333333334
+            "avg": 93.0,
+            "fav": 93.33333333333333
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 81.66666666666667,
-            "fav": 75.0
+            "avg": 91.0,
+            "fav": 90.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 81.66666666666667,
-            "fav": 75.0
+            "avg": 90.33333333333333,
+            "fav": 90.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 85.0,
-            "fav": 83.33333333333334
+            "avg": 91.66666666666667,
+            "fav": 93.33333333333333
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 86.66666666666667,
-            "fav": 83.33333333333334
+            "avg": 92.66666666666667,
+            "fav": 93.33333333333333
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 82.5,
-            "fav": 75.0
+            "avg": 90.33333333333333,
+            "fav": 90.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 75.0,
-            "fav": 66.66666666666666
+            "avg": 86.66666666666667,
+            "fav": 86.66666666666667
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 85.83333333333333,
-            "fav": 83.33333333333334
+            "avg": 91.66666666666667,
+            "fav": 93.33333333333333
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 85.83333333333333,
-            "fav": 83.33333333333334
+            "avg": 92.0,
+            "fav": 93.33333333333333
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 88.33333333333333,
-            "fav": 83.33333333333334
+            "avg": 92.33333333333333,
+            "fav": 93.33333333333333
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 87.5,
-            "fav": 83.33333333333334
+            "avg": 91.66666666666667,
+            "fav": 93.33333333333333
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 89.16666666666667,
-            "fav": 83.33333333333334
+            "avg": 94.0,
+            "fav": 93.33333333333333
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 93.33333333333333,
-            "fav": 91.66666666666666
+            "avg": 94.33333333333333,
+            "fav": 93.33333333333333
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 93.33333333333333,
-            "fav": 91.66666666666666
+            "avg": 94.0,
+            "fav": 96.66666666666667
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 90.83333333333333,
-            "fav": 91.66666666666666
+            "avg": 93.0,
+            "fav": 96.66666666666667
           }
         },
         "Auxiliar de Facturación": {
@@ -14365,27 +15543,27 @@ const DATA = {
             "fav": 100.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 85.0,
-            "fav": 50.0
+            "avg": 90.0,
+            "fav": 66.66666666666666
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 85.0,
-            "fav": 50.0
+            "avg": 86.66666666666667,
+            "fav": 66.66666666666666
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
             "avg": 100.0,
             "fav": 100.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 90.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 90.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 90.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
@@ -14393,23 +15571,23 @@ const DATA = {
             "fav": 100.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 95.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 85.0,
-            "fav": 50.0
+            "avg": 90.0,
+            "fav": 66.66666666666666
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 85.0,
-            "fav": 50.0
+            "avg": 90.0,
+            "fav": 66.66666666666666
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 90.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 95.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
@@ -14425,7 +15603,7 @@ const DATA = {
             "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 95.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
@@ -14439,182 +15617,182 @@ const DATA = {
         },
         "Auxiliar de almacen": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 90.0,
-            "fav": 88.88888888888889
+            "avg": 93.47826086956522,
+            "fav": 91.30434782608695
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 97.77777777777777,
-            "fav": 100.0
+            "avg": 95.65217391304348,
+            "fav": 95.65217391304348
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 93.33333333333333,
+            "avg": 93.91304347826087,
             "fav": 100.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 97.77777777777777,
-            "fav": 100.0
+            "avg": 96.52173913043478,
+            "fav": 95.65217391304348
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 94.44444444444444,
-            "fav": 100.0
+            "avg": 95.21739130434783,
+            "fav": 95.65217391304348
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 93.33333333333333,
-            "fav": 88.88888888888889
+            "avg": 94.34782608695652,
+            "fav": 91.30434782608695
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 95.55555555555556,
-            "fav": 88.88888888888889
+            "avg": 94.34782608695652,
+            "fav": 95.65217391304348
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 95.55555555555556,
-            "fav": 100.0
+            "avg": 94.78260869565217,
+            "fav": 95.65217391304348
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 94.44444444444444,
-            "fav": 100.0
+            "avg": 93.91304347826087,
+            "fav": 95.65217391304348
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 92.22222222222223,
-            "fav": 88.88888888888889
+            "avg": 92.6086956521739,
+            "fav": 86.95652173913044
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 95.55555555555556,
-            "fav": 100.0
+            "avg": 93.91304347826087,
+            "fav": 95.65217391304348
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 96.66666666666667,
+            "avg": 96.52173913043478,
             "fav": 100.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 97.77777777777777,
-            "fav": 100.0
+            "avg": 95.21739130434783,
+            "fav": 95.65217391304348
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 94.44444444444444,
-            "fav": 100.0
+            "avg": 95.65217391304348,
+            "fav": 95.65217391304348
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 93.33333333333333,
-            "fav": 100.0
+            "avg": 95.21739130434783,
+            "fav": 95.65217391304348
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 96.66666666666667,
-            "fav": 100.0
+            "avg": 94.78260869565217,
+            "fav": 95.65217391304348
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 95.55555555555556,
-            "fav": 100.0
+            "avg": 96.52173913043478,
+            "fav": 95.65217391304348
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 97.77777777777777,
-            "fav": 100.0
+            "avg": 94.78260869565217,
+            "fav": 95.65217391304348
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 94.44444444444444,
+            "avg": 94.34782608695652,
             "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 95.21739130434783,
+            "fav": 95.65217391304348
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 96.66666666666667,
-            "fav": 100.0
+            "avg": 96.08695652173913,
+            "fav": 95.65217391304348
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 97.77777777777777,
-            "fav": 100.0
+            "avg": 97.3913043478261,
+            "fav": 95.65217391304348
           }
         },
         "Conductor": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 91.42857142857143,
-            "fav": 85.71428571428571
+            "avg": 95.41666666666667,
+            "fav": 95.83333333333334
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 87.14285714285714,
-            "fav": 85.71428571428571
+            "avg": 94.58333333333333,
+            "fav": 95.83333333333334
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 87.14285714285714,
-            "fav": 85.71428571428571
+            "avg": 94.58333333333333,
+            "fav": 95.83333333333334
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 88.57142857142857,
-            "fav": 85.71428571428571
+            "avg": 94.58333333333333,
+            "fav": 95.83333333333334
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 85.71428571428571,
-            "fav": 85.71428571428571
+            "avg": 92.91666666666667,
+            "fav": 95.83333333333334
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 85.71428571428571,
-            "fav": 85.71428571428571
+            "avg": 92.91666666666667,
+            "fav": 95.83333333333334
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 85.71428571428571,
-            "fav": 85.71428571428571
+            "avg": 92.91666666666667,
+            "fav": 95.83333333333334
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 82.85714285714286,
-            "fav": 71.42857142857143
+            "avg": 91.25,
+            "fav": 91.66666666666666
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 82.85714285714286,
-            "fav": 71.42857142857143
+            "avg": 91.25,
+            "fav": 87.5
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 82.85714285714286,
-            "fav": 71.42857142857143
+            "avg": 90.83333333333333,
+            "fav": 87.5
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 82.85714285714286,
-            "fav": 71.42857142857143
+            "avg": 91.25,
+            "fav": 87.5
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 82.85714285714286,
-            "fav": 71.42857142857143
+            "avg": 90.41666666666667,
+            "fav": 87.5
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 84.28571428571429,
-            "fav": 85.71428571428571
+            "avg": 93.33333333333333,
+            "fav": 95.83333333333334
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 84.28571428571429,
-            "fav": 85.71428571428571
+            "avg": 92.5,
+            "fav": 95.83333333333334
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 84.28571428571429,
-            "fav": 85.71428571428571
+            "avg": 92.08333333333333,
+            "fav": 91.66666666666666
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 81.42857142857143,
-            "fav": 71.42857142857143
+            "avg": 91.25,
+            "fav": 87.5
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 85.71428571428571,
-            "fav": 85.71428571428571
+            "avg": 93.75,
+            "fav": 95.83333333333334
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 87.14285714285714,
-            "fav": 85.71428571428571
+            "avg": 94.16666666666667,
+            "fav": 95.83333333333334
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 81.42857142857143,
-            "fav": 71.42857142857143
+            "avg": 90.41666666666667,
+            "fav": 87.5
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 81.42857142857143,
-            "fav": 71.42857142857143
+            "avg": 92.5,
+            "fav": 91.66666666666666
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 84.28571428571429,
-            "fav": 85.71428571428571
+            "avg": 93.33333333333333,
+            "fav": 95.83333333333334
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 87.14285714285714,
-            "fav": 85.71428571428571
+            "avg": 91.66666666666667,
+            "fav": 91.66666666666666
           }
         },
         "Conductor de Patio": {
@@ -14709,91 +15887,91 @@ const DATA = {
         },
         "Gestión Administrativa": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 97.5,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 82.5,
-            "fav": 75.0
+            "avg": 78.33333333333333,
+            "fav": 66.66666666666666
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 82.5,
-            "fav": 75.0
+            "avg": 85.0,
+            "fav": 83.33333333333334
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 82.5,
-            "fav": 75.0
+            "avg": 88.33333333333333,
+            "fav": 83.33333333333334
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 85.0,
-            "fav": 75.0
+            "avg": 90.0,
+            "fav": 83.33333333333334
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 95.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 85.0,
-            "fav": 75.0
+            "avg": 90.0,
+            "fav": 83.33333333333334
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 97.5,
+            "avg": 98.33333333333333,
             "fav": 100.0
           }
         },
@@ -14887,6 +16065,96 @@ const DATA = {
             "fav": 100.0
           }
         },
+        "Jefe de Operación": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 90.0,
+            "fav": 100.0
+          }
+        },
         "Líder de Almacén": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
             "avg": 100.0,
@@ -14977,6 +16245,96 @@ const DATA = {
             "fav": 100.0
           }
         },
+        "Líder de Distribución": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 70.0,
+            "fav": 0.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          }
+        },
         "Líder de Flota": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
             "avg": 100.0,
@@ -15039,7 +16397,7 @@ const DATA = {
             "fav": 100.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 90.0,
+            "avg": 95.0,
             "fav": 100.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
@@ -15051,8 +16409,8 @@ const DATA = {
             "fav": 100.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 85.0,
+            "fav": 50.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
             "avg": 100.0,
@@ -15159,7 +16517,7 @@ const DATA = {
         },
         "Líder de Ruta": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 100.0,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
@@ -15167,7 +16525,7 @@ const DATA = {
             "fav": 100.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 100.0,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
@@ -15175,51 +16533,51 @@ const DATA = {
             "fav": 100.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 100.0,
+            "avg": 95.0,
             "fav": 100.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 100.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 100.0,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 100.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 100.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 100.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 90.0,
-            "fav": 66.66666666666666
+            "avg": 93.33333333333333,
+            "fav": 83.33333333333334
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 95.0,
+            "fav": 83.33333333333334
           },
           "Puedo ser yo mismo(a) en el trabajo": {
             "avg": 100.0,
             "fav": 100.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 100.0,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 100.0,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 100.0,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
@@ -15227,7 +16585,7 @@ const DATA = {
             "fav": 100.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 100.0,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
@@ -15235,7 +16593,7 @@ const DATA = {
             "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 100.0,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
@@ -15249,11 +16607,11 @@ const DATA = {
         },
         "Líder de Seguridad": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 90.0,
-            "fav": 100.0
+            "avg": 87.5,
+            "fav": 75.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 90.0,
+            "avg": 92.5,
             "fav": 100.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
@@ -15261,15 +16619,15 @@ const DATA = {
             "fav": 100.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 95.0,
-            "fav": 100.0
+            "avg": 85.0,
+            "fav": 75.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 80.0,
-            "fav": 50.0
+            "avg": 85.0,
+            "fav": 75.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 80.0,
+            "avg": 72.5,
             "fav": 50.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
@@ -15277,27 +16635,27 @@ const DATA = {
             "fav": 100.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 95.0,
-            "fav": 100.0
+            "avg": 85.0,
+            "fav": 75.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 90.0,
-            "fav": 100.0
+            "avg": 87.5,
+            "fav": 75.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 90.0,
-            "fav": 100.0
+            "avg": 87.5,
+            "fav": 75.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 90.0,
-            "fav": 100.0
+            "avg": 87.5,
+            "fav": 75.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
             "avg": 90.0,
             "fav": 100.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 95.0,
+            "avg": 97.5,
             "fav": 100.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
@@ -15309,7 +16667,7 @@ const DATA = {
             "fav": 100.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 95.0,
+            "avg": 92.5,
             "fav": 100.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
@@ -15317,7 +16675,7 @@ const DATA = {
             "fav": 100.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 95.0,
+            "avg": 92.5,
             "fav": 100.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
@@ -15329,233 +16687,233 @@ const DATA = {
             "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 90.0,
+            "avg": 92.5,
             "fav": 100.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 90.0,
+            "avg": 92.5,
             "fav": 100.0
           }
         },
         "Montacarguista": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 73.33333333333333,
-            "fav": 50.0
+            "avg": 82.72727272727273,
+            "fav": 72.72727272727273
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 78.33333333333333,
-            "fav": 66.66666666666666
+            "avg": 83.63636363636364,
+            "fav": 81.81818181818183
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 96.66666666666667,
+            "avg": 98.18181818181819,
             "fav": 100.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 73.33333333333333,
-            "fav": 50.0
+            "avg": 79.0909090909091,
+            "fav": 63.63636363636363
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 80.0,
-            "fav": 66.66666666666666
+            "avg": 83.63636363636364,
+            "fav": 81.81818181818183
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 80.0,
-            "fav": 66.66666666666666
+            "avg": 85.45454545454545,
+            "fav": 81.81818181818183
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 83.33333333333333,
-            "fav": 66.66666666666666
+            "avg": 87.27272727272727,
+            "fav": 81.81818181818183
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 80.0,
-            "fav": 66.66666666666666
+            "avg": 84.54545454545455,
+            "fav": 81.81818181818183
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 80.0,
-            "fav": 66.66666666666666
+            "avg": 84.54545454545455,
+            "fav": 81.81818181818183
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 76.66666666666667,
-            "fav": 66.66666666666666
+            "avg": 83.63636363636364,
+            "fav": 81.81818181818183
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 81.66666666666667,
-            "fav": 66.66666666666666
+            "avg": 87.27272727272727,
+            "fav": 81.81818181818183
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 78.33333333333333,
-            "fav": 66.66666666666666
+            "avg": 83.63636363636364,
+            "fav": 72.72727272727273
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 80.0,
-            "fav": 66.66666666666666
+            "avg": 87.27272727272727,
+            "fav": 81.81818181818183
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 85.0,
-            "fav": 83.33333333333334
+            "avg": 90.0,
+            "fav": 90.9090909090909
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 76.66666666666667,
-            "fav": 66.66666666666666
+            "avg": 84.54545454545455,
+            "fav": 81.81818181818183
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 85.0,
-            "fav": 83.33333333333334
+            "avg": 90.9090909090909,
+            "fav": 90.9090909090909
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 80.0,
-            "fav": 66.66666666666666
+            "avg": 85.45454545454545,
+            "fav": 81.81818181818183
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 75.0,
-            "fav": 50.0
+            "avg": 82.72727272727273,
+            "fav": 72.72727272727273
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 83.33333333333333,
-            "fav": 83.33333333333334
+            "avg": 90.0,
+            "fav": 90.9090909090909
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 85.0,
-            "fav": 66.66666666666666
+            "avg": 89.0909090909091,
+            "fav": 81.81818181818183
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 86.66666666666667,
-            "fav": 83.33333333333334
+            "avg": 87.27272727272727,
+            "fav": 90.9090909090909
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 85.0,
-            "fav": 83.33333333333334
+            "avg": 89.0909090909091,
+            "fav": 90.9090909090909
           }
         },
         "Responsable de Reparto": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 88.57142857142857,
-            "fav": 85.71428571428571
+            "avg": 86.42857142857143,
+            "fav": 78.57142857142857
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 81.42857142857143,
-            "fav": 71.42857142857143
+            "avg": 83.57142857142857,
+            "fav": 78.57142857142857
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 80.0,
-            "fav": 71.42857142857143
+            "avg": 84.28571428571429,
+            "fav": 78.57142857142857
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 90.0,
+            "avg": 87.85714285714286,
             "fav": 85.71428571428571
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 77.14285714285714,
+            "avg": 77.85714285714286,
             "fav": 71.42857142857143
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 78.57142857142857,
+            "avg": 79.28571428571429,
             "fav": 71.42857142857143
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 77.14285714285714,
-            "fav": 57.14285714285714
+            "avg": 79.28571428571429,
+            "fav": 64.28571428571429
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 80.0,
-            "fav": 71.42857142857143
+            "avg": 81.42857142857143,
+            "fav": 78.57142857142857
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 77.14285714285714,
+            "avg": 80.71428571428571,
             "fav": 71.42857142857143
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 77.14285714285714,
-            "fav": 71.42857142857143
+            "avg": 80.71428571428571,
+            "fav": 78.57142857142857
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 80.0,
-            "fav": 71.42857142857143
+            "avg": 82.85714285714286,
+            "fav": 78.57142857142857
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 80.0,
-            "fav": 71.42857142857143
+            "avg": 80.71428571428571,
+            "fav": 78.57142857142857
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 78.57142857142857,
-            "fav": 71.42857142857143
+            "avg": 80.0,
+            "fav": 78.57142857142857
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 78.57142857142857,
-            "fav": 71.42857142857143
+            "avg": 80.71428571428571,
+            "fav": 78.57142857142857
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 77.14285714285714,
-            "fav": 71.42857142857143
+            "avg": 80.71428571428571,
+            "fav": 78.57142857142857
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 75.71428571428571,
-            "fav": 71.42857142857143
+            "avg": 79.28571428571429,
+            "fav": 78.57142857142857
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 88.57142857142857,
+            "avg": 83.57142857142857,
             "fav": 85.71428571428571
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
             "avg": 81.42857142857143,
-            "fav": 71.42857142857143
+            "fav": 78.57142857142857
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 84.28571428571429,
+            "avg": 83.57142857142857,
             "fav": 71.42857142857143
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 72.85714285714286,
-            "fav": 57.14285714285714
+            "avg": 77.85714285714286,
+            "fav": 71.42857142857143
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 84.28571428571429,
-            "fav": 71.42857142857143
+            "avg": 82.85714285714286,
+            "fav": 78.57142857142857
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 80.0,
-            "fav": 71.42857142857143
+            "avg": 81.42857142857143,
+            "fav": 78.57142857142857
           }
         },
         "Verificador": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 97.5,
+            "avg": 94.16666666666667,
             "fav": 100.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 97.5,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 97.5,
+            "avg": 95.83333333333333,
             "fav": 100.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 100.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 100.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 100.0,
+            "avg": 99.16666666666667,
             "fav": 100.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 100.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 100.0,
+            "avg": 99.16666666666667,
             "fav": 100.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 97.5,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 95.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
@@ -15563,7 +16921,7 @@ const DATA = {
             "fav": 100.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 97.5,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
@@ -15571,19 +16929,19 @@ const DATA = {
             "fav": 100.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 100.0,
+            "avg": 99.16666666666667,
             "fav": 100.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 100.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 97.5,
+            "avg": 95.0,
             "fav": 100.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 100.0,
+            "avg": 98.33333333333333,
             "fav": 100.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
@@ -15591,19 +16949,19 @@ const DATA = {
             "fav": 100.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 97.5,
+            "avg": 99.16666666666667,
             "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 97.5,
+            "avg": 95.0,
             "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 100.0,
+            "avg": 97.5,
             "fav": 100.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 100.0,
+            "avg": 98.33333333333333,
             "fav": 100.0
           }
         }
@@ -15621,7 +16979,7 @@ const DATA = {
           "avg": 100.0,
           "fav": 100.0
         },
-        "Cultura e Inclusión": {
+        "Liderazgo": {
           "avg": 100.0,
           "fav": 100.0
         },
@@ -15641,12 +16999,12 @@ const DATA = {
           "avg": 100.0,
           "fav": 100.0
         },
-        "Liderazgo": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
         "Reconocimiento": {
           "avg": 90.0,
+          "fav": 100.0
+        },
+        "Cultura e Inclusión": {
+          "avg": 100.0,
           "fav": 100.0
         }
       },
@@ -15860,9 +17218,9 @@ const DATA = {
           "avg": 89.71264367816092,
           "fav": 85.63218390804597
         },
-        "Cultura e Inclusión": {
-          "avg": 86.66666666666667,
-          "fav": 82.75862068965517
+        "Liderazgo": {
+          "avg": 85.47892720306514,
+          "fav": 79.6934865900383
         },
         "Orgullo & Compromiso": {
           "avg": 89.91379310344827,
@@ -15880,13 +17238,13 @@ const DATA = {
           "avg": 88.85057471264368,
           "fav": 84.19540229885058
         },
-        "Liderazgo": {
-          "avg": 85.47892720306514,
-          "fav": 79.6934865900383
-        },
         "Reconocimiento": {
           "avg": 84.36781609195403,
           "fav": 77.58620689655173
+        },
+        "Cultura e Inclusión": {
+          "avg": 86.66666666666667,
+          "fav": 82.75862068965517
         }
       },
       "questions": {
@@ -17166,9 +18524,9 @@ const DATA = {
           "avg": 91.23711340206185,
           "fav": 91.23711340206185
         },
-        "Cultura e Inclusión": {
-          "avg": 89.106529209622,
-          "fav": 88.65979381443299
+        "Liderazgo": {
+          "avg": 91.78694158075601,
+          "fav": 91.40893470790378
         },
         "Orgullo & Compromiso": {
           "avg": 91.46907216494846,
@@ -17186,13 +18544,13 @@ const DATA = {
           "avg": 92.9381443298969,
           "fav": 93.04123711340206
         },
-        "Liderazgo": {
-          "avg": 91.78694158075601,
-          "fav": 91.40893470790378
-        },
         "Reconocimiento": {
           "avg": 87.9381443298969,
           "fav": 84.02061855670104
+        },
+        "Cultura e Inclusión": {
+          "avg": 89.106529209622,
+          "fav": 88.65979381443299
         }
       },
       "questions": {
@@ -18850,143 +20208,178 @@ const DATA = {
     },
     "DC Girardot": {
       "region": "Sur",
-      "avg": 100.0,
-      "fav": 100.0,
-      "n": 1,
-      "apto": 1,
-      "reforzar": 0,
+      "avg": 89.54545454545453,
+      "fav": 90.0,
+      "n": 10,
+      "apto": 9,
+      "reforzar": 1,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
-        "Cultura e Inclusión": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
-        "Orgullo & Compromiso": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
-        "Desarrollo Profesional": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
-        "Comunicación": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
-        "Seguridad & Recursos": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 93.0,
+          "fav": 90.0
         },
         "Liderazgo": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 88.0,
+          "fav": 90.0
+        },
+        "Orgullo & Compromiso": {
+          "avg": 91.5,
+          "fav": 92.5
+        },
+        "Desarrollo Profesional": {
+          "avg": 87.5,
+          "fav": 90.0
+        },
+        "Comunicación": {
+          "avg": 91.5,
+          "fav": 90.0
+        },
+        "Seguridad & Recursos": {
+          "avg": 87.25,
+          "fav": 90.0
         },
         "Reconocimiento": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 88.0,
+          "fav": 90.0
+        },
+        "Cultura e Inclusión": {
+          "avg": 90.33333333333333,
+          "fav": 86.66666666666667
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 92.0,
+          "fav": 90.0
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 86.0,
+          "fav": 90.0
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 100.0,
+          "avg": 98.0,
           "fav": 100.0
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 90.0,
+          "fav": 90.0
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 89.0,
+          "fav": 90.0
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 87.0,
+          "fav": 90.0
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 87.0,
+          "fav": 90.0
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 88.0,
+          "fav": 90.0
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 87.0,
+          "fav": 90.0
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 88.0,
+          "fav": 90.0
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 89.0,
+          "fav": 90.0
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 90.0,
+          "fav": 80.0
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 92.0,
+          "fav": 90.0
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 89.0,
+          "fav": 90.0
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 89.0,
+          "fav": 90.0
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 94.0,
+          "fav": 90.0
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 94.0,
+          "fav": 90.0
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 92.0,
+          "fav": 90.0
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 90.0,
+          "fav": 90.0
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 87.0,
+          "fav": 90.0
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 88.0,
+          "fav": 90.0
         },
         "Considera que este es un lugar seguro para trabajar": {
-          "avg": 100.0,
-          "fav": 100.0
+          "avg": 84.0,
+          "fav": 90.0
         }
       },
       "operators": {
-        "Transporte": {
-          "n": 1,
-          "avg": 100.0
+        "Almacen": {
+          "n": 10,
+          "avg": 89.54545454545453
         }
       },
       "cargos": {
         "Auxiliar de Distribución": {
+          "avg": 100.0,
+          "fav": 100.0,
+          "n": 1,
+          "apto": 1,
+          "reforzar": 0
+        },
+        "Auxiliar de Facturación": {
+          "avg": 56.59090909090909,
+          "fav": 50.0,
+          "n": 2,
+          "apto": 1,
+          "reforzar": 1
+        },
+        "Auxiliar de almacen": {
+          "avg": 98.4090909090909,
+          "fav": 100.0,
+          "n": 4,
+          "apto": 4,
+          "reforzar": 0
+        },
+        "Líder de Gente": {
+          "avg": 88.63636363636364,
+          "fav": 100.0,
+          "n": 1,
+          "apto": 1,
+          "reforzar": 0
+        },
+        "Líder de Seguridad": {
+          "avg": 100.0,
+          "fav": 100.0,
+          "n": 1,
+          "apto": 1,
+          "reforzar": 0
+        },
+        "Montacarguista": {
           "avg": 100.0,
           "fav": 100.0,
           "n": 1,
@@ -19084,144 +20477,594 @@ const DATA = {
             "avg": 100.0,
             "fav": 100.0
           }
+        },
+        "Auxiliar de Facturación": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 65.0,
+            "fav": 50.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 45.0,
+            "fav": 50.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 55.0,
+            "fav": 50.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 50.0,
+            "fav": 50.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 50.0,
+            "fav": 50.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 45.0,
+            "fav": 50.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 50.0,
+            "fav": 50.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 50.0,
+            "fav": 50.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 50.0,
+            "fav": 50.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 50.0,
+            "fav": 50.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 70.0,
+            "fav": 50.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 65.0,
+            "fav": 50.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 50.0,
+            "fav": 50.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 55.0,
+            "fav": 50.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 75.0,
+            "fav": 50.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 75.0,
+            "fav": 50.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 65.0,
+            "fav": 50.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 55.0,
+            "fav": 50.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 40.0,
+            "fav": 50.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 50.0,
+            "fav": 50.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 40.0,
+            "fav": 50.0
+          }
+        },
+        "Auxiliar de almacen": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 97.5,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 97.5,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 97.5,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 92.5,
+            "fav": 75.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 97.5,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 97.5,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 95.0,
+            "fav": 100.0
+          }
+        },
+        "Líder de Gente": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 80.0,
+            "fav": 100.0
+          }
+        },
+        "Líder de Seguridad": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          }
+        },
+        "Montacarguista": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          }
         }
       }
     },
     "DC Girardota": {
       "region": "Andes",
-      "avg": 86.49250234301782,
-      "fav": 77.31958762886599,
-      "n": 194,
-      "apto": 150,
+      "avg": 86.50349650349649,
+      "fav": 77.43589743589745,
+      "n": 195,
+      "apto": 151,
       "reforzar": 44,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 87.73195876288659,
-          "fav": 82.21649484536083
-        },
-        "Cultura e Inclusión": {
-          "avg": 84.93127147766323,
-          "fav": 78.52233676975945
-        },
-        "Orgullo & Compromiso": {
-          "avg": 89.25257731958763,
-          "fav": 84.92268041237114
-        },
-        "Desarrollo Profesional": {
-          "avg": 85.33505154639175,
-          "fav": 77.31958762886599
-        },
-        "Comunicación": {
-          "avg": 85.30927835051547,
-          "fav": 78.8659793814433
-        },
-        "Seguridad & Recursos": {
-          "avg": 88.47938144329896,
-          "fav": 82.86082474226805
+          "avg": 87.71794871794872,
+          "fav": 82.3076923076923
         },
         "Liderazgo": {
-          "avg": 86.25429553264605,
-          "fav": 79.89690721649485
+          "avg": 86.3076923076923,
+          "fav": 80.0
+        },
+        "Orgullo & Compromiso": {
+          "avg": 89.25641025641026,
+          "fav": 85.0
+        },
+        "Desarrollo Profesional": {
+          "avg": 85.38461538461539,
+          "fav": 77.43589743589745
+        },
+        "Comunicación": {
+          "avg": 85.28205128205128,
+          "fav": 78.71794871794872
+        },
+        "Seguridad & Recursos": {
+          "avg": 88.41025641025641,
+          "fav": 82.6923076923077
         },
         "Reconocimiento": {
-          "avg": 80.79896907216495,
-          "fav": 69.0721649484536
+          "avg": 80.8974358974359,
+          "fav": 69.23076923076923
+        },
+        "Cultura e Inclusión": {
+          "avg": 84.97435897435898,
+          "fav": 78.63247863247864
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 88.14432989690722,
-          "fav": 81.95876288659794
+          "avg": 88.15384615384616,
+          "fav": 82.05128205128204
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 89.69072164948453,
-          "fav": 86.5979381443299
+          "avg": 89.74358974358974,
+          "fav": 86.66666666666667
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 87.88659793814433,
-          "fav": 82.4742268041237
+          "avg": 87.84615384615384,
+          "fav": 82.56410256410255
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 91.28865979381443,
-          "fav": 88.65979381443299
+          "avg": 91.28205128205128,
+          "fav": 88.71794871794872
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 80.4639175257732,
-          "fav": 67.5257731958763
+          "avg": 80.56410256410257,
+          "fav": 67.6923076923077
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-          "avg": 81.1340206185567,
-          "fav": 70.61855670103093
+          "avg": 81.23076923076923,
+          "fav": 70.76923076923077
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 85.56701030927834,
-          "fav": 78.35051546391753
+          "avg": 85.64102564102564,
+          "fav": 78.46153846153847
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 85.10309278350516,
-          "fav": 76.28865979381443
+          "avg": 85.12820512820512,
+          "fav": 76.41025641025641
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 85.0,
-          "fav": 78.35051546391753
+          "avg": 85.02564102564102,
+          "fav": 78.46153846153847
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 85.6701030927835,
-          "fav": 77.83505154639175
+          "avg": 85.74358974358974,
+          "fav": 77.94871794871796
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 88.09278350515464,
-          "fav": 83.50515463917526
+          "avg": 88.15384615384616,
+          "fav": 83.58974358974359
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 84.12371134020619,
-          "fav": 77.83505154639175
+          "avg": 84.2051282051282,
+          "fav": 77.94871794871796
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 88.24742268041237,
-          "fav": 84.02061855670104
+          "avg": 88.25641025641026,
+          "fav": 84.1025641025641
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 82.42268041237114,
-          "fav": 73.71134020618557
+          "avg": 82.46153846153847,
+          "fav": 73.84615384615385
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 84.63917525773196,
-          "fav": 77.31958762886599
+          "avg": 84.66666666666667,
+          "fav": 77.43589743589745
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 85.97938144329896,
-          "fav": 80.41237113402062
+          "avg": 85.8974358974359,
+          "fav": 80.0
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 88.04123711340206,
-          "fav": 82.9896907216495
+          "avg": 88.0,
+          "fav": 83.07692307692308
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 87.42268041237114,
-          "fav": 81.44329896907216
+          "avg": 87.43589743589743,
+          "fav": 81.53846153846153
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 87.01030927835052,
-          "fav": 79.38144329896907
+          "avg": 86.97435897435898,
+          "fav": 79.48717948717949
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-          "avg": 89.5360824742268,
-          "fav": 85.56701030927834
+          "avg": 89.43589743589743,
+          "fav": 85.12820512820512
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 88.6082474226804,
-          "fav": 82.4742268041237
+          "avg": 88.51282051282051,
+          "fav": 82.05128205128204
         },
         "Considera que este es un lugar seguro para trabajar": {
-          "avg": 88.76288659793815,
-          "fav": 84.02061855670104
+          "avg": 88.71794871794872,
+          "fav": 84.1025641025641
         }
       },
       "operators": {
         "Transporte": {
-          "n": 194,
-          "avg": 86.49250234301782
+          "n": 195,
+          "avg": 86.50349650349649
         }
       },
       "cargos": {
@@ -19247,10 +21090,10 @@ const DATA = {
           "reforzar": 1
         },
         "Auxiliar de almacen": {
-          "avg": 90.25454545454546,
-          "fav": 88.0,
-          "n": 25,
-          "apto": 22,
+          "avg": 90.1923076923077,
+          "fav": 88.46153846153845,
+          "n": 26,
+          "apto": 23,
           "reforzar": 3
         },
         "Cajero Liquidador": {
@@ -19625,92 +21468,92 @@ const DATA = {
         },
         "Auxiliar de almacen": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 94.4,
-            "fav": 92.0
+            "avg": 94.23076923076923,
+            "fav": 92.3076923076923
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 94.0,
-            "fav": 92.0
+            "avg": 94.23076923076923,
+            "fav": 92.3076923076923
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 92.4,
-            "fav": 84.0
+            "avg": 91.92307692307692,
+            "fav": 84.61538461538461
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 96.0,
+            "avg": 95.76923076923077,
             "fav": 100.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 86.4,
-            "fav": 76.0
+            "avg": 86.92307692307692,
+            "fav": 76.92307692307693
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 86.4,
-            "fav": 80.0
+            "avg": 86.92307692307692,
+            "fav": 80.76923076923077
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 91.6,
-            "fav": 96.0
+            "avg": 91.92307692307692,
+            "fav": 96.15384615384616
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 88.0,
-            "fav": 80.0
+            "avg": 88.07692307692308,
+            "fav": 80.76923076923077
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 88.8,
-            "fav": 80.0
+            "avg": 88.84615384615384,
+            "fav": 80.76923076923077
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 86.4,
-            "fav": 72.0
+            "avg": 86.92307692307692,
+            "fav": 73.07692307692307
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 93.6,
-            "fav": 92.0
+            "avg": 93.84615384615384,
+            "fav": 92.3076923076923
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 85.2,
-            "fav": 80.0
+            "avg": 85.76923076923077,
+            "fav": 80.76923076923077
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 92.4,
-            "fav": 96.0
+            "avg": 92.3076923076923,
+            "fav": 96.15384615384616
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 82.8,
-            "fav": 68.0
+            "avg": 83.07692307692308,
+            "fav": 69.23076923076923
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 86.8,
-            "fav": 84.0
+            "avg": 86.92307692307692,
+            "fav": 84.61538461538461
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 89.2,
-            "fav": 84.0
+            "avg": 88.46153846153847,
+            "fav": 80.76923076923077
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 93.2,
-            "fav": 92.0
+            "avg": 92.6923076923077,
+            "fav": 92.3076923076923
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 91.2,
-            "fav": 88.0
+            "avg": 91.15384615384616,
+            "fav": 88.46153846153845
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 90.4,
-            "fav": 88.0
+            "avg": 90.0,
+            "fav": 88.46153846153845
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 94.8,
-            "fav": 96.0
+            "avg": 93.84615384615384,
+            "fav": 92.3076923076923
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 90.0,
-            "fav": 84.0
+            "avg": 89.23076923076923,
+            "fav": 80.76923076923077
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 91.6,
-            "fav": 92.0
+            "avg": 91.15384615384616,
+            "fav": 92.3076923076923
           }
         },
         "Cajero Liquidador": {
@@ -20987,8 +22830,8 @@ const DATA = {
           "avg": 88.19444444444444,
           "fav": 86.11111111111111
         },
-        "Cultura e Inclusión": {
-          "avg": 87.12962962962963,
+        "Liderazgo": {
+          "avg": 87.00617283950618,
           "fav": 83.64197530864197
         },
         "Orgullo & Compromiso": {
@@ -21007,13 +22850,13 @@ const DATA = {
           "avg": 89.97685185185185,
           "fav": 88.88888888888889
         },
-        "Liderazgo": {
-          "avg": 87.00617283950618,
-          "fav": 83.64197530864197
-        },
         "Reconocimiento": {
           "avg": 85.04629629629629,
           "fav": 78.70370370370371
+        },
+        "Cultura e Inclusión": {
+          "avg": 87.12962962962963,
+          "fav": 83.64197530864197
         }
       },
       "questions": {
@@ -22766,177 +24609,707 @@ const DATA = {
         }
       }
     },
-    "DC Itagui": {
-      "region": "Andes",
-      "avg": 86.56217345872518,
-      "fav": 67.43295019157088,
-      "n": 261,
-      "apto": 176,
-      "reforzar": 85,
+    "DC Ibague": {
+      "region": "Sur",
+      "avg": 86.44628099173555,
+      "fav": 72.72727272727273,
+      "n": 11,
+      "apto": 8,
+      "reforzar": 3,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 87.37547892720306,
-          "fav": 77.39463601532567
-        },
-        "Cultura e Inclusión": {
-          "avg": 87.08812260536398,
-          "fav": 78.28863346104725
-        },
-        "Orgullo & Compromiso": {
-          "avg": 84.56896551724138,
-          "fav": 73.18007662835248
-        },
-        "Desarrollo Profesional": {
-          "avg": 86.36015325670498,
-          "fav": 76.62835249042146
-        },
-        "Comunicación": {
-          "avg": 87.79693486590038,
-          "fav": 78.73563218390804
-        },
-        "Seguridad & Recursos": {
-          "avg": 86.82950191570882,
-          "fav": 77.20306513409962
+          "avg": 89.0909090909091,
+          "fav": 86.36363636363636
         },
         "Liderazgo": {
-          "avg": 86.89655172413794,
-          "fav": 77.52234993614304
+          "avg": 80.60606060606061,
+          "fav": 66.66666666666666
+        },
+        "Orgullo & Compromiso": {
+          "avg": 89.54545454545455,
+          "fav": 93.18181818181817
+        },
+        "Desarrollo Profesional": {
+          "avg": 86.36363636363636,
+          "fav": 86.36363636363636
+        },
+        "Comunicación": {
+          "avg": 83.18181818181819,
+          "fav": 77.27272727272727
+        },
+        "Seguridad & Recursos": {
+          "avg": 89.31818181818181,
+          "fav": 93.18181818181817
         },
         "Reconocimiento": {
-          "avg": 86.87739463601532,
-          "fav": 77.77777777777779
+          "avg": 85.9090909090909,
+          "fav": 81.81818181818183
+        },
+        "Cultura e Inclusión": {
+          "avg": 85.15151515151516,
+          "fav": 81.81818181818183
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 85.59386973180077,
-          "fav": 78.544061302682
+          "avg": 90.0,
+          "fav": 90.9090909090909
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 85.09578544061303,
-          "fav": 70.49808429118774
+          "avg": 90.0,
+          "fav": 100.0
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 82.1455938697318,
-          "fav": 67.04980842911877
+          "avg": 87.27272727272727,
+          "fav": 90.9090909090909
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 85.44061302681992,
-          "fav": 76.62835249042146
+          "avg": 90.9090909090909,
+          "fav": 90.9090909090909
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 87.39463601532567,
-          "fav": 80.07662835249042
+          "avg": 83.63636363636364,
+          "fav": 72.72727272727273
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-          "avg": 86.36015325670498,
-          "fav": 75.47892720306514
+          "avg": 88.18181818181819,
+          "fav": 90.9090909090909
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 87.47126436781609,
-          "fav": 78.9272030651341
+          "avg": 86.36363636363636,
+          "fav": 90.9090909090909
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 85.24904214559388,
-          "fav": 74.32950191570882
+          "avg": 86.36363636363636,
+          "fav": 81.81818181818183
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 87.35632183908046,
-          "fav": 78.9272030651341
+          "avg": 80.0,
+          "fav": 72.72727272727273
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 87.01149425287356,
-          "fav": 78.16091954022988
+          "avg": 77.27272727272727,
+          "fav": 54.54545454545454
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 86.32183908045977,
-          "fav": 75.47892720306514
+          "avg": 84.54545454545455,
+          "fav": 72.72727272727273
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 87.20306513409962,
-          "fav": 82.37547892720306
+          "avg": 84.54545454545455,
+          "fav": 81.81818181818183
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 87.20306513409962,
-          "fav": 75.47892720306514
+          "avg": 82.72727272727273,
+          "fav": 72.72727272727273
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 86.85823754789271,
-          "fav": 77.01149425287356
+          "avg": 88.18181818181819,
+          "fav": 90.9090909090909
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 88.65900383141762,
-          "fav": 83.9080459770115
+          "avg": 86.36363636363636,
+          "fav": 90.9090909090909
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 86.93486590038314,
-          "fav": 73.5632183908046
+          "avg": 80.0,
+          "fav": 63.63636363636363
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 86.93486590038314,
-          "fav": 77.01149425287356
+          "avg": 89.0909090909091,
+          "fav": 90.9090909090909
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 87.816091954023,
-          "fav": 77.77777777777779
+          "avg": 89.0909090909091,
+          "fav": 81.81818181818183
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 85.93869731800767,
-          "fav": 77.01149425287356
+          "avg": 85.45454545454545,
+          "fav": 81.81818181818183
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-          "avg": 88.19923371647509,
-          "fav": 80.07662835249042
+          "avg": 90.0,
+          "fav": 100.0
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 86.20689655172414,
-          "fav": 73.9463601532567
+          "avg": 91.81818181818181,
+          "fav": 100.0
         },
         "Considera que este es un lugar seguro para trabajar": {
-          "avg": 86.97318007662835,
-          "fav": 77.77777777777779
+          "avg": 90.0,
+          "fav": 90.9090909090909
+        }
+      },
+      "operators": {
+        "Almacen": {
+          "n": 11,
+          "avg": 86.44628099173555
+        }
+      },
+      "cargos": {
+        "Auxiliar de Facturación": {
+          "avg": 87.72727272727272,
+          "fav": 100.0,
+          "n": 2,
+          "apto": 2,
+          "reforzar": 0
+        },
+        "Auxiliar de almacen": {
+          "avg": 85.90909090909092,
+          "fav": 66.66666666666666,
+          "n": 3,
+          "apto": 2,
+          "reforzar": 1
+        },
+        "Montacarguista": {
+          "avg": 87.72727272727272,
+          "fav": 80.0,
+          "n": 5,
+          "apto": 4,
+          "reforzar": 1
+        },
+        "Verificador": {
+          "avg": 79.0909090909091,
+          "fav": 0.0,
+          "n": 1,
+          "apto": 0,
+          "reforzar": 1
+        }
+      },
+      "cargo_questions": {
+        "Auxiliar de Facturación": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 85.0,
+            "fav": 50.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 85.0,
+            "fav": 50.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 50.0,
+            "fav": 0.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 50.0,
+            "fav": 0.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 60.0,
+            "fav": 0.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 85.0,
+            "fav": 50.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 85.0,
+            "fav": 50.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 95.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          }
+        },
+        "Auxiliar de almacen": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 80.0,
+            "fav": 66.66666666666666
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 86.66666666666667,
+            "fav": 66.66666666666666
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 80.0,
+            "fav": 33.33333333333333
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 83.33333333333333,
+            "fav": 66.66666666666666
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 83.33333333333333,
+            "fav": 66.66666666666666
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 83.33333333333333,
+            "fav": 66.66666666666666
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 83.33333333333333,
+            "fav": 66.66666666666666
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 83.33333333333333,
+            "fav": 66.66666666666666
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 86.66666666666667,
+            "fav": 66.66666666666666
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 76.66666666666667,
+            "fav": 33.33333333333333
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 93.33333333333333,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 73.33333333333333,
+            "fav": 33.33333333333333
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 86.66666666666667,
+            "fav": 66.66666666666666
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 83.33333333333333,
+            "fav": 66.66666666666666
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 93.33333333333333,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 83.33333333333333,
+            "fav": 66.66666666666666
+          }
+        },
+        "Montacarguista": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 92.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 86.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 86.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 86.0,
+            "fav": 80.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 84.0,
+            "fav": 80.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 84.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 84.0,
+            "fav": 80.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 88.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 84.0,
+            "fav": 80.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 78.0,
+            "fav": 60.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 92.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 84.0,
+            "fav": 80.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 88.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 92.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 92.0,
+            "fav": 100.0
+          }
+        },
+        "Verificador": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 70.0,
+            "fav": 0.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 70.0,
+            "fav": 0.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 70.0,
+            "fav": 0.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 70.0,
+            "fav": 0.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 90.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 80.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 80.0,
+            "fav": 100.0
+          }
+        }
+      }
+    },
+    "DC Itagui": {
+      "region": "Andes",
+      "avg": 89.20839160839161,
+      "fav": 73.84615384615385,
+      "n": 325,
+      "apto": 240,
+      "reforzar": 85,
+      "dims": {
+        "Satisfacción & eNPS": {
+          "avg": 89.86153846153846,
+          "fav": 81.84615384615384
+        },
+        "Liderazgo": {
+          "avg": 89.47692307692307,
+          "fav": 81.94871794871796
+        },
+        "Orgullo & Compromiso": {
+          "avg": 87.6076923076923,
+          "fav": 78.46153846153847
+        },
+        "Desarrollo Profesional": {
+          "avg": 89.04615384615384,
+          "fav": 81.23076923076923
+        },
+        "Comunicación": {
+          "avg": 90.2,
+          "fav": 82.92307692307692
+        },
+        "Seguridad & Recursos": {
+          "avg": 89.42307692307692,
+          "fav": 81.6923076923077
+        },
+        "Reconocimiento": {
+          "avg": 89.46153846153847,
+          "fav": 82.15384615384616
+        },
+        "Cultura e Inclusión": {
+          "avg": 89.63076923076923,
+          "fav": 82.56410256410255
+        }
+      },
+      "questions": {
+        "Me siento orgulloso(a) de trabajar en la compañía": {
+          "avg": 88.43076923076923,
+          "fav": 82.76923076923077
+        },
+        "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+          "avg": 88.03076923076924,
+          "fav": 76.3076923076923
+        },
+        "Tengo impacto directo en el logro de mis objetivos": {
+          "avg": 85.66153846153846,
+          "fav": 73.53846153846155
+        },
+        "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+          "avg": 88.3076923076923,
+          "fav": 81.23076923076923
+        },
+        "Me siento reconocido(a) por mi trabajo": {
+          "avg": 89.87692307692308,
+          "fav": 84.0
+        },
+        "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+          "avg": 89.04615384615384,
+          "fav": 80.3076923076923
+        },
+        "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+          "avg": 89.93846153846154,
+          "fav": 83.07692307692308
+        },
+        "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+          "avg": 88.15384615384616,
+          "fav": 79.38461538461539
+        },
+        "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+          "avg": 89.84615384615384,
+          "fav": 83.07692307692308
+        },
+        "Recomendaría a mi jefe directo a otras personas": {
+          "avg": 89.56923076923077,
+          "fav": 82.46153846153847
+        },
+        "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+          "avg": 89.01538461538462,
+          "fav": 80.3076923076923
+        },
+        "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+          "avg": 89.72307692307692,
+          "fav": 85.84615384615385
+        },
+        "Puedo ser yo mismo(a) en el trabajo": {
+          "avg": 89.72307692307692,
+          "fav": 80.3076923076923
+        },
+        "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+          "avg": 89.44615384615385,
+          "fav": 81.53846153846153
+        },
+        "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+          "avg": 90.8923076923077,
+          "fav": 87.07692307692308
+        },
+        "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+          "avg": 89.50769230769231,
+          "fav": 78.76923076923077
+        },
+        "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+          "avg": 89.50769230769231,
+          "fav": 81.53846153846153
+        },
+        "Recomendaría mi empresa como un excelente lugar para trabajar": {
+          "avg": 90.21538461538462,
+          "fav": 82.15384615384616
+        },
+        "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+          "avg": 88.70769230769231,
+          "fav": 81.53846153846153
+        },
+        "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+          "avg": 90.52307692307693,
+          "fav": 84.0
+        },
+        "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+          "avg": 88.92307692307692,
+          "fav": 79.07692307692308
+        },
+        "Considera que este es un lugar seguro para trabajar": {
+          "avg": 89.53846153846153,
+          "fav": 82.15384615384616
         }
       },
       "operators": {
         "Transporte": {
-          "n": 261,
-          "avg": 86.56217345872518
+          "n": 325,
+          "avg": 89.20839160839161
         }
       },
       "cargos": {
         "Auxiliar de Distribución": {
-          "avg": 83.3758937691522,
-          "fav": 57.30337078651685,
-          "n": 89,
-          "apto": 51,
+          "avg": 86.90667739340306,
+          "fav": 66.3716814159292,
+          "n": 113,
+          "apto": 75,
           "reforzar": 38
         },
         "Cajero Liquidador": {
           "avg": 100.0,
           "fav": 100.0,
-          "n": 1,
-          "apto": 1,
+          "n": 4,
+          "apto": 4,
           "reforzar": 0
         },
         "Conductor": {
-          "avg": 87.13286713286713,
-          "fav": 69.23076923076923,
-          "n": 78,
-          "apto": 54,
+          "avg": 89.0909090909091,
+          "fav": 73.91304347826086,
+          "n": 92,
+          "apto": 68,
           "reforzar": 24
         },
         "Gestión Administrativa": {
-          "avg": 87.27272727272728,
-          "fav": 71.42857142857143,
-          "n": 28,
-          "apto": 20,
+          "avg": 89.20110192837467,
+          "fav": 75.75757575757575,
+          "n": 33,
+          "apto": 25,
           "reforzar": 8
         },
         "Líder de Distribución": {
           "avg": 100.0,
           "fav": 100.0,
-          "n": 2,
-          "apto": 2,
+          "n": 9,
+          "apto": 9,
           "reforzar": 0
         },
         "Líder de Distribución KA": {
@@ -22961,109 +25334,116 @@ const DATA = {
           "reforzar": 0
         },
         "Líder de Ruta": {
-          "avg": 95.625,
+          "avg": 96.11111111111111,
           "fav": 100.0,
-          "n": 8,
-          "apto": 8,
+          "n": 9,
+          "apto": 9,
+          "reforzar": 0
+        },
+        "Líder de Seguridad": {
+          "avg": 100.0,
+          "fav": 100.0,
+          "n": 2,
+          "apto": 2,
           "reforzar": 0
         },
         "Responsable de Reparto": {
-          "avg": 89.08199643493761,
-          "fav": 74.50980392156863,
-          "n": 51,
-          "apto": 38,
+          "avg": 90.56240369799691,
+          "fav": 77.96610169491525,
+          "n": 59,
+          "apto": 46,
           "reforzar": 13
         }
       },
       "cargo_questions": {
         "Auxiliar de Distribución": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 82.35955056179775,
-            "fav": 74.15730337078652
+            "avg": 86.10619469026548,
+            "fav": 79.64601769911505
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 81.12359550561797,
-            "fav": 60.67415730337079
+            "avg": 85.13274336283186,
+            "fav": 69.02654867256636
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 77.86516853932584,
-            "fav": 59.55056179775281
+            "avg": 82.56637168141593,
+            "fav": 68.14159292035397
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 82.69662921348315,
-            "fav": 71.91011235955057
+            "avg": 86.3716814159292,
+            "fav": 77.87610619469027
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 84.04494382022472,
-            "fav": 75.28089887640449
+            "avg": 87.43362831858407,
+            "fav": 80.53097345132744
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 82.58426966292134,
-            "fav": 68.53932584269663
+            "avg": 86.28318584070796,
+            "fav": 75.22123893805309
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 83.93258426966293,
-            "fav": 73.03370786516854
+            "avg": 87.34513274336283,
+            "fav": 78.76106194690266
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 81.91011235955057,
-            "fav": 68.53932584269663
+            "avg": 85.75221238938053,
+            "fav": 75.22123893805309
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 83.70786516853933,
-            "fav": 71.91011235955057
+            "avg": 87.16814159292035,
+            "fav": 77.87610619469027
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 83.25842696629213,
-            "fav": 73.03370786516854
+            "avg": 86.8141592920354,
+            "fav": 78.76106194690266
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 82.13483146067416,
-            "fav": 68.53932584269663
+            "avg": 85.929203539823,
+            "fav": 75.22123893805309
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 83.03370786516854,
-            "fav": 77.52808988764045
+            "avg": 86.63716814159292,
+            "fav": 82.30088495575221
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 84.9438202247191,
-            "fav": 71.91011235955057
+            "avg": 88.14159292035399,
+            "fav": 77.87610619469027
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 84.49438202247191,
-            "fav": 74.15730337078652
+            "avg": 87.78761061946902,
+            "fav": 79.64601769911505
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 84.9438202247191,
-            "fav": 78.65168539325843
+            "avg": 88.14159292035399,
+            "fav": 83.1858407079646
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 84.26966292134831,
-            "fav": 68.53932584269663
+            "avg": 87.61061946902655,
+            "fav": 75.22123893805309
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 84.8314606741573,
-            "fav": 74.15730337078652
+            "avg": 88.05309734513274,
+            "fav": 79.64601769911505
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 85.1685393258427,
-            "fav": 73.03370786516854
+            "avg": 88.31858407079646,
+            "fav": 78.76106194690266
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 82.58426966292134,
-            "fav": 68.53932584269663
+            "avg": 86.28318584070796,
+            "fav": 75.22123893805309
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 86.62921348314607,
-            "fav": 77.52808988764045
+            "avg": 89.46902654867256,
+            "fav": 82.30088495575221
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 83.37078651685393,
-            "fav": 68.53932584269663
+            "avg": 86.90265486725664,
+            "fav": 75.22123893805309
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 84.38202247191012,
-            "fav": 73.03370786516854
+            "avg": 87.69911504424779,
+            "fav": 78.76106194690266
           }
         },
         "Cajero Liquidador": {
@@ -23158,182 +25538,182 @@ const DATA = {
         },
         "Conductor": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 85.51282051282051,
-            "fav": 78.2051282051282
+            "avg": 87.71739130434783,
+            "fav": 81.52173913043478
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 85.51282051282051,
-            "fav": 74.35897435897436
+            "avg": 87.71739130434783,
+            "fav": 78.26086956521739
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 83.2051282051282,
-            "fav": 67.94871794871796
+            "avg": 85.76086956521739,
+            "fav": 72.82608695652173
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 84.87179487179488,
-            "fav": 73.07692307692307
+            "avg": 87.17391304347827,
+            "fav": 77.17391304347827
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 87.82051282051282,
-            "fav": 82.05128205128204
+            "avg": 89.67391304347827,
+            "fav": 84.78260869565217
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 88.58974358974359,
-            "fav": 79.48717948717949
+            "avg": 90.32608695652173,
+            "fav": 82.6086956521739
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 88.2051282051282,
-            "fav": 80.76923076923077
+            "avg": 90.0,
+            "fav": 83.69565217391305
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 84.74358974358974,
-            "fav": 74.35897435897436
+            "avg": 87.06521739130434,
+            "fav": 78.26086956521739
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 88.33333333333333,
-            "fav": 79.48717948717949
+            "avg": 90.1086956521739,
+            "fav": 82.6086956521739
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 88.33333333333333,
-            "fav": 79.48717948717949
+            "avg": 90.1086956521739,
+            "fav": 82.6086956521739
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 88.58974358974359,
-            "fav": 78.2051282051282
+            "avg": 90.32608695652173,
+            "fav": 81.52173913043478
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 88.07692307692308,
-            "fav": 83.33333333333334
+            "avg": 89.8913043478261,
+            "fav": 85.86956521739131
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 87.56410256410257,
-            "fav": 74.35897435897436
+            "avg": 89.45652173913044,
+            "fav": 78.26086956521739
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 87.43589743589743,
-            "fav": 75.64102564102564
+            "avg": 89.34782608695652,
+            "fav": 79.34782608695652
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 88.46153846153847,
-            "fav": 83.33333333333334
+            "avg": 90.21739130434783,
+            "fav": 85.86956521739131
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 87.94871794871794,
-            "fav": 76.92307692307693
+            "avg": 89.78260869565217,
+            "fav": 80.43478260869566
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 86.92307692307692,
-            "fav": 73.07692307692307
+            "avg": 88.91304347826087,
+            "fav": 77.17391304347827
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 89.23076923076923,
-            "fav": 76.92307692307693
+            "avg": 90.8695652173913,
+            "fav": 80.43478260869566
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 85.12820512820512,
-            "fav": 76.92307692307693
+            "avg": 87.3913043478261,
+            "fav": 80.43478260869566
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 87.82051282051282,
-            "fav": 80.76923076923077
+            "avg": 89.67391304347827,
+            "fav": 83.69565217391305
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 86.92307692307692,
-            "fav": 74.35897435897436
+            "avg": 88.91304347826087,
+            "fav": 78.26086956521739
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 87.6923076923077,
-            "fav": 79.48717948717949
+            "avg": 89.56521739130434,
+            "fav": 82.6086956521739
           }
         },
         "Gestión Administrativa": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 86.78571428571429,
-            "fav": 75.0
+            "avg": 88.78787878787878,
+            "fav": 78.78787878787878
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 85.35714285714286,
-            "fav": 71.42857142857143
+            "avg": 87.57575757575758,
+            "fav": 75.75757575757575
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 83.21428571428571,
-            "fav": 71.42857142857143
+            "avg": 85.75757575757575,
+            "fav": 75.75757575757575
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 86.78571428571429,
-            "fav": 82.14285714285714
+            "avg": 88.78787878787878,
+            "fav": 84.84848484848484
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 86.07142857142857,
-            "fav": 71.42857142857143
+            "avg": 88.18181818181819,
+            "fav": 75.75757575757575
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 85.35714285714286,
-            "fav": 82.14285714285714
+            "avg": 87.57575757575758,
+            "fav": 84.84848484848484
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 87.14285714285714,
-            "fav": 71.42857142857143
+            "avg": 89.0909090909091,
+            "fav": 75.75757575757575
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 86.07142857142857,
-            "fav": 75.0
+            "avg": 88.18181818181819,
+            "fav": 78.78787878787878
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 87.85714285714286,
-            "fav": 82.14285714285714
+            "avg": 89.6969696969697,
+            "fav": 84.84848484848484
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 84.64285714285714,
-            "fav": 67.85714285714286
+            "avg": 86.96969696969697,
+            "fav": 72.72727272727273
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 86.42857142857143,
-            "fav": 75.0
+            "avg": 88.48484848484848,
+            "fav": 78.78787878787878
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 90.0,
-            "fav": 92.85714285714286
+            "avg": 91.51515151515152,
+            "fav": 93.93939393939394
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 87.5,
-            "fav": 78.57142857142857
+            "avg": 89.39393939393939,
+            "fav": 81.81818181818183
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 85.71428571428571,
-            "fav": 75.0
+            "avg": 87.87878787878788,
+            "fav": 78.78787878787878
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 90.0,
-            "fav": 89.28571428571429
+            "avg": 91.51515151515152,
+            "fav": 90.9090909090909
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 88.92857142857143,
-            "fav": 82.14285714285714
+            "avg": 90.60606060606061,
+            "fav": 84.84848484848484
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 86.42857142857143,
-            "fav": 67.85714285714286
+            "avg": 88.48484848484848,
+            "fav": 72.72727272727273
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 90.35714285714286,
-            "fav": 85.71428571428571
+            "avg": 91.81818181818181,
+            "fav": 87.87878787878788
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 90.71428571428571,
-            "fav": 89.28571428571429
+            "avg": 92.12121212121212,
+            "fav": 90.9090909090909
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 89.64285714285714,
-            "fav": 82.14285714285714
+            "avg": 91.21212121212122,
+            "fav": 84.84848484848484
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 87.85714285714286,
-            "fav": 71.42857142857143
+            "avg": 89.6969696969697,
+            "fav": 75.75757575757575
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 87.14285714285714,
-            "fav": 78.57142857142857
+            "avg": 89.0909090909091,
+            "fav": 81.81818181818183
           }
         },
         "Líder de Distribución": {
@@ -23698,321 +26078,411 @@ const DATA = {
         },
         "Líder de Ruta": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 97.5,
+            "avg": 97.77777777777777,
             "fav": 100.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 96.25,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 95.0,
-            "fav": 87.5
+            "avg": 95.55555555555556,
+            "fav": 88.88888888888889
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 95.0,
+            "avg": 95.55555555555556,
             "fav": 100.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 98.75,
+            "avg": 98.88888888888889,
             "fav": 100.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 93.75,
-            "fav": 87.5
+            "avg": 94.44444444444444,
+            "fav": 88.88888888888889
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 95.0,
+            "avg": 95.55555555555556,
             "fav": 100.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 93.75,
-            "fav": 87.5
+            "avg": 94.44444444444444,
+            "fav": 88.88888888888889
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 98.75,
+            "avg": 98.88888888888889,
             "fav": 100.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 93.75,
-            "fav": 87.5
+            "avg": 94.44444444444444,
+            "fav": 88.88888888888889
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 96.25,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 98.75,
+            "avg": 98.88888888888889,
             "fav": 100.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 95.0,
+            "avg": 95.55555555555556,
             "fav": 100.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 95.0,
+            "avg": 95.55555555555556,
             "fav": 100.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 97.5,
+            "avg": 97.77777777777777,
             "fav": 100.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 92.5,
-            "fav": 75.0
+            "avg": 93.33333333333333,
+            "fav": 77.77777777777779
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 95.0,
+            "avg": 95.55555555555556,
             "fav": 100.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 93.75,
-            "fav": 87.5
+            "avg": 94.44444444444444,
+            "fav": 88.88888888888889
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 97.5,
+            "avg": 97.77777777777777,
             "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 96.25,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 93.75,
-            "fav": 87.5
+            "avg": 94.44444444444444,
+            "fav": 88.88888888888889
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 95.0,
-            "fav": 87.5
+            "avg": 95.55555555555556,
+            "fav": 88.88888888888889
+          }
+        },
+        "Líder de Seguridad": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
           }
         },
         "Responsable de Reparto": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 88.03921568627452,
-            "fav": 82.35294117647058
+            "avg": 89.66101694915254,
+            "fav": 84.7457627118644
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 89.2156862745098,
-            "fav": 76.47058823529412
+            "avg": 90.67796610169492,
+            "fav": 79.66101694915254
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 85.09803921568627,
-            "fav": 72.54901960784314
+            "avg": 87.11864406779661,
+            "fav": 76.27118644067797
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 88.43137254901961,
-            "fav": 82.35294117647058
+            "avg": 90.0,
+            "fav": 84.7457627118644
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 90.98039215686275,
-            "fav": 86.27450980392157
+            "avg": 92.20338983050847,
+            "fav": 88.13559322033898
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 89.2156862745098,
-            "fav": 74.50980392156863
+            "avg": 90.67796610169492,
+            "fav": 77.96610169491525
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 90.58823529411765,
-            "fav": 84.31372549019608
+            "avg": 91.86440677966101,
+            "fav": 86.4406779661017
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 90.3921568627451,
-            "fav": 84.31372549019608
+            "avg": 91.69491525423729,
+            "fav": 86.4406779661017
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 90.19607843137256,
-            "fav": 84.31372549019608
+            "avg": 91.52542372881356,
+            "fav": 86.4406779661017
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 90.98039215686275,
-            "fav": 86.27450980392157
+            "avg": 92.20338983050847,
+            "fav": 88.13559322033898
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 88.23529411764706,
-            "fav": 78.43137254901961
+            "avg": 89.83050847457628,
+            "fav": 81.35593220338984
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 89.41176470588235,
-            "fav": 80.3921568627451
+            "avg": 90.84745762711864,
+            "fav": 83.05084745762711
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 88.62745098039215,
-            "fav": 76.47058823529412
+            "avg": 90.16949152542372,
+            "fav": 79.66101694915254
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 89.2156862745098,
-            "fav": 80.3921568627451
+            "avg": 90.67796610169492,
+            "fav": 83.05084745762711
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 92.74509803921569,
-            "fav": 88.23529411764706
+            "avg": 93.72881355932203,
+            "fav": 89.83050847457628
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 86.86274509803921,
-            "fav": 68.62745098039215
+            "avg": 88.64406779661017,
+            "fav": 72.88135593220339
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 89.41176470588235,
-            "fav": 88.23529411764706
+            "avg": 90.84745762711864,
+            "fav": 89.83050847457628
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 87.84313725490196,
-            "fav": 82.35294117647058
+            "avg": 89.49152542372882,
+            "fav": 84.7457627118644
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 88.23529411764706,
-            "fav": 80.3921568627451
+            "avg": 89.83050847457628,
+            "fav": 83.05084745762711
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 89.41176470588235,
-            "fav": 80.3921568627451
+            "avg": 90.84745762711864,
+            "fav": 83.05084745762711
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 87.84313725490196,
-            "fav": 82.35294117647058
+            "avg": 89.49152542372882,
+            "fav": 84.7457627118644
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 88.82352941176471,
-            "fav": 80.3921568627451
+            "avg": 90.33898305084746,
+            "fav": 83.05084745762711
           }
         }
       }
     },
     "DC La Arenosa": {
       "region": "Norte",
-      "avg": 93.32902892561984,
-      "fav": 89.20454545454545,
-      "n": 176,
-      "apto": 157,
+      "avg": 93.83655204898727,
+      "fav": 90.15544041450777,
+      "n": 193,
+      "apto": 174,
       "reforzar": 19,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 93.66477272727273,
-          "fav": 90.05681818181817
-        },
-        "Cultura e Inclusión": {
-          "avg": 91.83712121212122,
-          "fav": 86.36363636363636
-        },
-        "Orgullo & Compromiso": {
-          "avg": 94.47443181818181,
-          "fav": 92.32954545454545
-        },
-        "Desarrollo Profesional": {
-          "avg": 92.69886363636364,
-          "fav": 89.77272727272727
-        },
-        "Comunicación": {
-          "avg": 92.8125,
-          "fav": 88.35227272727273
-        },
-        "Seguridad & Recursos": {
-          "avg": 94.74431818181819,
-          "fav": 91.9034090909091
+          "avg": 94.22279792746114,
+          "fav": 90.93264248704664
         },
         "Liderazgo": {
-          "avg": 93.88257575757575,
-          "fav": 90.15151515151516
+          "avg": 94.07599309153713,
+          "fav": 90.50086355785838
+        },
+        "Orgullo & Compromiso": {
+          "avg": 94.92227979274611,
+          "fav": 93.00518134715026
+        },
+        "Desarrollo Profesional": {
+          "avg": 93.10880829015544,
+          "fav": 90.67357512953367
+        },
+        "Comunicación": {
+          "avg": 93.44559585492227,
+          "fav": 89.37823834196891
+        },
+        "Seguridad & Recursos": {
+          "avg": 95.20725388601036,
+          "fav": 92.61658031088082
         },
         "Reconocimiento": {
-          "avg": 90.42613636363636,
-          "fav": 82.67045454545455
+          "avg": 91.21761658031087,
+          "fav": 84.19689119170984
+        },
+        "Cultura e Inclusión": {
+          "avg": 92.55613126079447,
+          "fav": 87.56476683937824
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 93.92045454545455,
-          "fav": 90.3409090909091
+          "avg": 94.4041450777202,
+          "fav": 91.19170984455958
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 94.31818181818181,
-          "fav": 92.61363636363636
+          "avg": 94.76683937823834,
+          "fav": 93.26424870466322
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 94.14772727272727,
-          "fav": 93.18181818181817
+          "avg": 94.66321243523316,
+          "fav": 93.78238341968913
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 95.51136363636364,
-          "fav": 93.18181818181817
+          "avg": 95.85492227979275,
+          "fav": 93.78238341968913
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 90.9090909090909,
-          "fav": 83.52272727272727
+          "avg": 91.70984455958549,
+          "fav": 84.97409326424871
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-          "avg": 89.94318181818181,
-          "fav": 81.81818181818183
+          "avg": 90.72538860103627,
+          "fav": 83.41968911917098
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 92.67045454545455,
-          "fav": 90.9090909090909
+          "avg": 93.10880829015544,
+          "fav": 91.70984455958549
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 92.72727272727273,
-          "fav": 88.63636363636364
+          "avg": 93.10880829015544,
+          "fav": 89.63730569948186
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 93.97727272727273,
-          "fav": 90.3409090909091
+          "avg": 94.30051813471502,
+          "fav": 91.19170984455958
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 93.75,
-          "fav": 89.77272727272727
+          "avg": 93.57512953367876,
+          "fav": 89.11917098445595
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 93.92045454545455,
-          "fav": 90.3409090909091
+          "avg": 94.35233160621762,
+          "fav": 91.19170984455958
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 91.30681818181819,
-          "fav": 84.6590909090909
+          "avg": 92.07253886010362,
+          "fav": 86.01036269430051
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 93.63636363636364,
-          "fav": 90.3409090909091
+          "avg": 94.19689119170984,
+          "fav": 91.19170984455958
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 90.56818181818181,
-          "fav": 84.0909090909091
+          "avg": 91.39896373056995,
+          "fav": 85.49222797927462
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 91.875,
-          "fav": 84.6590909090909
+          "avg": 92.59067357512953,
+          "fav": 86.01036269430051
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 93.75,
-          "fav": 92.04545454545455
+          "avg": 94.30051813471502,
+          "fav": 92.74611398963731
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 93.86363636363636,
-          "fav": 90.3409090909091
+          "avg": 94.4041450777202,
+          "fav": 91.19170984455958
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 93.4659090909091,
-          "fav": 89.77272727272727
+          "avg": 94.04145077720207,
+          "fav": 90.67357512953367
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 93.125,
-          "fav": 88.63636363636364
+          "avg": 93.73056994818653,
+          "fav": 89.63730569948186
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-          "avg": 95.3409090909091,
-          "fav": 93.75
+          "avg": 95.75129533678756,
+          "fav": 94.30051813471503
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 96.02272727272727,
-          "fav": 94.31818181818183
+          "avg": 96.37305699481865,
+          "fav": 94.81865284974094
         },
         "Considera que este es un lugar seguro para trabajar": {
-          "avg": 94.48863636363636,
-          "fav": 90.9090909090909
+          "avg": 94.97409326424871,
+          "fav": 91.70984455958549
         }
       },
       "operators": {
         "Transporte": {
-          "n": 176,
-          "avg": 93.32902892561984
+          "n": 193,
+          "avg": 93.83655204898727
         }
       },
       "cargos": {
@@ -24031,17 +26501,17 @@ const DATA = {
           "reforzar": 3
         },
         "Auxiliar de Facturación": {
-          "avg": 91.2121212121212,
-          "fav": 66.66666666666666,
-          "n": 3,
-          "apto": 2,
+          "avg": 94.72727272727272,
+          "fav": 80.0,
+          "n": 5,
+          "apto": 4,
           "reforzar": 1
         },
         "Auxiliar de almacen": {
-          "avg": 92.07792207792208,
-          "fav": 85.71428571428571,
-          "n": 7,
-          "apto": 6,
+          "avg": 93.95454545454545,
+          "fav": 90.0,
+          "n": 10,
+          "apto": 9,
           "reforzar": 1
         },
         "Conductor": {
@@ -24059,10 +26529,10 @@ const DATA = {
           "reforzar": 0
         },
         "Gestión Administrativa": {
-          "avg": 88.93939393939394,
-          "fav": 75.0,
-          "n": 12,
-          "apto": 9,
+          "avg": 90.51948051948052,
+          "fav": 78.57142857142857,
+          "n": 14,
+          "apto": 11,
           "reforzar": 3
         },
         "Gestión de Operación y Clientes": {
@@ -24070,6 +26540,13 @@ const DATA = {
           "fav": 100.0,
           "n": 2,
           "apto": 2,
+          "reforzar": 0
+        },
+        "Jefe de Operación": {
+          "avg": 100.0,
+          "fav": 100.0,
+          "n": 1,
+          "apto": 1,
           "reforzar": 0
         },
         "Líder de Almacén": {
@@ -24101,10 +26578,10 @@ const DATA = {
           "reforzar": 0
         },
         "Líder de Gente": {
-          "avg": 98.4090909090909,
+          "avg": 98.93939393939394,
           "fav": 100.0,
-          "n": 2,
-          "apto": 2,
+          "n": 3,
+          "apto": 3,
           "reforzar": 0
         },
         "Líder de Ruta": {
@@ -24122,10 +26599,10 @@ const DATA = {
           "reforzar": 0
         },
         "Montacarguista": {
-          "avg": 97.54545454545453,
+          "avg": 97.87878787878788,
           "fav": 100.0,
-          "n": 5,
-          "apto": 5,
+          "n": 9,
+          "apto": 9,
           "reforzar": 0
         },
         "Responsable de Reparto": {
@@ -24136,10 +26613,10 @@ const DATA = {
           "reforzar": 6
         },
         "Verificador": {
-          "avg": 91.02272727272728,
-          "fav": 75.0,
-          "n": 4,
-          "apto": 3,
+          "avg": 95.05681818181819,
+          "fav": 87.5,
+          "n": 8,
+          "apto": 7,
           "reforzar": 1
         }
       },
@@ -24326,182 +26803,182 @@ const DATA = {
         },
         "Auxiliar de Facturación": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 86.66666666666667,
-            "fav": 66.66666666666666
+            "avg": 92.0,
+            "fav": 80.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 86.66666666666667,
-            "fav": 66.66666666666666
+            "avg": 92.0,
+            "fav": 80.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 83.33333333333333,
-            "fav": 66.66666666666666
+            "avg": 90.0,
+            "fav": 80.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 96.66666666666667,
+            "avg": 98.0,
             "fav": 100.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 93.33333333333333,
+            "avg": 96.0,
             "fav": 100.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 90.0,
-            "fav": 66.66666666666666
+            "avg": 94.0,
+            "fav": 80.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 86.66666666666667,
-            "fav": 66.66666666666666
+            "avg": 92.0,
+            "fav": 80.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 90.0,
-            "fav": 66.66666666666666
+            "avg": 94.0,
+            "fav": 80.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 93.33333333333333,
+            "avg": 96.0,
             "fav": 100.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 90.0,
-            "fav": 66.66666666666666
+            "avg": 94.0,
+            "fav": 80.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 90.0,
-            "fav": 66.66666666666666
+            "avg": 94.0,
+            "fav": 80.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 93.33333333333333,
+            "avg": 96.0,
             "fav": 100.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 93.33333333333333,
+            "avg": 96.0,
             "fav": 100.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 93.33333333333333,
+            "avg": 96.0,
             "fav": 100.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 90.0,
-            "fav": 66.66666666666666
+            "avg": 94.0,
+            "fav": 80.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 93.33333333333333,
+            "avg": 96.0,
             "fav": 100.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 90.0,
-            "fav": 66.66666666666666
+            "avg": 94.0,
+            "fav": 80.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 93.33333333333333,
+            "avg": 96.0,
             "fav": 100.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 93.33333333333333,
+            "avg": 96.0,
             "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 93.33333333333333,
+            "avg": 96.0,
             "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 93.33333333333333,
+            "avg": 96.0,
             "fav": 100.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 93.33333333333333,
+            "avg": 96.0,
             "fav": 100.0
           }
         },
         "Auxiliar de almacen": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 92.85714285714286,
-            "fav": 85.71428571428571
+            "avg": 95.0,
+            "fav": 90.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 94.28571428571429,
-            "fav": 85.71428571428571
+            "avg": 96.0,
+            "fav": 90.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 94.28571428571429,
-            "fav": 85.71428571428571
+            "avg": 96.0,
+            "fav": 90.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 91.42857142857143,
-            "fav": 85.71428571428571
+            "avg": 93.0,
+            "fav": 90.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 91.42857142857143,
-            "fav": 85.71428571428571
+            "avg": 94.0,
+            "fav": 90.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 90.0,
-            "fav": 85.71428571428571
+            "avg": 92.0,
+            "fav": 90.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 92.85714285714286,
-            "fav": 85.71428571428571
+            "avg": 94.0,
+            "fav": 90.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 91.42857142857143,
-            "fav": 85.71428571428571
+            "avg": 92.0,
+            "fav": 90.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 92.85714285714286,
-            "fav": 85.71428571428571
+            "avg": 94.0,
+            "fav": 90.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 91.42857142857143,
-            "fav": 85.71428571428571
+            "avg": 89.0,
+            "fav": 80.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 92.85714285714286,
-            "fav": 85.71428571428571
+            "avg": 95.0,
+            "fav": 90.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 92.85714285714286,
-            "fav": 85.71428571428571
+            "avg": 95.0,
+            "fav": 90.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 80.0,
-            "fav": 57.14285714285714
+            "avg": 86.0,
+            "fav": 70.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 87.14285714285714,
-            "fav": 71.42857142857143
+            "avg": 91.0,
+            "fav": 80.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 91.42857142857143,
-            "fav": 85.71428571428571
+            "avg": 94.0,
+            "fav": 90.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 88.57142857142857,
-            "fav": 71.42857142857143
+            "avg": 92.0,
+            "fav": 80.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 94.28571428571429,
-            "fav": 85.71428571428571
+            "avg": 96.0,
+            "fav": 90.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 92.85714285714286,
-            "fav": 85.71428571428571
+            "avg": 95.0,
+            "fav": 90.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 95.71428571428571,
-            "fav": 85.71428571428571
+            "avg": 97.0,
+            "fav": 90.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 95.71428571428571,
-            "fav": 85.71428571428571
+            "avg": 97.0,
+            "fav": 90.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 95.71428571428571,
-            "fav": 85.71428571428571
+            "avg": 97.0,
+            "fav": 90.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 95.71428571428571,
-            "fav": 85.71428571428571
+            "avg": 97.0,
+            "fav": 90.0
           }
         },
         "Conductor": {
@@ -24686,92 +27163,92 @@ const DATA = {
         },
         "Gestión Administrativa": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 90.0,
-            "fav": 91.66666666666666
+            "avg": 91.42857142857143,
+            "fav": 92.85714285714286
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 91.66666666666667,
-            "fav": 91.66666666666666
+            "avg": 92.85714285714286,
+            "fav": 92.85714285714286
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 92.5,
+            "avg": 93.57142857142857,
             "fav": 100.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 86.66666666666667,
-            "fav": 75.0
+            "avg": 88.57142857142857,
+            "fav": 78.57142857142857
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 82.5,
-            "fav": 58.333333333333336
+            "avg": 85.0,
+            "fav": 64.28571428571429
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 80.83333333333333,
-            "fav": 66.66666666666666
+            "avg": 83.57142857142857,
+            "fav": 71.42857142857143
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 90.83333333333333,
-            "fav": 91.66666666666666
+            "avg": 92.14285714285714,
+            "fav": 92.85714285714286
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 85.83333333333333,
-            "fav": 83.33333333333334
+            "avg": 87.85714285714286,
+            "fav": 85.71428571428571
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 93.33333333333333,
-            "fav": 91.66666666666666
+            "avg": 94.28571428571429,
+            "fav": 92.85714285714286
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 88.33333333333333,
-            "fav": 83.33333333333334
+            "avg": 90.0,
+            "fav": 85.71428571428571
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 90.0,
-            "fav": 91.66666666666666
+            "avg": 91.42857142857143,
+            "fav": 92.85714285714286
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 89.16666666666667,
-            "fav": 75.0
+            "avg": 90.71428571428571,
+            "fav": 78.57142857142857
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 93.33333333333333,
-            "fav": 83.33333333333334
+            "avg": 94.28571428571429,
+            "fav": 85.71428571428571
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 89.16666666666667,
-            "fav": 75.0
+            "avg": 90.71428571428571,
+            "fav": 78.57142857142857
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 90.83333333333333,
-            "fav": 75.0
+            "avg": 92.14285714285714,
+            "fav": 78.57142857142857
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 91.66666666666667,
-            "fav": 91.66666666666666
+            "avg": 92.85714285714286,
+            "fav": 92.85714285714286
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 89.16666666666667,
-            "fav": 83.33333333333334
+            "avg": 90.71428571428571,
+            "fav": 85.71428571428571
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 86.66666666666667,
-            "fav": 75.0
+            "avg": 88.57142857142857,
+            "fav": 78.57142857142857
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 87.5,
-            "fav": 83.33333333333334
+            "avg": 89.28571428571429,
+            "fav": 85.71428571428571
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 85.83333333333333,
-            "fav": 75.0
+            "avg": 87.85714285714286,
+            "fav": 78.57142857142857
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 90.0,
-            "fav": 75.0
+            "avg": 91.42857142857143,
+            "fav": 78.57142857142857
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 90.83333333333333,
-            "fav": 75.0
+            "avg": 92.14285714285714,
+            "fav": 78.57142857142857
           }
         },
         "Gestión de Operación y Clientes": {
@@ -24857,6 +27334,96 @@ const DATA = {
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
             "avg": 90.0,
+            "fav": 100.0
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          }
+        },
+        "Jefe de Operación": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 100.0,
+            "fav": 100.0
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 100.0,
             "fav": 100.0
           },
           "Considera que este es un lugar seguro para trabajar": {
@@ -25230,7 +27797,7 @@ const DATA = {
             "fav": 100.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 95.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
@@ -25242,7 +27809,7 @@ const DATA = {
             "fav": 100.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 95.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
@@ -25254,7 +27821,7 @@ const DATA = {
             "fav": 100.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 95.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
@@ -25266,7 +27833,7 @@ const DATA = {
             "fav": 100.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 95.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
@@ -25298,7 +27865,7 @@ const DATA = {
             "fav": 100.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 95.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
@@ -25310,7 +27877,7 @@ const DATA = {
             "fav": 100.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 90.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           }
         },
@@ -25496,11 +28063,11 @@ const DATA = {
         },
         "Montacarguista": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 96.0,
+            "avg": 97.77777777777777,
             "fav": 100.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 96.0,
+            "avg": 97.77777777777777,
             "fav": 100.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
@@ -25516,27 +28083,27 @@ const DATA = {
             "fav": 100.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 98.0,
+            "avg": 97.77777777777777,
             "fav": 100.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 98.0,
+            "avg": 95.55555555555556,
             "fav": 100.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 98.0,
+            "avg": 95.55555555555556,
             "fav": 100.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 96.0,
+            "avg": 95.55555555555556,
             "fav": 100.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 98.0,
-            "fav": 100.0
+            "avg": 93.33333333333333,
+            "fav": 88.88888888888889
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 98.0,
+            "avg": 97.77777777777777,
             "fav": 100.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
@@ -25544,43 +28111,43 @@ const DATA = {
             "fav": 100.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 90.0,
-            "fav": 80.0
+            "avg": 94.44444444444444,
+            "fav": 88.88888888888889
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
             "avg": 100.0,
             "fav": 100.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 98.0,
+            "avg": 98.88888888888889,
             "fav": 100.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 98.0,
+            "avg": 98.88888888888889,
             "fav": 100.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 94.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 94.0,
-            "fav": 80.0
+            "avg": 96.66666666666667,
+            "fav": 88.88888888888889
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
             "avg": 100.0,
             "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 98.0,
+            "avg": 98.88888888888889,
             "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 98.0,
+            "avg": 98.88888888888889,
             "fav": 100.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 98.0,
+            "avg": 98.88888888888889,
             "fav": 100.0
           }
         },
@@ -25676,12 +28243,12 @@ const DATA = {
         },
         "Verificador": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 90.0,
-            "fav": 75.0
+            "avg": 93.75,
+            "fav": 87.5
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 90.0,
-            "fav": 75.0
+            "avg": 93.75,
+            "fav": 87.5
           },
           "Tengo impacto directo en el logro de mis objetivos": {
             "avg": 100.0,
@@ -25692,36 +28259,36 @@ const DATA = {
             "fav": 100.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 85.0,
-            "fav": 75.0
+            "avg": 92.5,
+            "fav": 87.5
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 82.5,
-            "fav": 50.0
+            "avg": 91.25,
+            "fav": 75.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 75.0,
-            "fav": 75.0
+            "avg": 87.5,
+            "fav": 87.5
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 82.5,
-            "fav": 75.0
+            "avg": 91.25,
+            "fav": 87.5
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 87.5,
-            "fav": 75.0
+            "avg": 92.5,
+            "fav": 87.5
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 77.5,
-            "fav": 50.0
+            "avg": 83.75,
+            "fav": 62.5
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 85.0,
-            "fav": 75.0
+            "avg": 91.25,
+            "fav": 87.5
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 90.0,
-            "fav": 75.0
+            "avg": 95.0,
+            "fav": 87.5
           },
           "Puedo ser yo mismo(a) en el trabajo": {
             "avg": 100.0,
@@ -25732,20 +28299,20 @@ const DATA = {
             "fav": 100.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 90.0,
-            "fav": 75.0
+            "avg": 95.0,
+            "fav": 87.5
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 87.5,
-            "fav": 75.0
+            "avg": 93.75,
+            "fav": 87.5
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 90.0,
-            "fav": 75.0
+            "avg": 95.0,
+            "fav": 87.5
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 90.0,
-            "fav": 75.0
+            "avg": 95.0,
+            "fav": 87.5
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
             "avg": 100.0,
@@ -25778,9 +28345,9 @@ const DATA = {
           "avg": 97.44680851063829,
           "fav": 95.74468085106383
         },
-        "Cultura e Inclusión": {
-          "avg": 97.51773049645391,
-          "fav": 95.0354609929078
+        "Liderazgo": {
+          "avg": 94.822695035461,
+          "fav": 91.48936170212765
         },
         "Orgullo & Compromiso": {
           "avg": 99.14893617021276,
@@ -25798,13 +28365,13 @@ const DATA = {
           "avg": 97.6063829787234,
           "fav": 96.27659574468085
         },
-        "Liderazgo": {
-          "avg": 94.822695035461,
-          "fav": 91.48936170212765
-        },
         "Reconocimiento": {
           "avg": 97.34042553191489,
           "fav": 96.80851063829788
+        },
+        "Cultura e Inclusión": {
+          "avg": 97.51773049645391,
+          "fav": 95.0354609929078
         }
       },
       "questions": {
@@ -26987,9 +29554,9 @@ const DATA = {
           "avg": 88.70689655172414,
           "fav": 85.0574712643678
         },
-        "Cultura e Inclusión": {
-          "avg": 88.2183908045977,
-          "fav": 82.95019157088123
+        "Liderazgo": {
+          "avg": 89.04214559386973,
+          "fav": 83.9080459770115
         },
         "Orgullo & Compromiso": {
           "avg": 90.1580459770115,
@@ -27007,13 +29574,13 @@ const DATA = {
           "avg": 90.61781609195403,
           "fav": 86.63793103448276
         },
-        "Liderazgo": {
-          "avg": 89.04214559386973,
-          "fav": 83.9080459770115
-        },
         "Reconocimiento": {
           "avg": 85.77586206896552,
           "fav": 79.02298850574712
+        },
+        "Cultura e Inclusión": {
+          "avg": 88.2183908045977,
+          "fav": 82.95019157088123
         }
       },
       "questions": {
@@ -28681,9 +31248,9 @@ const DATA = {
           "avg": 88.26530612244898,
           "fav": 83.6734693877551
         },
-        "Cultura e Inclusión": {
-          "avg": 85.23809523809524,
-          "fav": 76.19047619047619
+        "Liderazgo": {
+          "avg": 87.68707482993197,
+          "fav": 80.95238095238095
         },
         "Orgullo & Compromiso": {
           "avg": 88.46938775510205,
@@ -28701,13 +31268,13 @@ const DATA = {
           "avg": 87.8061224489796,
           "fav": 84.6938775510204
         },
-        "Liderazgo": {
-          "avg": 87.68707482993197,
-          "fav": 80.95238095238095
-        },
         "Reconocimiento": {
           "avg": 79.59183673469387,
           "fav": 61.224489795918366
+        },
+        "Cultura e Inclusión": {
+          "avg": 85.23809523809524,
+          "fav": 76.19047619047619
         }
       },
       "questions": {
@@ -29890,9 +32457,9 @@ const DATA = {
           "avg": 94.81927710843374,
           "fav": 95.78313253012048
         },
-        "Cultura e Inclusión": {
-          "avg": 93.01204819277109,
-          "fav": 93.17269076305222
+        "Liderazgo": {
+          "avg": 93.81526104417671,
+          "fav": 92.3694779116466
         },
         "Orgullo & Compromiso": {
           "avg": 94.63855421686748,
@@ -29910,13 +32477,13 @@ const DATA = {
           "avg": 96.20481927710843,
           "fav": 96.98795180722891
         },
-        "Liderazgo": {
-          "avg": 93.81526104417671,
-          "fav": 92.3694779116466
-        },
         "Reconocimiento": {
           "avg": 90.06024096385542,
           "fav": 89.1566265060241
+        },
+        "Cultura e Inclusión": {
+          "avg": 93.01204819277109,
+          "fav": 93.17269076305222
         }
       },
       "questions": {
@@ -31487,9 +34054,9 @@ const DATA = {
           "avg": 91.8348623853211,
           "fav": 92.66055045871559
         },
-        "Cultura e Inclusión": {
-          "avg": 91.80428134556576,
-          "fav": 91.43730886850153
+        "Liderazgo": {
+          "avg": 92.20183486238533,
+          "fav": 91.74311926605505
         },
         "Orgullo & Compromiso": {
           "avg": 93.18807339449542,
@@ -31507,13 +34074,13 @@ const DATA = {
           "avg": 94.05963302752293,
           "fav": 94.4954128440367
         },
-        "Liderazgo": {
-          "avg": 92.20183486238533,
-          "fav": 91.74311926605505
-        },
         "Reconocimiento": {
           "avg": 88.89908256880734,
           "fav": 86.23853211009175
+        },
+        "Cultura e Inclusión": {
+          "avg": 91.80428134556576,
+          "fav": 91.43730886850153
         }
       },
       "questions": {
@@ -33375,9 +35942,9 @@ const DATA = {
           "avg": 83.56796116504854,
           "fav": 98.05825242718447
         },
-        "Cultura e Inclusión": {
-          "avg": 83.85113268608414,
-          "fav": 97.89644012944983
+        "Liderazgo": {
+          "avg": 83.46278317152104,
+          "fav": 96.92556634304206
         },
         "Orgullo & Compromiso": {
           "avg": 83.54368932038835,
@@ -33395,13 +35962,13 @@ const DATA = {
           "avg": 83.58009708737865,
           "fav": 97.69417475728154
         },
-        "Liderazgo": {
-          "avg": 83.46278317152104,
-          "fav": 96.92556634304206
-        },
         "Reconocimiento": {
           "avg": 83.47087378640776,
           "fav": 95.3883495145631
+        },
+        "Cultura e Inclusión": {
+          "avg": 83.85113268608414,
+          "fav": 97.89644012944983
         }
       },
       "questions": {
@@ -34972,9 +37539,9 @@ const DATA = {
           "avg": 91.69642857142857,
           "fav": 91.96428571428571
         },
-        "Cultura e Inclusión": {
-          "avg": 93.0952380952381,
-          "fav": 93.45238095238095
+        "Liderazgo": {
+          "avg": 92.61904761904762,
+          "fav": 95.83333333333334
         },
         "Orgullo & Compromiso": {
           "avg": 93.48214285714286,
@@ -34992,13 +37559,13 @@ const DATA = {
           "avg": 94.15178571428571,
           "fav": 95.53571428571429
         },
-        "Liderazgo": {
-          "avg": 92.61904761904762,
-          "fav": 95.83333333333334
-        },
         "Reconocimiento": {
           "avg": 93.39285714285714,
           "fav": 95.53571428571429
+        },
+        "Cultura e Inclusión": {
+          "avg": 93.0952380952381,
+          "fav": 93.45238095238095
         }
       },
       "questions": {
@@ -36569,9 +39136,9 @@ const DATA = {
           "avg": 92.5,
           "fav": 89.51612903225806
         },
-        "Cultura e Inclusión": {
-          "avg": 88.44086021505376,
-          "fav": 85.48387096774194
+        "Liderazgo": {
+          "avg": 86.55913978494624,
+          "fav": 81.72043010752688
         },
         "Orgullo & Compromiso": {
           "avg": 92.90322580645162,
@@ -36589,13 +39156,13 @@ const DATA = {
           "avg": 93.30645161290323,
           "fav": 92.74193548387096
         },
-        "Liderazgo": {
-          "avg": 86.55913978494624,
-          "fav": 81.72043010752688
-        },
         "Reconocimiento": {
           "avg": 87.33870967741936,
           "fav": 81.45161290322581
+        },
+        "Cultura e Inclusión": {
+          "avg": 88.44086021505376,
+          "fav": 85.48387096774194
         }
       },
       "questions": {
@@ -38166,9 +40733,9 @@ const DATA = {
           "avg": 95.2,
           "fav": 91.0
         },
-        "Cultura e Inclusión": {
-          "avg": 91.0,
-          "fav": 84.66666666666667
+        "Liderazgo": {
+          "avg": 90.46666666666667,
+          "fav": 83.33333333333334
         },
         "Orgullo & Compromiso": {
           "avg": 95.25,
@@ -38186,13 +40753,13 @@ const DATA = {
           "avg": 94.0,
           "fav": 89.5
         },
-        "Liderazgo": {
-          "avg": 90.46666666666667,
-          "fav": 83.33333333333334
-        },
         "Reconocimiento": {
           "avg": 92.7,
           "fav": 87.0
+        },
+        "Cultura e Inclusión": {
+          "avg": 91.0,
+          "fav": 84.66666666666667
         }
       },
       "questions": {
@@ -38880,139 +41447,139 @@ const DATA = {
     },
     "DC San Andres": {
       "region": "Norte",
-      "avg": 91.53605015673983,
-      "fav": 96.55172413793103,
-      "n": 29,
-      "apto": 28,
+      "avg": 91.16666666666669,
+      "fav": 96.66666666666667,
+      "n": 30,
+      "apto": 29,
       "reforzar": 1,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 91.20689655172414,
-          "fav": 91.37931034482759
-        },
-        "Cultura e Inclusión": {
-          "avg": 91.83908045977012,
-          "fav": 95.40229885057471
-        },
-        "Orgullo & Compromiso": {
-          "avg": 93.10344827586206,
-          "fav": 94.82758620689656
-        },
-        "Desarrollo Profesional": {
-          "avg": 92.06896551724138,
-          "fav": 91.37931034482759
-        },
-        "Comunicación": {
-          "avg": 90.51724137931035,
-          "fav": 91.37931034482759
-        },
-        "Seguridad & Recursos": {
-          "avg": 92.41379310344827,
-          "fav": 95.6896551724138
+          "avg": 90.5,
+          "fav": 88.33333333333333
         },
         "Liderazgo": {
-          "avg": 90.22988505747126,
-          "fav": 89.65517241379311
+          "avg": 89.88888888888889,
+          "fav": 88.88888888888889
+        },
+        "Orgullo & Compromiso": {
+          "avg": 92.5,
+          "fav": 93.33333333333333
+        },
+        "Desarrollo Profesional": {
+          "avg": 92.0,
+          "fav": 91.66666666666666
+        },
+        "Comunicación": {
+          "avg": 90.16666666666667,
+          "fav": 91.66666666666666
+        },
+        "Seguridad & Recursos": {
+          "avg": 92.08333333333333,
+          "fav": 95.83333333333334
         },
         "Reconocimiento": {
-          "avg": 88.96551724137932,
-          "fav": 86.20689655172413
+          "avg": 88.83333333333333,
+          "fav": 86.66666666666667
+        },
+        "Cultura e Inclusión": {
+          "avg": 91.55555555555556,
+          "fav": 95.55555555555556
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 91.37931034482759,
-          "fav": 93.10344827586206
+          "avg": 90.66666666666667,
+          "fav": 90.0
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 92.41379310344827,
-          "fav": 93.10344827586206
+          "avg": 92.0,
+          "fav": 93.33333333333333
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 93.10344827586206,
-          "fav": 96.55172413793103
+          "avg": 93.0,
+          "fav": 96.66666666666667
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 95.51724137931035,
-          "fav": 96.55172413793103
+          "avg": 94.33333333333333,
+          "fav": 93.33333333333333
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 87.93103448275862,
-          "fav": 86.20689655172413
+          "avg": 87.66666666666667,
+          "fav": 86.66666666666667
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
           "avg": 90.0,
-          "fav": 86.20689655172413
+          "fav": 86.66666666666667
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 92.41379310344827,
-          "fav": 93.10344827586206
+          "avg": 92.33333333333333,
+          "fav": 93.33333333333333
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 91.72413793103448,
-          "fav": 89.65517241379311
+          "avg": 91.66666666666667,
+          "fav": 90.0
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 88.96551724137932,
-          "fav": 86.20689655172413
+          "avg": 89.0,
+          "fav": 86.66666666666667
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 89.3103448275862,
-          "fav": 89.65517241379311
+          "avg": 89.0,
+          "fav": 90.0
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 92.41379310344827,
-          "fav": 93.10344827586206
+          "avg": 91.66666666666667,
+          "fav": 90.0
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 91.03448275862068,
-          "fav": 93.10344827586206
+          "avg": 90.66666666666667,
+          "fav": 93.33333333333333
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 93.10344827586206,
+          "avg": 92.66666666666667,
           "fav": 100.0
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 91.37931034482759,
-          "fav": 93.10344827586206
+          "avg": 91.33333333333333,
+          "fav": 93.33333333333333
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 91.03448275862068,
-          "fav": 93.10344827586206
+          "avg": 90.66666666666667,
+          "fav": 93.33333333333333
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 90.0,
-          "fav": 89.65517241379311
+          "avg": 89.66666666666667,
+          "fav": 90.0
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 90.6896551724138,
-          "fav": 86.20689655172413
+          "avg": 90.0,
+          "fav": 83.33333333333334
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 91.72413793103448,
-          "fav": 96.55172413793103
+          "avg": 91.0,
+          "fav": 93.33333333333333
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 90.34482758620689,
-          "fav": 89.65517241379311
+          "avg": 90.0,
+          "fav": 90.0
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-          "avg": 92.41379310344827,
-          "fav": 96.55172413793103
+          "avg": 92.33333333333333,
+          "fav": 96.66666666666667
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 93.79310344827586,
+          "avg": 93.33333333333333,
           "fav": 100.0
         },
         "Considera que este es un lugar seguro para trabajar": {
-          "avg": 93.10344827586206,
-          "fav": 96.55172413793103
+          "avg": 92.66666666666667,
+          "fav": 96.66666666666667
         }
       },
       "operators": {
         "Transporte": {
-          "n": 29,
-          "avg": 91.53605015673983
+          "n": 30,
+          "avg": 91.16666666666669
         }
       },
       "cargos": {
@@ -39024,10 +41591,10 @@ const DATA = {
           "reforzar": 0
         },
         "Auxiliar de almacen": {
-          "avg": 91.63636363636364,
+          "avg": 89.77272727272727,
           "fav": 100.0,
-          "n": 5,
-          "apto": 5,
+          "n": 6,
+          "apto": 6,
           "reforzar": 0
         },
         "Conductor": {
@@ -39187,35 +41754,35 @@ const DATA = {
         },
         "Auxiliar de almacen": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 88.0,
-            "fav": 80.0
+            "avg": 85.0,
+            "fav": 66.66666666666666
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 94.0,
+            "avg": 91.66666666666667,
             "fav": 100.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 94.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 94.0,
-            "fav": 80.0
+            "avg": 88.33333333333333,
+            "fav": 66.66666666666666
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 88.0,
-            "fav": 80.0
+            "avg": 86.66666666666667,
+            "fav": 83.33333333333334
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 94.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 94.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 94.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
@@ -39223,55 +41790,55 @@ const DATA = {
             "fav": 100.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 90.0,
+            "avg": 88.33333333333333,
             "fav": 100.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 98.0,
-            "fav": 100.0
+            "avg": 93.33333333333333,
+            "fav": 83.33333333333334
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 88.0,
+            "avg": 86.66666666666667,
             "fav": 100.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 88.0,
+            "avg": 86.66666666666667,
             "fav": 100.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 88.0,
+            "avg": 88.33333333333333,
             "fav": 100.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 90.0,
+            "avg": 88.33333333333333,
             "fav": 100.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 88.0,
+            "avg": 86.66666666666667,
             "fav": 100.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 88.0,
-            "fav": 100.0
+            "avg": 85.0,
+            "fav": 83.33333333333334
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 94.0,
-            "fav": 100.0
+            "avg": 90.0,
+            "fav": 83.33333333333334
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 92.0,
+            "avg": 90.0,
             "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 92.0,
+            "avg": 91.66666666666667,
             "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 94.0,
+            "avg": 91.66666666666667,
             "fav": 100.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 96.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           }
         },
@@ -40099,9 +42666,9 @@ const DATA = {
           "avg": 91.64285714285714,
           "fav": 85.0
         },
-        "Cultura e Inclusión": {
-          "avg": 89.14285714285714,
-          "fav": 82.38095238095238
+        "Liderazgo": {
+          "avg": 81.33333333333333,
+          "fav": 70.47619047619048
         },
         "Orgullo & Compromiso": {
           "avg": 90.60714285714286,
@@ -40119,13 +42686,13 @@ const DATA = {
           "avg": 90.10714285714286,
           "fav": 85.35714285714285
         },
-        "Liderazgo": {
-          "avg": 81.33333333333333,
-          "fav": 70.47619047619048
-        },
         "Reconocimiento": {
           "avg": 84.92857142857143,
           "fav": 73.57142857142858
+        },
+        "Cultura e Inclusión": {
+          "avg": 89.14285714285714,
+          "fav": 82.38095238095238
         }
       },
       "questions": {
@@ -41502,8 +44069,8 @@ const DATA = {
           "avg": 100.0,
           "fav": 100.0
         },
-        "Cultura e Inclusión": {
-          "avg": 96.19047619047619,
+        "Liderazgo": {
+          "avg": 100.0,
           "fav": 100.0
         },
         "Orgullo & Compromiso": {
@@ -41522,13 +44089,13 @@ const DATA = {
           "avg": 98.92857142857143,
           "fav": 100.0
         },
-        "Liderazgo": {
-          "avg": 100.0,
-          "fav": 100.0
-        },
         "Reconocimiento": {
           "avg": 88.57142857142857,
           "fav": 85.71428571428571
+        },
+        "Cultura e Inclusión": {
+          "avg": 96.19047619047619,
+          "fav": 100.0
         }
       },
       "questions": {
@@ -41828,139 +44395,139 @@ const DATA = {
     },
     "DC Sibate": {
       "region": "Centro",
-      "avg": 82.14795008912655,
-      "fav": 67.84313725490196,
-      "n": 255,
-      "apto": 173,
-      "reforzar": 82,
+      "avg": 81.93845065440395,
+      "fav": 67.70428015564202,
+      "n": 257,
+      "apto": 174,
+      "reforzar": 83,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 83.52941176470588,
-          "fav": 80.7843137254902
-        },
-        "Cultura e Inclusión": {
-          "avg": 82.58823529411765,
-          "fav": 76.47058823529412
-        },
-        "Orgullo & Compromiso": {
-          "avg": 81.53921568627452,
-          "fav": 70.7843137254902
-        },
-        "Desarrollo Profesional": {
-          "avg": 81.58823529411765,
-          "fav": 74.90196078431373
-        },
-        "Comunicación": {
-          "avg": 81.29411764705883,
-          "fav": 70.7843137254902
-        },
-        "Seguridad & Recursos": {
-          "avg": 84.53921568627452,
-          "fav": 83.13725490196079
+          "avg": 83.34630350194553,
+          "fav": 80.54474708171206
         },
         "Liderazgo": {
-          "avg": 81.93464052287581,
-          "fav": 72.54901960784314
+          "avg": 81.64721141374838,
+          "fav": 72.11413748378729
+        },
+        "Orgullo & Compromiso": {
+          "avg": 81.50778210116732,
+          "fav": 70.8171206225681
+        },
+        "Desarrollo Profesional": {
+          "avg": 81.3035019455253,
+          "fav": 74.5136186770428
+        },
+        "Comunicación": {
+          "avg": 81.05058365758755,
+          "fav": 70.42801556420234
+        },
+        "Seguridad & Recursos": {
+          "avg": 84.30933852140078,
+          "fav": 82.78210116731518
         },
         "Reconocimiento": {
-          "avg": 78.27450980392157,
-          "fav": 62.745098039215684
+          "avg": 77.93774319066148,
+          "fav": 62.2568093385214
+        },
+        "Cultura e Inclusión": {
+          "avg": 82.38651102464333,
+          "fav": 76.26459143968872
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 81.56862745098039,
-          "fav": 75.29411764705883
+          "avg": 81.36186770428016,
+          "fav": 75.09727626459144
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 79.09803921568627,
-          "fav": 57.647058823529406
+          "avg": 79.22178988326849,
+          "fav": 57.97665369649806
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 82.0,
-          "fav": 75.29411764705883
+          "avg": 81.86770428015564,
+          "fav": 75.09727626459144
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 83.49019607843137,
-          "fav": 74.90196078431373
+          "avg": 83.57976653696498,
+          "fav": 75.09727626459144
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 80.62745098039215,
-          "fav": 73.33333333333333
+          "avg": 80.27237354085604,
+          "fav": 72.76264591439688
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-          "avg": 75.92156862745098,
-          "fav": 52.156862745098046
+          "avg": 75.60311284046692,
+          "fav": 51.75097276264592
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 81.6470588235294,
-          "fav": 76.86274509803923
+          "avg": 81.43968871595331,
+          "fav": 76.65369649805449
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 81.52941176470588,
-          "fav": 72.94117647058823
+          "avg": 81.16731517509727,
+          "fav": 72.37354085603113
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 83.25490196078431,
-          "fav": 76.86274509803923
+          "avg": 83.07392996108949,
+          "fav": 76.65369649805449
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 80.47058823529412,
-          "fav": 64.31372549019608
+          "avg": 80.11673151750973,
+          "fav": 63.81322957198443
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 82.07843137254902,
-          "fav": 76.47058823529412
+          "avg": 81.75097276264592,
+          "fav": 75.87548638132296
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 83.2156862745098,
-          "fav": 76.07843137254902
+          "avg": 83.03501945525292,
+          "fav": 75.87548638132296
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 82.82352941176471,
-          "fav": 74.90196078431373
+          "avg": 82.33463035019456,
+          "fav": 74.31906614785993
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 81.72549019607843,
-          "fav": 78.43137254901961
+          "avg": 81.78988326848248,
+          "fav": 78.59922178988327
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 81.37254901960785,
-          "fav": 70.19607843137254
+          "avg": 81.01167315175097,
+          "fav": 69.64980544747081
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 81.2156862745098,
-          "fav": 71.37254901960785
+          "avg": 81.08949416342412,
+          "fav": 71.20622568093385
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 82.58823529411765,
-          "fav": 77.64705882352942
+          "avg": 82.41245136186771,
+          "fav": 77.431906614786
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 84.47058823529412,
-          "fav": 83.92156862745098
+          "avg": 84.28015564202335,
+          "fav": 83.65758754863813
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 83.05882352941177,
-          "fav": 80.3921568627451
+          "avg": 82.87937743190662,
+          "fav": 80.1556420233463
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-          "avg": 85.13725490196079,
-          "fav": 84.70588235294117
+          "avg": 84.94163424124514,
+          "fav": 84.43579766536965
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 86.15686274509804,
-          "fav": 86.27450980392157
+          "avg": 85.83657587548637,
+          "fav": 85.60311284046692
         },
         "Considera que este es un lugar seguro para trabajar": {
-          "avg": 83.80392156862744,
-          "fav": 81.17647058823529
+          "avg": 83.57976653696498,
+          "fav": 80.93385214007782
         }
       },
       "operators": {
         "Canal Especial": {
-          "n": 255,
-          "avg": 82.14795008912655
+          "n": 257,
+          "avg": 81.93845065440395
         }
       },
       "cargos": {
@@ -41979,10 +44546,10 @@ const DATA = {
           "reforzar": 33
         },
         "Auxiliar de Facturación": {
-          "avg": 91.2121212121212,
+          "avg": 89.0909090909091,
           "fav": 100.0,
-          "n": 3,
-          "apto": 3,
+          "n": 4,
+          "apto": 4,
           "reforzar": 0
         },
         "Auxiliar de almacen": {
@@ -42056,11 +44623,11 @@ const DATA = {
           "reforzar": 5
         },
         "Verificador": {
-          "avg": 70.95959595959596,
-          "fav": 66.66666666666666,
-          "n": 9,
+          "avg": 66.63636363636364,
+          "fav": 60.0,
+          "n": 10,
           "apto": 6,
-          "reforzar": 3
+          "reforzar": 4
         }
       },
       "cargo_questions": {
@@ -42246,91 +44813,91 @@ const DATA = {
         },
         "Auxiliar de Facturación": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 93.33333333333333,
+            "avg": 95.0,
             "fav": 100.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 93.33333333333333,
+            "avg": 95.0,
             "fav": 100.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 83.33333333333333,
-            "fav": 66.66666666666666
+            "avg": 87.5,
+            "fav": 75.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
             "avg": 100.0,
             "fav": 100.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 70.0,
-            "fav": 33.33333333333333
+            "avg": 65.0,
+            "fav": 25.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 83.33333333333333,
-            "fav": 66.66666666666666
+            "avg": 75.0,
+            "fav": 50.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 76.66666666666667,
-            "fav": 33.33333333333333
+            "avg": 82.5,
+            "fav": 50.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 93.33333333333333,
-            "fav": 100.0
+            "avg": 82.5,
+            "fav": 75.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 93.33333333333333,
+            "avg": 95.0,
             "fav": 100.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 96.66666666666667,
-            "fav": 100.0
+            "avg": 87.5,
+            "fav": 75.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 92.5,
+            "fav": 75.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 93.33333333333333,
+            "avg": 95.0,
             "fav": 100.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 100.0,
-            "fav": 100.0
+            "avg": 80.0,
+            "fav": 75.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
             "avg": 100.0,
             "fav": 100.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 86.66666666666667,
-            "fav": 100.0
+            "avg": 77.5,
+            "fav": 75.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 90.0,
+            "avg": 92.5,
             "fav": 100.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 93.33333333333333,
+            "avg": 95.0,
             "fav": 100.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 93.33333333333333,
+            "avg": 95.0,
             "fav": 100.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 86.66666666666667,
+            "avg": 90.0,
             "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 93.33333333333333,
+            "avg": 95.0,
             "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 93.33333333333333,
-            "fav": 100.0
+            "avg": 87.5,
+            "fav": 75.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 93.33333333333333,
+            "avg": 95.0,
             "fav": 100.0
           }
         },
@@ -43236,231 +45803,231 @@ const DATA = {
         },
         "Verificador": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 74.44444444444444,
-            "fav": 55.55555555555556
+            "avg": 68.0,
+            "fav": 50.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 75.55555555555556,
-            "fav": 66.66666666666666
+            "avg": 77.0,
+            "fav": 70.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 76.66666666666667,
-            "fav": 66.66666666666666
+            "avg": 72.0,
+            "fav": 60.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 72.22222222222223,
-            "fav": 66.66666666666666
+            "avg": 74.0,
+            "fav": 70.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 67.77777777777777,
-            "fav": 44.44444444444444
+            "avg": 63.0,
+            "fav": 40.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 65.55555555555556,
-            "fav": 44.44444444444444
+            "avg": 61.0,
+            "fav": 40.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 82.22222222222223,
-            "fav": 77.77777777777779
+            "avg": 75.0,
+            "fav": 70.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 72.22222222222223,
-            "fav": 77.77777777777779
+            "avg": 67.0,
+            "fav": 70.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 71.11111111111111,
-            "fav": 77.77777777777779
+            "avg": 66.0,
+            "fav": 70.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 65.55555555555556,
-            "fav": 66.66666666666666
+            "avg": 60.0,
+            "fav": 60.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 72.22222222222223,
-            "fav": 77.77777777777779
+            "avg": 66.0,
+            "fav": 70.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 65.55555555555556,
-            "fav": 66.66666666666666
+            "avg": 61.0,
+            "fav": 60.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 74.44444444444444,
-            "fav": 66.66666666666666
+            "avg": 69.0,
+            "fav": 60.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 66.66666666666667,
-            "fav": 66.66666666666666
+            "avg": 68.0,
+            "fav": 70.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 67.77777777777777,
-            "fav": 66.66666666666666
+            "avg": 63.0,
+            "fav": 60.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 67.77777777777777,
-            "fav": 66.66666666666666
+            "avg": 64.0,
+            "fav": 60.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 62.22222222222222,
-            "fav": 44.44444444444444
+            "avg": 58.0,
+            "fav": 40.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 67.77777777777777,
-            "fav": 66.66666666666666
+            "avg": 63.0,
+            "fav": 60.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 68.88888888888889,
-            "fav": 66.66666666666666
+            "avg": 64.0,
+            "fav": 60.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 82.22222222222223,
-            "fav": 88.88888888888889
+            "avg": 76.0,
+            "fav": 80.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 75.55555555555556,
-            "fav": 77.77777777777779
+            "avg": 70.0,
+            "fav": 70.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 66.66666666666667,
-            "fav": 66.66666666666666
+            "avg": 61.0,
+            "fav": 60.0
           }
         }
       }
     },
     "DC Siberia": {
       "region": "Centro",
-      "avg": 86.51358950328023,
-      "fav": 73.19587628865979,
-      "n": 97,
-      "apto": 71,
-      "reforzar": 26,
+      "avg": 85.16921035169212,
+      "fav": 70.8029197080292,
+      "n": 137,
+      "apto": 97,
+      "reforzar": 40,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 88.4020618556701,
-          "fav": 84.02061855670104
-        },
-        "Cultura e Inclusión": {
-          "avg": 86.90721649484536,
-          "fav": 79.72508591065292
-        },
-        "Orgullo & Compromiso": {
-          "avg": 90.28350515463917,
-          "fav": 85.05154639175258
-        },
-        "Desarrollo Profesional": {
-          "avg": 86.90721649484536,
-          "fav": 80.9278350515464
-        },
-        "Comunicación": {
-          "avg": 84.02061855670104,
-          "fav": 71.64948453608247
-        },
-        "Seguridad & Recursos": {
-          "avg": 85.95360824742268,
-          "fav": 78.6082474226804
+          "avg": 87.62773722627738,
+          "fav": 81.75182481751825
         },
         "Liderazgo": {
-          "avg": 85.01718213058419,
-          "fav": 74.5704467353952
+          "avg": 83.09002433090025,
+          "fav": 72.99270072992701
+        },
+        "Orgullo & Compromiso": {
+          "avg": 89.74452554744525,
+          "fav": 84.48905109489051
+        },
+        "Desarrollo Profesional": {
+          "avg": 84.56204379562044,
+          "fav": 78.1021897810219
+        },
+        "Comunicación": {
+          "avg": 83.32116788321167,
+          "fav": 71.8978102189781
+        },
+        "Seguridad & Recursos": {
+          "avg": 84.81751824817518,
+          "fav": 77.1897810218978
         },
         "Reconocimiento": {
-          "avg": 81.95876288659794,
-          "fav": 73.19587628865979
+          "avg": 79.37956204379562,
+          "fav": 69.34306569343066
+        },
+        "Cultura e Inclusión": {
+          "avg": 85.47445255474453,
+          "fav": 78.34549878345499
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 90.82474226804123,
-          "fav": 86.5979381443299
+          "avg": 90.0,
+          "fav": 85.40145985401459
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 90.41237113402062,
-          "fav": 84.5360824742268
+          "avg": 89.1970802919708,
+          "fav": 83.21167883211679
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 89.69072164948453,
-          "fav": 85.56701030927834
+          "avg": 89.12408759124088,
+          "fav": 84.67153284671532
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 90.20618556701031,
-          "fav": 83.50515463917526
+          "avg": 90.65693430656934,
+          "fav": 84.67153284671532
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 80.41237113402062,
-          "fav": 73.19587628865979
+          "avg": 78.24817518248175,
+          "fav": 69.34306569343066
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-          "avg": 83.50515463917526,
-          "fav": 73.19587628865979
+          "avg": 80.51094890510949,
+          "fav": 69.34306569343066
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 88.35051546391753,
-          "fav": 82.4742268041237
+          "avg": 85.18248175182482,
+          "fav": 79.56204379562044
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 85.4639175257732,
-          "fav": 79.38144329896907
+          "avg": 83.94160583941606,
+          "fav": 76.64233576642336
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 84.02061855670104,
-          "fav": 73.19587628865979
+          "avg": 81.67883211678833,
+          "fav": 70.8029197080292
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 84.43298969072166,
-          "fav": 73.19587628865979
+          "avg": 82.26277372262774,
+          "fav": 71.53284671532847
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 86.5979381443299,
-          "fav": 77.31958762886599
+          "avg": 85.32846715328468,
+          "fav": 76.64233576642336
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 85.25773195876289,
-          "fav": 78.35051546391753
+          "avg": 83.5036496350365,
+          "fav": 75.91240875912408
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 90.82474226804123,
-          "fav": 86.5979381443299
+          "avg": 89.63503649635037,
+          "fav": 85.40145985401459
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 84.63917525773196,
-          "fav": 74.22680412371135
+          "avg": 83.28467153284672,
+          "fav": 73.72262773722628
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 82.68041237113403,
-          "fav": 70.10309278350515
+          "avg": 81.89781021897811,
+          "fav": 69.34306569343066
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 85.36082474226804,
-          "fav": 73.19587628865979
+          "avg": 84.74452554744525,
+          "fav": 74.45255474452554
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 88.35051546391753,
-          "fav": 84.5360824742268
+          "avg": 87.81021897810218,
+          "fav": 82.48175182481752
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 88.45360824742268,
-          "fav": 83.50515463917526
+          "avg": 87.44525547445255,
+          "fav": 81.02189781021897
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 83.29896907216495,
-          "fav": 73.19587628865979
+          "avg": 83.28467153284672,
+          "fav": 73.72262773722628
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-          "avg": 83.09278350515464,
-          "fav": 72.16494845360825
+          "avg": 82.11678832116789,
+          "fav": 70.8029197080292
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 88.35051546391753,
-          "fav": 82.4742268041237
+          "avg": 86.4963503649635,
+          "fav": 81.02189781021897
         },
         "Considera que este es un lugar seguro para trabajar": {
-          "avg": 89.0721649484536,
-          "fav": 86.5979381443299
+          "avg": 87.37226277372262,
+          "fav": 83.21167883211679
         }
       },
       "operators": {
         "Transporte": {
-          "n": 97,
-          "avg": 86.51358950328023
+          "n": 137,
+          "avg": 85.16921035169212
         }
       },
       "cargos": {
@@ -43472,52 +46039,59 @@ const DATA = {
           "reforzar": 0
         },
         "Auxiliar de Distribución": {
-          "avg": 89.51871657754009,
-          "fav": 82.35294117647058,
-          "n": 34,
-          "apto": 28,
-          "reforzar": 6
+          "avg": 85.98140495867769,
+          "fav": 75.0,
+          "n": 44,
+          "apto": 33,
+          "reforzar": 11
         },
         "Auxiliar de almacen": {
-          "avg": 83.72727272727273,
-          "fav": 60.0,
-          "n": 5,
-          "apto": 3,
-          "reforzar": 2
+          "avg": 87.82828282828284,
+          "fav": 66.66666666666666,
+          "n": 9,
+          "apto": 6,
+          "reforzar": 3
         },
         "Conductor": {
-          "avg": 86.45454545454545,
-          "fav": 72.0,
-          "n": 25,
-          "apto": 18,
-          "reforzar": 7
+          "avg": 85.4079254079254,
+          "fav": 71.7948717948718,
+          "n": 39,
+          "apto": 28,
+          "reforzar": 11
+        },
+        "Gestión Administrativa": {
+          "avg": 87.27272727272727,
+          "fav": 100.0,
+          "n": 1,
+          "apto": 1,
+          "reforzar": 0
         },
         "Líder de Ruta": {
-          "avg": 79.69696969696969,
-          "fav": 44.44444444444444,
-          "n": 9,
-          "apto": 4,
-          "reforzar": 5
+          "avg": 78.86363636363636,
+          "fav": 50.0,
+          "n": 12,
+          "apto": 6,
+          "reforzar": 6
         },
         "Montacarguista": {
-          "avg": 92.36363636363635,
-          "fav": 80.0,
-          "n": 5,
-          "apto": 4,
-          "reforzar": 1
+          "avg": 89.89898989898991,
+          "fav": 66.66666666666666,
+          "n": 9,
+          "apto": 6,
+          "reforzar": 3
         },
         "Responsable de Reparto": {
-          "avg": 86.07954545454545,
-          "fav": 75.0,
-          "n": 16,
-          "apto": 12,
-          "reforzar": 4
+          "avg": 85.23923444976076,
+          "fav": 73.68421052631578,
+          "n": 19,
+          "apto": 14,
+          "reforzar": 5
         },
         "Verificador": {
-          "avg": 58.40909090909091,
-          "fav": 50.0,
-          "n": 2,
-          "apto": 1,
+          "avg": 68.7878787878788,
+          "fav": 66.66666666666666,
+          "n": 3,
+          "apto": 2,
           "reforzar": 1
         }
       },
@@ -43614,371 +46188,281 @@ const DATA = {
         },
         "Auxiliar de Distribución": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 92.3529411764706,
-            "fav": 88.23529411764706
+            "avg": 89.0909090909091,
+            "fav": 81.81818181818183
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 93.52941176470588,
-            "fav": 91.17647058823529
+            "avg": 88.86363636363636,
+            "fav": 84.0909090909091
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 90.58823529411765,
-            "fav": 82.35294117647058
+            "avg": 88.4090909090909,
+            "fav": 79.54545454545455
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 92.05882352941177,
-            "fav": 85.29411764705883
+            "avg": 89.54545454545455,
+            "fav": 81.81818181818183
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 83.23529411764706,
-            "fav": 76.47058823529412
+            "avg": 78.63636363636364,
+            "fav": 70.45454545454545
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 89.70588235294117,
-            "fav": 82.35294117647058
+            "avg": 83.4090909090909,
+            "fav": 72.72727272727273
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 89.70588235294117,
-            "fav": 85.29411764705883
+            "avg": 84.77272727272727,
+            "fav": 79.54545454545455
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 89.11764705882354,
-            "fav": 82.35294117647058
+            "avg": 85.22727272727273,
+            "fav": 75.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 88.23529411764706,
-            "fav": 79.41176470588235
+            "avg": 83.86363636363636,
+            "fav": 72.72727272727273
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 88.82352941176471,
-            "fav": 79.41176470588235
+            "avg": 86.13636363636364,
+            "fav": 77.27272727272727
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 91.17647058823529,
-            "fav": 85.29411764705883
+            "avg": 86.81818181818181,
+            "fav": 79.54545454545455
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 87.05882352941177,
-            "fav": 82.35294117647058
+            "avg": 83.86363636363636,
+            "fav": 75.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 93.82352941176471,
-            "fav": 91.17647058823529
+            "avg": 90.68181818181819,
+            "fav": 86.36363636363636
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 87.94117647058823,
-            "fav": 82.35294117647058
+            "avg": 85.22727272727273,
+            "fav": 77.27272727272727
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 85.29411764705883,
-            "fav": 73.52941176470588
+            "avg": 82.72727272727273,
+            "fav": 70.45454545454545
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 89.41176470588235,
-            "fav": 82.35294117647058
+            "avg": 85.9090909090909,
+            "fav": 77.27272727272727
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 92.05882352941177,
-            "fav": 88.23529411764706
+            "avg": 88.4090909090909,
+            "fav": 79.54545454545455
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 92.94117647058823,
-            "fav": 91.17647058823529
+            "avg": 89.0909090909091,
+            "fav": 84.0909090909091
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 85.58823529411765,
-            "fav": 79.41176470588235
+            "avg": 83.86363636363636,
+            "fav": 77.27272727272727
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 87.05882352941177,
-            "fav": 76.47058823529412
+            "avg": 83.63636363636364,
+            "fav": 70.45454545454545
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 90.29411764705883,
-            "fav": 85.29411764705883
+            "avg": 88.18181818181819,
+            "fav": 81.81818181818183
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 89.41176470588235,
-            "fav": 85.29411764705883
+            "avg": 85.22727272727273,
+            "fav": 77.27272727272727
           }
         },
         "Auxiliar de almacen": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 88.0,
-            "fav": 80.0
+            "avg": 93.33333333333333,
+            "fav": 88.88888888888889
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 92.0,
-            "fav": 100.0
+            "avg": 92.22222222222223,
+            "fav": 88.88888888888889
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 72.0,
-            "fav": 80.0
+            "avg": 81.11111111111111,
+            "fav": 77.77777777777779
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 72.0,
-            "fav": 60.0
+            "avg": 84.44444444444444,
+            "fav": 77.77777777777779
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 56.0,
-            "fav": 60.0
+            "avg": 66.66666666666667,
+            "fav": 66.66666666666666
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 76.0,
-            "fav": 80.0
+            "avg": 81.11111111111111,
+            "fav": 77.77777777777779
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 82.0,
-            "fav": 60.0
+            "avg": 83.33333333333333,
+            "fav": 66.66666666666666
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 64.0,
-            "fav": 60.0
+            "avg": 76.66666666666667,
+            "fav": 66.66666666666666
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 94.0,
+            "avg": 96.66666666666667,
             "fav": 100.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 92.0,
-            "fav": 100.0
+            "avg": 91.11111111111111,
+            "fav": 88.88888888888889
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 90.0,
-            "fav": 100.0
+            "avg": 88.88888888888889,
+            "fav": 88.88888888888889
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 84.0,
-            "fav": 80.0
+            "avg": 90.0,
+            "fav": 88.88888888888889
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 82.0,
-            "fav": 80.0
+            "avg": 87.77777777777777,
+            "fav": 88.88888888888889
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 92.0,
+            "avg": 92.22222222222223,
             "fav": 100.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 86.0,
-            "fav": 80.0
+            "avg": 91.11111111111111,
+            "fav": 88.88888888888889
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 84.0,
-            "fav": 80.0
+            "avg": 90.0,
+            "fav": 88.88888888888889
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 88.0,
-            "fav": 80.0
+            "avg": 91.11111111111111,
+            "fav": 88.88888888888889
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 86.0,
-            "fav": 80.0
+            "avg": 87.77777777777777,
+            "fav": 77.77777777777779
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 88.0,
-            "fav": 80.0
+            "avg": 88.88888888888889,
+            "fav": 77.77777777777779
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 92.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 88.0,
-            "fav": 80.0
+            "avg": 90.0,
+            "fav": 88.88888888888889
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 94.0,
-            "fav": 80.0
+            "avg": 94.44444444444444,
+            "fav": 88.88888888888889
           }
         },
         "Conductor": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 90.4,
-            "fav": 88.0
+            "avg": 90.51282051282051,
+            "fav": 87.17948717948718
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 89.2,
-            "fav": 76.0
+            "avg": 89.23076923076923,
+            "fav": 79.48717948717949
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 92.8,
-            "fav": 92.0
+            "avg": 91.28205128205128,
+            "fav": 89.74358974358975
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 92.0,
-            "fav": 84.0
+            "avg": 92.05128205128206,
+            "fav": 84.61538461538461
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 80.8,
-            "fav": 68.0
+            "avg": 80.0,
+            "fav": 69.23076923076923
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 84.0,
-            "fav": 68.0
+            "avg": 81.53846153846153,
+            "fav": 69.23076923076923
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 88.8,
-            "fav": 80.0
+            "avg": 85.8974358974359,
+            "fav": 79.48717948717949
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 86.4,
-            "fav": 80.0
+            "avg": 85.38461538461539,
+            "fav": 76.92307692307693
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 83.2,
-            "fav": 68.0
+            "avg": 81.02564102564102,
+            "fav": 66.66666666666666
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 82.8,
-            "fav": 76.0
+            "avg": 79.48717948717949,
+            "fav": 71.7948717948718
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 86.4,
-            "fav": 72.0
+            "avg": 85.38461538461539,
+            "fav": 74.35897435897436
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 87.2,
-            "fav": 80.0
+            "avg": 84.1025641025641,
+            "fav": 79.48717948717949
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 92.0,
-            "fav": 88.0
+            "avg": 90.51282051282051,
+            "fav": 84.61538461538461
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 83.6,
-            "fav": 68.0
+            "avg": 80.51282051282051,
+            "fav": 66.66666666666666
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 83.2,
-            "fav": 72.0
+            "avg": 83.07692307692308,
+            "fav": 71.7948717948718
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 84.4,
-            "fav": 76.0
+            "avg": 84.87179487179488,
+            "fav": 79.48717948717949
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 87.6,
-            "fav": 84.0
+            "avg": 88.46153846153847,
+            "fav": 84.61538461538461
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 86.8,
-            "fav": 76.0
+            "avg": 86.15384615384616,
+            "fav": 76.92307692307693
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 83.6,
-            "fav": 72.0
+            "avg": 84.61538461538461,
+            "fav": 74.35897435897436
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 81.2,
-            "fav": 64.0
-          },
-          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 87.2,
-            "fav": 84.0
-          },
-          "Considera que este es un lugar seguro para trabajar": {
-            "avg": 88.4,
-            "fav": 84.0
-          }
-        },
-        "Líder de Ruta": {
-          "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 92.22222222222223,
-            "fav": 77.77777777777779
-          },
-          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 84.44444444444444,
-            "fav": 66.66666666666666
-          },
-          "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 83.33333333333333,
-            "fav": 66.66666666666666
-          },
-          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 88.88888888888889,
-            "fav": 77.77777777777779
-          },
-          "Me siento reconocido(a) por mi trabajo": {
-            "avg": 73.33333333333333,
-            "fav": 55.55555555555556
-          },
-          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 71.11111111111111,
-            "fav": 55.55555555555556
-          },
-          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 88.88888888888889,
-            "fav": 77.77777777777779
-          },
-          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 85.55555555555556,
-            "fav": 66.66666666666666
-          },
-          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 72.22222222222223,
-            "fav": 55.55555555555556
-          },
-          "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 71.11111111111111,
-            "fav": 44.44444444444444
-          },
-          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 75.55555555555556,
-            "fav": 55.55555555555556
-          },
-          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 71.11111111111111,
-            "fav": 44.44444444444444
-          },
-          "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 81.11111111111111,
-            "fav": 55.55555555555556
-          },
-          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 74.44444444444444,
-            "fav": 55.55555555555556
-          },
-          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 73.33333333333333,
-            "fav": 44.44444444444444
-          },
-          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 76.66666666666667,
-            "fav": 44.44444444444444
-          },
-          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 82.22222222222223,
-            "fav": 66.66666666666666
-          },
-          "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 86.66666666666667,
-            "fav": 77.77777777777779
-          },
-          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 71.11111111111111,
-            "fav": 44.44444444444444
-          },
-          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 82.22222222222223,
+            "avg": 82.05128205128206,
             "fav": 66.66666666666666
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 85.55555555555556,
-            "fav": 66.66666666666666
+            "avg": 85.38461538461539,
+            "fav": 82.05128205128204
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 82.22222222222223,
-            "fav": 77.77777777777779
+            "avg": 87.43589743589743,
+            "fav": 82.05128205128204
           }
         },
-        "Montacarguista": {
+        "Gestión Administrativa": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 94.0,
+            "avg": 100.0,
             "fav": 100.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 98.0,
+            "avg": 100.0,
             "fav": 100.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
@@ -43986,259 +46470,439 @@ const DATA = {
             "fav": 100.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 98.0,
+            "avg": 100.0,
             "fav": 100.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 96.0,
-            "fav": 100.0
+            "avg": 60.0,
+            "fav": 0.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 92.0,
-            "fav": 80.0
+            "avg": 60.0,
+            "fav": 0.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 96.0,
+            "avg": 80.0,
             "fav": 100.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
             "avg": 90.0,
-            "fav": 80.0
+            "fav": 100.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
             "avg": 90.0,
-            "fav": 80.0
+            "fav": 100.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 94.0,
-            "fav": 80.0
+            "avg": 90.0,
+            "fav": 100.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 92.0,
-            "fav": 80.0
+            "avg": 90.0,
+            "fav": 100.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 96.0,
+            "avg": 90.0,
             "fav": 100.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 98.0,
+            "avg": 90.0,
             "fav": 100.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 86.0,
-            "fav": 80.0
+            "avg": 90.0,
+            "fav": 100.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 80.0,
-            "fav": 60.0
+            "avg": 90.0,
+            "fav": 100.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 84.0,
-            "fav": 60.0
+            "avg": 90.0,
+            "fav": 100.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 96.0,
+            "avg": 90.0,
             "fav": 100.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 92.0,
-            "fav": 100.0
+            "avg": 70.0,
+            "fav": 0.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 86.0,
-            "fav": 80.0
+            "avg": 90.0,
+            "fav": 100.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 90.0,
-            "fav": 80.0
+            "avg": 80.0,
+            "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
             "avg": 90.0,
-            "fav": 80.0
+            "fav": 100.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 94.0,
+            "avg": 90.0,
+            "fav": 100.0
+          }
+        },
+        "Líder de Ruta": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 88.33333333333333,
+            "fav": 75.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 85.0,
+            "fav": 66.66666666666666
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 85.0,
+            "fav": 75.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 91.66666666666667,
+            "fav": 83.33333333333334
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 71.66666666666667,
+            "fav": 50.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 71.66666666666667,
+            "fav": 58.333333333333336
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 90.0,
+            "fav": 83.33333333333334
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 83.33333333333333,
+            "fav": 66.66666666666666
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 60.833333333333336,
+            "fav": 41.66666666666667
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 62.5,
+            "fav": 33.33333333333333
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 77.5,
+            "fav": 58.333333333333336
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 69.16666666666667,
+            "fav": 41.66666666666667
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 79.16666666666667,
+            "fav": 58.333333333333336
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 75.0,
+            "fav": 58.333333333333336
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 75.0,
+            "fav": 50.0
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 77.5,
+            "fav": 50.0
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 82.5,
+            "fav": 66.66666666666666
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 89.16666666666667,
+            "fav": 83.33333333333334
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 74.16666666666667,
+            "fav": 50.0
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 82.5,
+            "fav": 66.66666666666666
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 81.66666666666667,
+            "fav": 66.66666666666666
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 81.66666666666667,
+            "fav": 75.0
+          }
+        },
+        "Montacarguista": {
+          "Me siento orgulloso(a) de trabajar en la compañía": {
+            "avg": 91.11111111111111,
+            "fav": 100.0
+          },
+          "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
+            "avg": 93.33333333333333,
+            "fav": 100.0
+          },
+          "Tengo impacto directo en el logro de mis objetivos": {
+            "avg": 95.55555555555556,
+            "fav": 100.0
+          },
+          "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
+            "avg": 96.66666666666667,
+            "fav": 100.0
+          },
+          "Me siento reconocido(a) por mi trabajo": {
+            "avg": 94.44444444444444,
+            "fav": 100.0
+          },
+          "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
+            "avg": 91.11111111111111,
+            "fav": 88.88888888888889
+          },
+          "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
+            "avg": 91.11111111111111,
+            "fav": 88.88888888888889
+          },
+          "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
+            "avg": 88.88888888888889,
+            "fav": 88.88888888888889
+          },
+          "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
+            "avg": 87.77777777777777,
+            "fav": 77.77777777777779
+          },
+          "Recomendaría a mi jefe directo a otras personas": {
+            "avg": 91.11111111111111,
+            "fav": 77.77777777777779
+          },
+          "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
+            "avg": 88.88888888888889,
+            "fav": 77.77777777777779
+          },
+          "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
+            "avg": 90.0,
+            "fav": 88.88888888888889
+          },
+          "Puedo ser yo mismo(a) en el trabajo": {
+            "avg": 94.44444444444444,
+            "fav": 100.0
+          },
+          "Puedo denunciar prácticas poco éticas sin temor a represalias": {
+            "avg": 83.33333333333333,
+            "fav": 77.77777777777779
+          },
+          "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
+            "avg": 75.55555555555556,
+            "fav": 55.55555555555556
+          },
+          "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
+            "avg": 84.44444444444444,
+            "fav": 66.66666666666666
+          },
+          "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
+            "avg": 95.55555555555556,
+            "fav": 100.0
+          },
+          "Recomendaría mi empresa como un excelente lugar para trabajar": {
+            "avg": 92.22222222222223,
+            "fav": 100.0
+          },
+          "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
+            "avg": 85.55555555555556,
+            "fav": 77.77777777777779
+          },
+          "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
+            "avg": 86.66666666666667,
+            "fav": 77.77777777777779
+          },
+          "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
+            "avg": 86.66666666666667,
+            "fav": 77.77777777777779
+          },
+          "Considera que este es un lugar seguro para trabajar": {
+            "avg": 93.33333333333333,
             "fav": 100.0
           }
         },
         "Responsable de Reparto": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 90.0,
-            "fav": 87.5
+            "avg": 91.05263157894737,
+            "fav": 89.47368421052632
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 91.875,
-            "fav": 87.5
+            "avg": 92.63157894736842,
+            "fav": 89.47368421052632
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 92.5,
-            "fav": 93.75
+            "avg": 91.57894736842105,
+            "fav": 89.47368421052632
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 91.875,
-            "fav": 87.5
+            "avg": 92.63157894736842,
+            "fav": 89.47368421052632
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 85.0,
-            "fav": 81.25
+            "avg": 81.05263157894737,
+            "fav": 73.68421052631578
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 81.25,
-            "fav": 68.75
+            "avg": 77.89473684210526,
+            "fav": 63.1578947368421
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 88.75,
-            "fav": 87.5
+            "avg": 84.73684210526316,
+            "fav": 84.21052631578947
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 86.875,
-            "fav": 87.5
+            "avg": 83.15789473684211,
+            "fav": 84.21052631578947
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 81.25,
-            "fav": 68.75
+            "avg": 82.63157894736842,
+            "fav": 73.68421052631578
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 82.5,
-            "fav": 62.5
+            "avg": 84.21052631578948,
+            "fav": 68.42105263157895
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 85.0,
-            "fav": 75.0
+            "avg": 86.3157894736842,
+            "fav": 78.94736842105263
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 86.25,
-            "fav": 81.25
+            "avg": 85.26315789473684,
+            "fav": 78.94736842105263
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 91.25,
-            "fav": 93.75
+            "avg": 92.10526315789474,
+            "fav": 94.73684210526315
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 84.375,
-            "fav": 68.75
+            "avg": 85.78947368421052,
+            "fav": 73.68421052631578
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 82.5,
-            "fav": 75.0
+            "avg": 81.57894736842105,
+            "fav": 73.68421052631578
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 83.75,
-            "fav": 68.75
+            "avg": 83.15789473684211,
+            "fav": 68.42105263157895
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 86.875,
-            "fav": 87.5
+            "avg": 86.3157894736842,
+            "fav": 84.21052631578947
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 87.5,
-            "fav": 81.25
+            "avg": 87.36842105263158,
+            "fav": 78.94736842105263
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 83.75,
-            "fav": 75.0
+            "avg": 81.05263157894737,
+            "fav": 73.68421052631578
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 72.5,
-            "fav": 62.5
+            "avg": 69.47368421052632,
+            "fav": 57.89473684210527
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 87.5,
-            "fav": 81.25
+            "avg": 85.78947368421052,
+            "fav": 78.94736842105263
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 90.625,
-            "fav": 93.75
+            "avg": 89.47368421052632,
+            "fav": 89.47368421052632
           }
         },
         "Verificador": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 65.0,
-            "fav": 50.0
+            "avg": 76.66666666666667,
+            "fav": 66.66666666666666
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 50.0,
-            "fav": 50.0
+            "avg": 66.66666666666667,
+            "fav": 66.66666666666666
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 55.0,
-            "fav": 50.0
+            "avg": 70.0,
+            "fav": 66.66666666666666
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 50.0,
-            "fav": 50.0
+            "avg": 66.66666666666667,
+            "fav": 66.66666666666666
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 45.0,
-            "fav": 50.0
+            "avg": 50.0,
+            "fav": 33.33333333333333
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 40.0,
-            "fav": 50.0
+            "avg": 46.666666666666664,
+            "fav": 33.33333333333333
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 45.0,
-            "fav": 50.0
+            "avg": 50.0,
+            "fav": 33.33333333333333
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 40.0,
-            "fav": 50.0
+            "avg": 56.666666666666664,
+            "fav": 66.66666666666666
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 50.0,
-            "fav": 50.0
+            "avg": 63.333333333333336,
+            "fav": 66.66666666666666
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 55.0,
-            "fav": 50.0
+            "avg": 66.66666666666667,
+            "fav": 66.66666666666666
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 45.0,
-            "fav": 50.0
+            "avg": 60.0,
+            "fav": 66.66666666666666
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 55.0,
-            "fav": 50.0
+            "avg": 70.0,
+            "fav": 66.66666666666666
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 65.0,
-            "fav": 50.0
+            "avg": 76.66666666666667,
+            "fav": 66.66666666666666
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 65.0,
-            "fav": 50.0
+            "avg": 76.66666666666667,
+            "fav": 66.66666666666666
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 65.0,
-            "fav": 50.0
+            "avg": 66.66666666666667,
+            "fav": 33.33333333333333
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 80.0,
-            "fav": 50.0
+            "avg": 83.33333333333333,
+            "fav": 66.66666666666666
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 50.0,
-            "fav": 50.0
+            "avg": 63.333333333333336,
+            "fav": 66.66666666666666
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 40.0,
-            "fav": 50.0
+            "avg": 60.0,
+            "fav": 66.66666666666666
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 70.0,
-            "fav": 50.0
+            "avg": 80.0,
+            "fav": 66.66666666666666
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 90.0,
+            "avg": 93.33333333333333,
             "fav": 100.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 85.0,
+            "avg": 86.66666666666667,
             "fav": 100.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 80.0,
+            "avg": 83.33333333333333,
             "fav": 100.0
           }
         }
@@ -44246,139 +46910,139 @@ const DATA = {
     },
     "DC Tocancipa": {
       "region": "Centro",
-      "avg": 90.43181818181819,
-      "fav": 80.0,
-      "n": 80,
+      "avg": 89.94388327721661,
+      "fav": 79.01234567901234,
+      "n": 81,
       "apto": 64,
-      "reforzar": 16,
+      "reforzar": 17,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 92.375,
-          "fav": 88.75
-        },
-        "Cultura e Inclusión": {
-          "avg": 89.66666666666667,
-          "fav": 85.0
-        },
-        "Orgullo & Compromiso": {
-          "avg": 92.375,
-          "fav": 89.375
-        },
-        "Desarrollo Profesional": {
-          "avg": 89.4375,
-          "fav": 81.875
-        },
-        "Comunicación": {
-          "avg": 90.4375,
-          "fav": 83.125
-        },
-        "Seguridad & Recursos": {
-          "avg": 91.46875,
-          "fav": 88.4375
+          "avg": 91.85185185185185,
+          "fav": 87.65432098765432
         },
         "Liderazgo": {
-          "avg": 89.875,
-          "fav": 84.16666666666667
+          "avg": 89.42386831275721,
+          "fav": 83.1275720164609
+        },
+        "Orgullo & Compromiso": {
+          "avg": 91.85185185185185,
+          "fav": 88.27160493827161
+        },
+        "Desarrollo Profesional": {
+          "avg": 88.95061728395062,
+          "fav": 80.8641975308642
+        },
+        "Comunicación": {
+          "avg": 89.93827160493827,
+          "fav": 82.09876543209876
+        },
+        "Seguridad & Recursos": {
+          "avg": 90.95679012345678,
+          "fav": 87.34567901234568
         },
         "Reconocimiento": {
-          "avg": 85.5,
-          "fav": 77.5
+          "avg": 85.06172839506173,
+          "fav": 76.5432098765432
+        },
+        "Cultura e Inclusión": {
+          "avg": 89.21810699588477,
+          "fav": 83.9506172839506
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 91.75,
-          "fav": 88.75
+          "avg": 91.23456790123457,
+          "fav": 87.65432098765432
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 92.625,
-          "fav": 88.75
+          "avg": 92.09876543209876,
+          "fav": 87.65432098765432
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 91.0,
-          "fav": 87.5
+          "avg": 90.49382716049382,
+          "fav": 86.41975308641975
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 94.125,
-          "fav": 92.5
+          "avg": 93.58024691358025,
+          "fav": 91.35802469135803
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 85.875,
-          "fav": 77.5
+          "avg": 85.4320987654321,
+          "fav": 76.5432098765432
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-          "avg": 85.125,
-          "fav": 77.5
+          "avg": 84.69135802469135,
+          "fav": 76.5432098765432
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 90.625,
-          "fav": 82.5
+          "avg": 90.12345679012346,
+          "fav": 81.48148148148148
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 88.25,
-          "fav": 81.25
+          "avg": 87.77777777777777,
+          "fav": 80.24691358024691
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 89.25,
-          "fav": 82.5
+          "avg": 88.76543209876543,
+          "fav": 81.48148148148148
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 90.125,
-          "fav": 82.5
+          "avg": 89.75308641975309,
+          "fav": 81.48148148148148
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 90.25,
-          "fav": 87.5
+          "avg": 89.75308641975309,
+          "fav": 86.41975308641975
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 90.125,
-          "fav": 86.25
+          "avg": 89.75308641975309,
+          "fav": 85.18518518518519
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 92.0,
-          "fav": 88.75
+          "avg": 91.48148148148148,
+          "fav": 87.65432098765432
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 86.875,
-          "fav": 80.0
+          "avg": 86.41975308641975,
+          "fav": 79.01234567901234
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 89.125,
-          "fav": 80.0
+          "avg": 88.64197530864197,
+          "fav": 79.01234567901234
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 91.75,
-          "fav": 86.25
+          "avg": 91.23456790123457,
+          "fav": 85.18518518518519
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 93.0,
-          "fav": 87.5
+          "avg": 92.46913580246914,
+          "fav": 86.41975308641975
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 91.75,
-          "fav": 90.0
+          "avg": 91.23456790123457,
+          "fav": 88.88888888888889
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 92.125,
-          "fav": 90.0
+          "avg": 91.60493827160494,
+          "fav": 88.88888888888889
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-          "avg": 90.625,
-          "fav": 83.75
+          "avg": 90.12345679012346,
+          "fav": 82.71604938271605
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 91.375,
-          "fav": 90.0
+          "avg": 90.8641975308642,
+          "fav": 88.88888888888889
         },
         "Considera que este es un lugar seguro para trabajar": {
-          "avg": 91.75,
-          "fav": 90.0
+          "avg": 91.23456790123457,
+          "fav": 88.88888888888889
         }
       },
       "operators": {
         "Transporte": {
-          "n": 80,
-          "avg": 90.43181818181819
+          "n": 81,
+          "avg": 89.94388327721661
         }
       },
       "cargos": {
@@ -44390,11 +47054,11 @@ const DATA = {
           "reforzar": 3
         },
         "Conductor": {
-          "avg": 89.14772727272727,
-          "fav": 75.0,
-          "n": 24,
+          "avg": 87.61818181818182,
+          "fav": 72.0,
+          "n": 25,
           "apto": 18,
-          "reforzar": 6
+          "reforzar": 7
         },
         "Conductor de Patio": {
           "avg": 100.0,
@@ -44532,92 +47196,92 @@ const DATA = {
         },
         "Conductor": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 90.83333333333333,
-            "fav": 87.5
+            "avg": 89.2,
+            "fav": 84.0
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 93.75,
-            "fav": 91.66666666666666
+            "avg": 92.0,
+            "fav": 88.0
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 89.58333333333333,
-            "fav": 83.33333333333334
+            "avg": 88.0,
+            "fav": 80.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 96.66666666666667,
-            "fav": 95.83333333333334
+            "avg": 94.8,
+            "fav": 92.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 82.5,
-            "fav": 75.0
+            "avg": 81.2,
+            "fav": 72.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 79.58333333333333,
-            "fav": 75.0
+            "avg": 78.4,
+            "fav": 72.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 87.91666666666667,
-            "fav": 83.33333333333334
+            "avg": 86.4,
+            "fav": 80.0
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 84.16666666666667,
-            "fav": 70.83333333333334
+            "avg": 82.8,
+            "fav": 68.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 86.25,
-            "fav": 79.16666666666666
+            "avg": 84.8,
+            "fav": 76.0
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 87.91666666666667,
-            "fav": 79.16666666666666
+            "avg": 86.8,
+            "fav": 76.0
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 87.91666666666667,
-            "fav": 83.33333333333334
+            "avg": 86.4,
+            "fav": 80.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 85.0,
-            "fav": 83.33333333333334
+            "avg": 84.0,
+            "fav": 80.0
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 92.08333333333333,
-            "fav": 95.83333333333334
+            "avg": 90.4,
+            "fav": 92.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 87.5,
-            "fav": 83.33333333333334
+            "avg": 86.0,
+            "fav": 80.0
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 87.08333333333333,
-            "fav": 79.16666666666666
+            "avg": 85.6,
+            "fav": 76.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 91.66666666666667,
-            "fav": 87.5
+            "avg": 90.0,
+            "fav": 84.0
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 92.08333333333333,
-            "fav": 83.33333333333334
+            "avg": 90.4,
+            "fav": 80.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 93.75,
-            "fav": 95.83333333333334
+            "avg": 92.0,
+            "fav": 92.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 91.25,
-            "fav": 91.66666666666666
+            "avg": 89.6,
+            "fav": 88.0
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 92.08333333333333,
-            "fav": 87.5
+            "avg": 90.4,
+            "fav": 84.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 90.41666666666667,
-            "fav": 83.33333333333334
+            "avg": 88.8,
+            "fav": 80.0
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 91.25,
-            "fav": 91.66666666666666
+            "avg": 89.6,
+            "fav": 88.0
           }
         },
         "Conductor de Patio": {
@@ -45174,9 +47838,9 @@ const DATA = {
           "avg": 83.61111111111111,
           "fav": 76.85185185185185
         },
-        "Cultura e Inclusión": {
-          "avg": 85.8641975308642,
-          "fav": 79.01234567901234
+        "Liderazgo": {
+          "avg": 88.70370370370371,
+          "fav": 83.33333333333334
         },
         "Orgullo & Compromiso": {
           "avg": 84.72222222222223,
@@ -45194,13 +47858,13 @@ const DATA = {
           "avg": 86.89814814814815,
           "fav": 83.33333333333334
         },
-        "Liderazgo": {
-          "avg": 88.70370370370371,
-          "fav": 83.33333333333334
-        },
         "Reconocimiento": {
           "avg": 80.92592592592592,
           "fav": 68.51851851851852
+        },
+        "Cultura e Inclusión": {
+          "avg": 85.8641975308642,
+          "fav": 79.01234567901234
         }
       },
       "questions": {
@@ -46189,9 +48853,9 @@ const DATA = {
           "avg": 89.29906542056075,
           "fav": 88.3177570093458
         },
-        "Cultura e Inclusión": {
-          "avg": 88.17757009345794,
-          "fav": 86.7601246105919
+        "Liderazgo": {
+          "avg": 88.61370716510903,
+          "fav": 87.69470404984425
         },
         "Orgullo & Compromiso": {
           "avg": 90.3855140186916,
@@ -46209,13 +48873,13 @@ const DATA = {
           "avg": 89.41588785046729,
           "fav": 89.36915887850468
         },
-        "Liderazgo": {
-          "avg": 88.61370716510903,
-          "fav": 87.69470404984425
-        },
         "Reconocimiento": {
           "avg": 86.23831775700934,
           "fav": 82.2429906542056
+        },
+        "Cultura e Inclusión": {
+          "avg": 88.17757009345794,
+          "fav": 86.7601246105919
         }
       },
       "questions": {
@@ -47883,9 +50547,9 @@ const DATA = {
           "avg": 96.22191011235955,
           "fav": 97.19101123595506
         },
-        "Cultura e Inclusión": {
-          "avg": 95.33707865168539,
-          "fav": 95.78651685393258
+        "Liderazgo": {
+          "avg": 95.98314606741573,
+          "fav": 97.37827715355806
         },
         "Orgullo & Compromiso": {
           "avg": 96.27808988764045,
@@ -47903,13 +50567,13 @@ const DATA = {
           "avg": 96.10252808988764,
           "fav": 97.89325842696628
         },
-        "Liderazgo": {
-          "avg": 95.98314606741573,
-          "fav": 97.37827715355806
-        },
         "Reconocimiento": {
           "avg": 93.5252808988764,
           "fav": 93.96067415730337
+        },
+        "Cultura e Inclusión": {
+          "avg": 95.33707865168539,
+          "fav": 95.78651685393258
         }
       },
       "questions": {
@@ -49858,139 +52522,139 @@ const DATA = {
     },
     "DC Villavicencio": {
       "region": "Sur",
-      "avg": 81.65235416049748,
-      "fav": 57.65472312703584,
-      "n": 307,
-      "apto": 177,
+      "avg": 81.71192443919716,
+      "fav": 57.7922077922078,
+      "n": 308,
+      "apto": 178,
       "reforzar": 130,
       "dims": {
         "Satisfacción & eNPS": {
-          "avg": 81.77524429967427,
-          "fav": 67.26384364820846
-        },
-        "Cultura e Inclusión": {
-          "avg": 81.72638436482085,
-          "fav": 70.35830618892508
-        },
-        "Orgullo & Compromiso": {
-          "avg": 81.9543973941368,
-          "fav": 67.99674267100977
-        },
-        "Desarrollo Profesional": {
-          "avg": 80.84690553745928,
-          "fav": 66.12377850162866
-        },
-        "Comunicación": {
-          "avg": 82.39413680781759,
-          "fav": 72.80130293159608
-        },
-        "Seguridad & Recursos": {
-          "avg": 82.28827361563518,
-          "fav": 70.27687296416939
+          "avg": 81.83441558441558,
+          "fav": 67.37012987012987
         },
         "Liderazgo": {
-          "avg": 81.17263843648209,
-          "fav": 68.40390879478826
+          "avg": 81.23376623376623,
+          "fav": 68.5064935064935
+        },
+        "Orgullo & Compromiso": {
+          "avg": 82.01298701298701,
+          "fav": 68.10064935064936
+        },
+        "Desarrollo Profesional": {
+          "avg": 80.9090909090909,
+          "fav": 66.23376623376623
+        },
+        "Comunicación": {
+          "avg": 82.4512987012987,
+          "fav": 72.8896103896104
+        },
+        "Seguridad & Recursos": {
+          "avg": 82.34577922077922,
+          "fav": 70.37337662337663
         },
         "Reconocimiento": {
-          "avg": 80.3257328990228,
-          "fav": 66.93811074918567
+          "avg": 80.3896103896104,
+          "fav": 67.04545454545455
+        },
+        "Cultura e Inclusión": {
+          "avg": 81.78571428571429,
+          "fav": 70.45454545454545
         }
       },
       "questions": {
         "Me siento orgulloso(a) de trabajar en la compañía": {
-          "avg": 82.05211726384364,
-          "fav": 69.05537459283387
+          "avg": 82.1103896103896,
+          "fav": 69.15584415584416
         },
         "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-          "avg": 81.36807817589576,
-          "fav": 67.10097719869707
+          "avg": 81.42857142857143,
+          "fav": 67.20779220779221
         },
         "Tengo impacto directo en el logro de mis objetivos": {
-          "avg": 81.07491856677524,
-          "fav": 66.44951140065146
+          "avg": 81.13636363636364,
+          "fav": 66.55844155844156
         },
         "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-          "avg": 83.32247557003258,
-          "fav": 69.38110749185668
+          "avg": 83.37662337662337,
+          "fav": 69.48051948051948
         },
         "Me siento reconocido(a) por mi trabajo": {
-          "avg": 80.74918566775244,
-          "fav": 71.9869706840391
+          "avg": 80.81168831168831,
+          "fav": 72.07792207792207
         },
         "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-          "avg": 79.90228013029316,
-          "fav": 61.88925081433225
+          "avg": 79.96753246753246,
+          "fav": 62.01298701298701
         },
         "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-          "avg": 80.61889250814332,
-          "fav": 67.10097719869707
+          "avg": 80.68181818181819,
+          "fav": 67.20779220779221
         },
         "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-          "avg": 81.07491856677524,
-          "fav": 65.14657980456026
+          "avg": 81.13636363636364,
+          "fav": 65.25974025974025
         },
         "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-          "avg": 81.10749185667753,
-          "fav": 72.31270358306189
+          "avg": 81.16883116883118,
+          "fav": 72.40259740259741
         },
         "Recomendaría a mi jefe directo a otras personas": {
-          "avg": 80.68403908794788,
-          "fav": 65.14657980456026
+          "avg": 80.74675324675324,
+          "fav": 65.25974025974025
         },
         "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-          "avg": 81.72638436482085,
-          "fav": 67.75244299674267
+          "avg": 81.78571428571429,
+          "fav": 67.85714285714286
         },
         "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-          "avg": 83.22475570032573,
-          "fav": 75.57003257328991
+          "avg": 83.27922077922078,
+          "fav": 75.64935064935064
         },
         "Puedo ser yo mismo(a) en el trabajo": {
-          "avg": 80.814332247557,
-          "fav": 65.79804560260585
+          "avg": 80.87662337662337,
+          "fav": 65.9090909090909
         },
         "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-          "avg": 81.1400651465798,
-          "fav": 69.70684039087948
+          "avg": 81.2012987012987,
+          "fav": 69.8051948051948
         },
         "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-          "avg": 82.93159609120521,
-          "fav": 74.9185667752443
+          "avg": 82.98701298701299,
+          "fav": 75.0
         },
         "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-          "avg": 81.85667752442997,
-          "fav": 70.68403908794788
+          "avg": 81.91558441558442,
+          "fav": 70.77922077922078
         },
         "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-          "avg": 81.82410423452768,
-          "fav": 68.07817589576547
+          "avg": 81.88311688311688,
+          "fav": 68.18181818181817
         },
         "Recomendaría mi empresa como un excelente lugar para trabajar": {
-          "avg": 81.72638436482085,
-          "fav": 66.44951140065146
+          "avg": 81.78571428571429,
+          "fav": 66.55844155844156
         },
         "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-          "avg": 82.9641693811075,
-          "fav": 74.9185667752443
+          "avg": 83.01948051948052,
+          "fav": 75.0
         },
         "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-          "avg": 81.82410423452768,
-          "fav": 66.77524429967427
+          "avg": 81.88311688311688,
+          "fav": 66.88311688311688
         },
         "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-          "avg": 82.05211726384364,
-          "fav": 67.10097719869707
+          "avg": 82.1103896103896,
+          "fav": 67.20779220779221
         },
         "Considera que este es un lugar seguro para trabajar": {
-          "avg": 82.31270358306189,
-          "fav": 72.31270358306189
+          "avg": 82.37012987012987,
+          "fav": 72.40259740259741
         }
       },
       "operators": {
         "Transporte": {
-          "n": 307,
-          "avg": 81.65235416049748
+          "n": 308,
+          "avg": 81.71192443919716
         }
       },
       "cargos": {
@@ -50093,10 +52757,10 @@ const DATA = {
           "reforzar": 1
         },
         "Líder de Gente": {
-          "avg": 79.54545454545455,
-          "fav": 57.14285714285714,
-          "n": 7,
-          "apto": 4,
+          "avg": 82.10227272727273,
+          "fav": 62.5,
+          "n": 8,
+          "apto": 5,
           "reforzar": 3
         },
         "Líder de Ruta": {
@@ -51398,92 +54062,92 @@ const DATA = {
         },
         "Líder de Gente": {
           "Me siento orgulloso(a) de trabajar en la compañía": {
-            "avg": 82.85714285714286,
-            "fav": 85.71428571428571
+            "avg": 85.0,
+            "fav": 87.5
           },
           "Me siento motivado(a) a buscar mejores formas de hacer las cosas": {
-            "avg": 72.85714285714286,
-            "fav": 57.14285714285714
+            "avg": 76.25,
+            "fav": 62.5
           },
           "Tengo impacto directo en el logro de mis objetivos": {
-            "avg": 74.28571428571429,
-            "fav": 42.857142857142854
+            "avg": 77.5,
+            "fav": 50.0
           },
           "Tengo la intención de permanecer en mi empresa durante al menos los próximos 12 meses": {
-            "avg": 77.14285714285714,
-            "fav": 71.42857142857143
+            "avg": 80.0,
+            "fav": 75.0
           },
           "Me siento reconocido(a) por mi trabajo": {
-            "avg": 80.0,
-            "fav": 71.42857142857143
+            "avg": 82.5,
+            "fav": 75.0
           },
           "Considero que existe una cultura de reconocimiento entre mi equipo, compañeros y líder": {
-            "avg": 75.71428571428571,
-            "fav": 42.857142857142854
+            "avg": 78.75,
+            "fav": 50.0
           },
           "Tengo suficientes oportunidades para aprender nuevas habilidades y crecer como profesional": {
-            "avg": 72.85714285714286,
-            "fav": 57.14285714285714
+            "avg": 76.25,
+            "fav": 62.5
           },
           "Mi jefe directo me proporciona retroalimentación periódica que me ayuda a desarrollarme": {
-            "avg": 82.85714285714286,
-            "fav": 71.42857142857143
+            "avg": 85.0,
+            "fav": 75.0
           },
           "Mi jefe inmediato crea un entorno seguro donde puedo expresar mis ideas libremente y con respeto": {
-            "avg": 80.0,
-            "fav": 85.71428571428571
+            "avg": 82.5,
+            "fav": 87.5
           },
           "Recomendaría a mi jefe directo a otras personas": {
-            "avg": 78.57142857142857,
-            "fav": 85.71428571428571
+            "avg": 81.25,
+            "fav": 87.5
           },
           "Mi jefe directo vive los 10 principios de la compañía en todo momento": {
-            "avg": 80.0,
-            "fav": 71.42857142857143
+            "avg": 82.5,
+            "fav": 75.0
           },
           "Todos los empleados, independientemente de sus diferencias, reciben un trato justo": {
-            "avg": 84.28571428571429,
-            "fav": 85.71428571428571
+            "avg": 86.25,
+            "fav": 87.5
           },
           "Puedo ser yo mismo(a) en el trabajo": {
-            "avg": 71.42857142857143,
-            "fav": 42.857142857142854
+            "avg": 75.0,
+            "fav": 50.0
           },
           "Puedo denunciar prácticas poco éticas sin temor a represalias": {
-            "avg": 77.14285714285714,
-            "fav": 57.14285714285714
+            "avg": 80.0,
+            "fav": 62.5
           },
           "La comunicación en mi empresa es abierta y transparente, con diálogo bidireccional": {
-            "avg": 88.57142857142857,
+            "avg": 90.0,
             "fav": 100.0
           },
           "Los líderes de mi empresa comunican claramente el propósito y los objetivos a largo plazo": {
-            "avg": 82.85714285714286,
-            "fav": 85.71428571428571
+            "avg": 85.0,
+            "fav": 87.5
           },
           "Estoy satisfecho(a) con la compañía como lugar de trabajo": {
-            "avg": 82.85714285714286,
-            "fav": 71.42857142857143
+            "avg": 85.0,
+            "fav": 75.0
           },
           "Recomendaría mi empresa como un excelente lugar para trabajar": {
-            "avg": 78.57142857142857,
-            "fav": 71.42857142857143
+            "avg": 81.25,
+            "fav": 75.0
           },
           "El personal de Logística del Centro de Distribución sigue todas las reglas y procedimientos de seguridad": {
-            "avg": 87.14285714285714,
-            "fav": 85.71428571428571
+            "avg": 88.75,
+            "fav": 87.5
           },
           "Cuenta con todos los recursos necesarios (ejem: capacitación, EPP´s, tiempo,etc) para realizar el trabajo": {
-            "avg": 82.85714285714286,
-            "fav": 71.42857142857143
+            "avg": 85.0,
+            "fav": 75.0
           },
           "Mi jefe directo refuerza el uso de prácticas de trabajo seguro": {
-            "avg": 77.14285714285714,
-            "fav": 57.14285714285714
+            "avg": 80.0,
+            "fav": 62.5
           },
           "Considera que este es un lugar seguro para trabajar": {
-            "avg": 80.0,
-            "fav": 85.71428571428571
+            "avg": 82.5,
+            "fav": 87.5
           }
         },
         "Líder de Ruta": {
@@ -51950,9 +54614,9 @@ const DATA = {
           "avg": 83.63970588235294,
           "fav": 79.04411764705883
         },
-        "Cultura e Inclusión": {
-          "avg": 82.15686274509804,
-          "fav": 75.49019607843137
+        "Liderazgo": {
+          "avg": 81.59313725490196,
+          "fav": 76.22549019607843
         },
         "Orgullo & Compromiso": {
           "avg": 85.20220588235294,
@@ -51970,13 +54634,13 @@ const DATA = {
           "avg": 85.625,
           "fav": 81.80147058823529
         },
-        "Liderazgo": {
-          "avg": 81.59313725490196,
-          "fav": 76.22549019607843
-        },
         "Reconocimiento": {
           "avg": 80.36764705882354,
           "fav": 72.79411764705883
+        },
+        "Cultura e Inclusión": {
+          "avg": 82.15686274509804,
+          "fav": 75.49019607843137
         }
       },
       "questions": {
@@ -53547,9 +56211,9 @@ const DATA = {
           "avg": 80.5,
           "fav": 71.66666666666667
         },
-        "Cultura e Inclusión": {
-          "avg": 79.77777777777777,
-          "fav": 66.66666666666666
+        "Liderazgo": {
+          "avg": 62.55555555555556,
+          "fav": 44.44444444444444
         },
         "Orgullo & Compromiso": {
           "avg": 88.66666666666667,
@@ -53567,13 +56231,13 @@ const DATA = {
           "avg": 83.41666666666667,
           "fav": 79.16666666666666
         },
-        "Liderazgo": {
-          "avg": 62.55555555555556,
-          "fav": 44.44444444444444
-        },
         "Reconocimiento": {
           "avg": 77.16666666666667,
           "fav": 61.66666666666667
+        },
+        "Cultura e Inclusión": {
+          "avg": 79.77777777777777,
+          "fav": 66.66666666666666
         }
       },
       "questions": {
@@ -54077,9 +56741,9 @@ const DATA = {
           "avg": 80.0,
           "fav": 100.0
         },
-        "Cultura e Inclusión": {
-          "avg": 40.0,
-          "fav": 33.33333333333333
+        "Liderazgo": {
+          "avg": 70.0,
+          "fav": 0.0
         },
         "Orgullo & Compromiso": {
           "avg": 77.5,
@@ -54097,13 +56761,13 @@ const DATA = {
           "avg": 80.0,
           "fav": 100.0
         },
-        "Liderazgo": {
-          "avg": 70.0,
-          "fav": 0.0
-        },
         "Reconocimiento": {
           "avg": 0.0,
           "fav": 0.0
+        },
+        "Cultura e Inclusión": {
+          "avg": 40.0,
+          "fav": 33.33333333333333
         }
       },
       "questions": {
@@ -54316,9 +56980,9 @@ const DATA = {
           "avg": 98.125,
           "fav": 93.75
         },
-        "Cultura e Inclusión": {
-          "avg": 98.33333333333333,
-          "fav": 100.0
+        "Liderazgo": {
+          "avg": 97.91666666666667,
+          "fav": 95.83333333333334
         },
         "Orgullo & Compromiso": {
           "avg": 96.875,
@@ -54336,13 +57000,13 @@ const DATA = {
           "avg": 91.875,
           "fav": 90.625
         },
-        "Liderazgo": {
-          "avg": 97.91666666666667,
-          "fav": 95.83333333333334
-        },
         "Reconocimiento": {
           "avg": 87.5,
           "fav": 68.75
+        },
+        "Cultura e Inclusión": {
+          "avg": 98.33333333333333,
+          "fav": 100.0
         }
       },
       "questions": {
@@ -55225,13 +57889,13 @@ const DATA = {
   },
   "dims": [
     "Satisfacción & eNPS",
-    "Cultura e Inclusión",
+    "Liderazgo",
     "Orgullo & Compromiso",
     "Desarrollo Profesional",
     "Comunicación",
     "Seguridad & Recursos",
-    "Liderazgo",
-    "Reconocimiento"
+    "Reconocimiento",
+    "Cultura e Inclusión"
   ],
   "qcols": [
     "Me siento orgulloso(a) de trabajar en la compañía",
